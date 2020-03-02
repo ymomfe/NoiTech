@@ -1,0 +1,21 @@
+{
+	"type": "genericCrafter",
+	"name": "Sifter",
+	"description": "Sifts sand to receive scrap.",
+	"size": 1,
+	"category": "crafting",
+	"craftTime": 30,
+	"hasItems": true,
+	"consumes": {
+		"items": {
+			"items": [
+				{"item": "sand", "amount": 3}
+			],
+		},
+	},
+	"outputItem": {"item": "scrap", "amount": 1},
+	"requirements": [
+		{"item": "copper", "amount": 35},
+		{"item": "lead", "amount": 25}
+	],
+}

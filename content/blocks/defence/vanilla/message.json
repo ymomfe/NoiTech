@@ -1,0 +1,6 @@
+{
+	"requirements": [
+		{"item": "graphite", "amount": 3},
+		{"item": "iron", "amount": 2}
+	],
+}

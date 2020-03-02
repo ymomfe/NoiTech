@@ -1,0 +1,11 @@
+{
+	"type": "wall",
+	"size": 2,
+	"name": "Large Aluminum Wall",
+	"description": "A moderately strong defensive block.\nProvides moderate protection from enemies.\nSpans multiple tiles.",
+	"health": "1520",
+	"category": "defense",
+	"requirements": [
+		{"item": "dense-alloy", "amount": 24}
+	],
+}

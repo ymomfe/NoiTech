@@ -1,0 +1,23 @@
+{
+	"ammo": {
+		"copper": "standardCopper",
+		"graphite": "standardDense",
+		"pyratite": "standardIncendiary",
+		"silicon": "standardHoming",
+		"dense-alloy": "standardDense",
+		"iron": {
+			"speed": 6.0,
+			"damage": 10,
+			"backColor": "bulletYellow",
+			"frontColor": "bulletYellowBack",
+			"frontColor": "f2f467",
+			"backColor": "e6bd59",
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke"
+		},
+	},
+	"requirements": [
+        {"item": "copper", "amount": 35},
+        {"item": "iron", "amount": 35}
+    ]	
+}

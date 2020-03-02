@@ -1,0 +1,11 @@
+{
+	"requirements": [
+		{"item": "aluminum", "amount": 50},
+        {"item": "copper", "amount": 75},
+        {"item": "dense-alloy", "amount": 60},
+        {"item": "iron", "amount": 75},
+        {"item": "titanium", "amount": 50},
+        {"item": "thorium", "amount": 75},
+        {"item": "silicon", "amount": 60}
+    ]	
+}

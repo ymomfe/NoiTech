@@ -1,0 +1,7 @@
+{
+	"requirements": [
+		{"item": "lead", "amount": 100},
+		{"item": "silicon", "amount": 145},
+		{"item": "phase-fabric", "amount": 15}
+	],
+}

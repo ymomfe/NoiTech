@@ -1,0 +1,29 @@
+{
+	"description": "Melts bauxite into liquid.",
+	"name": "Bauxite Melter",
+	"type": "genericSmelter",
+	"size": 2,
+	"category": "crafting",
+	"liquidCapacity": 15,
+	"craftTime": 55,
+	"hasItems": true,
+	"hasLiquids": true,
+	"hasPower": true,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "bauxite", "amount": 1},
+			],
+		},
+		"power": 1.0,
+	},
+	"outputLiquid": {"liquid": "molten-bauxite", "amount": 2},
+	"requirements": [
+		{"item": "copper", "amount": 175},
+		{"item": "iron", "amount": 175},
+		{"item": "lead", "amount": 200},
+		{"item": "silicon", "amount": 105}
+	],
+	"craftEffect": "smeltsmoke",
+	"idleSound": "machine",
+}

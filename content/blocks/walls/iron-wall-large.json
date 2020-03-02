@@ -1,0 +1,11 @@
+{
+	"type": "wall",
+	"size": 2,
+	"name": "Large Iron Wall",
+	"description": "A cheap defensive block.\nUseful for protecting the core and turrets in the first few waves.\nSpans multiple tiles.",
+	"health": "1120",
+	"category": "defense",
+	"requirements": [
+		{"item": "iron", "amount": 24}
+	],
+}

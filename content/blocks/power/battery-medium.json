@@ -1,0 +1,15 @@
+{
+	"type": "Battery",
+	"name": "Medium Battery",
+	"description": "Stores more power than a regular battery.",
+	"size": 2,
+	"consumes": { "powerBuffered": 20000},
+    "category": "power",
+	"requirements": [
+		{"item": "aluminum", "amount": 25},
+		{"item": "lead", "amount": 30},
+		{"item": "graphite", "amount": 10},
+		{"item": "silicon", "amount": 8}
+		
+	],
+}

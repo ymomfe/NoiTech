@@ -1,0 +1,9 @@
+{
+	"name": "Tainted Water",
+	"description": "Tainted water. Can be filtrated to get spore pods.",
+    "viscosity": 0.5,
+    "temperature": 0.5,
+    "heatCapacity": 0.4,
+    "effect": "wet",
+    "color": "645195"
+}

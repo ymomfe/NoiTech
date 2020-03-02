@@ -1,0 +1,7 @@
+{
+	"type": "OreBlock",
+	"itemDrop": "iron",
+	"hardness": 1.0,
+	"variants": 3,
+	"oreDefault": true
+}

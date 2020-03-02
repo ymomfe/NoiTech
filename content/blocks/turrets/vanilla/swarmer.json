@@ -1,0 +1,9 @@
+{
+	"requirements": [
+		{"item": "aluminum", "amount": 35},
+        {"item": "dense-alloy", "amount": 50},
+        {"item": "graphite", "amount": 35},
+        {"item": "silicon", "amount": 30},
+        {"item": "plastanium", "amount": 45}
+    ]	
+}

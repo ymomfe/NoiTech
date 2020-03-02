@@ -1,0 +1,29 @@
+{
+	"description": "Heats up stone to very high temperatures to obtain lava.",
+	"name": "Stone Melter",
+	"type": "GenericCrafter",
+	"health": 60,
+	"size": 2,
+	"category": "crafting",
+	"itemCapacity": 10,
+	"liquidCapacity": 10,
+	"craftTime": 30,
+	"hasItems": true,
+	"hasLiquids": true,
+	"hasPower": true,
+	"consumes": {
+		"items": {
+			"items": [
+				{"item": "stone", "amount": 1},
+			],
+		},
+		"power": 1,
+	},
+	"outputLiquid": {"liquid": "lava-item", "amount": 1},
+	"requirements": [
+		{"item": "copper", "amount": 30},
+		{"item": "dense-alloy", "amount": 45},
+		{"item": "lead", "amount": 40},
+		{"item": "graphite", "amount": 45}
+	],
+}

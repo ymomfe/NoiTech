@@ -1,0 +1,8 @@
+{
+	"requirements": [
+		{"item": "copper", "amount": 45},
+		{"item": "iron", "amount": 35},
+		{"item": "lead", "amount": 35},
+		{"item": "silicon", "amount": 30}	
+	],
+}

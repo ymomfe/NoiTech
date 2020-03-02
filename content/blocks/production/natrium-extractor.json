@@ -1,0 +1,31 @@
+
+{
+	"description": "Extracts natrium from halite.",
+	"name": "Natrium Extractor",
+	"type": "GenericCrafter",
+	"health": 200,
+	"size": 1,
+	"category": "crafting",
+	"itemCapacity": 10,
+	"liquidCapacity": 10,
+	"craftTime": 10,
+	"hasItems": true,
+	"hasLiquids": true,
+	"hasPower": true,
+	"consumes": {
+		"items": {
+			"items": [
+				{"item": "rock-salt", "amount": 1},
+			],
+		},
+		"liquid": {"liquid": "water", "amount": 0.10},
+		"power": 1,
+	},
+	"outputLiquid": {"liquid": "natrium", "amount": 2},
+	"requirements": [
+		{"item": "iron", "amount": 45},
+		{"item": "graphite", "amount": 45},
+		{"item": "lead", "amount": 45},
+		{"item": "titanium", "amount": 35},
+	],
+}

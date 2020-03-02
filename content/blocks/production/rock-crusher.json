@@ -1,0 +1,28 @@
+{
+	"description": "Crushes stone into sand.",
+	"name": "Rock Crusher",
+	"type": "genericCrafter",
+	"health": 60,
+	"size": 2,
+	"category": "crafting",
+	"craftEffect": "generatespark",
+	"idleSound": "rock-crusher",
+	"itemCapacity": 10,
+	"craftTime": 39.4,
+	"hasItems": true,
+	"hasPower": true,
+	"consumes": {
+		"items": {
+			"items": [
+				{"item": "stone", "amount": 1},
+			],
+		},
+		"power": 0.5,
+	},
+	"outputItem": {"item": "sand", "amount": 1},
+	"requirements": [
+		{"item": "iron", "amount": 35},
+		{"item": "lead", "amount": 25},
+		{"item": "graphite", "amount": 25}	
+	],
+}

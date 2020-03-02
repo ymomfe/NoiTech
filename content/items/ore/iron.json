@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Iron",
+	"description": "One of the most basic structural materials. Used extensively in all types of blocks.",
+	"color": "d6c29e",
+	"hardness": 1.0
+}

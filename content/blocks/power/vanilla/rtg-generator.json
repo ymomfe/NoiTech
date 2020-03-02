@@ -1,0 +1,10 @@
+{
+	"requirements": [
+		{"item": "iron", "amount": 150},
+		{"item": "lead", "amount": 100},
+		{"item": "phase-fabric", "amount": 25},
+		{"item": "plastanium", "amount": 75},
+		{"item": "silicon", "amount": 75},
+		{"item": "thorium", "amount": 50}
+	],
+}

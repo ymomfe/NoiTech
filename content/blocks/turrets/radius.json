@@ -1,0 +1,24 @@
+{
+    "type": "PowerTurret",
+    "name": "Radius",
+    "description": "A small close-range anti-air electric turret. Fires arcs of electriciry at enemies.",
+    "health": 260,
+    "category": "turret",
+    "size": 1,
+    "reload": 35,
+    "shootCone": 40,
+    "shootType": "arc",
+    "rotateSpeed": 20,
+    "powerUse": 1.5,
+    "targetAir": true,
+    "targetGround": false,
+    "range": 90,
+    "shootEffect": "lightningShoot",
+    "heatColor": "Color.red",
+    "recoil": 1,
+    "shootSound": "spark",
+    "requirements": [
+        {"item": "iron", "amount": 35},
+        {"item": "lead", "amount": 50}  
+    ]
+}

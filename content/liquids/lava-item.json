@@ -1,0 +1,8 @@
+{
+	"name": "Lava",
+	"description": "Hot molten or semi-fluid rock erupted from a volcano or fissure.",
+    "viscosity": 0.8,
+    "temperature": 0.8,
+    "effect": "burning",
+    "color": "ff4a12"
+}

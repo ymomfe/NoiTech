@@ -1,0 +1,10 @@
+{
+	"requirements": [
+        {"item": "dense-alloy", "amount": 325},
+        {"item": "iron", "amount": 275},
+        {"item": "lead", "amount": 350},
+        {"item": "graphite", "amount": 300},
+        {"item": "silicon", "amount": 325},
+        {"item": "surge-alloy", "amount": 325}
+    ]	
+}

@@ -1,0 +1,13 @@
+{
+	"buildVisibility": "sandboxOnly",
+	"type": "door",
+	"description": "A huge door. Can be opened and closed by tapping.\nSpans multiple tiles.",
+	"size": 3,
+	"name": "Huge Door",
+	"health": "3600",
+	"category": "defense",
+	"requirements": [
+		{"item": "graphite", "amount": 54},
+		{"item": "silicon", "amount": 36}
+	],	
+}

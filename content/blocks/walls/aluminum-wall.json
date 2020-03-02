@@ -1,0 +1,11 @@
+{
+	"type": "wall",
+	"size": 1,
+	"name": "Aluminum Wall",
+	"description": "A moderately strong defensive block.\nProvides moderate protection from enemies.",
+	"health": "380",
+	"category": "defense",
+	"requirements": [
+		{"item": "aluminum", "amount": 6}
+	],
+}

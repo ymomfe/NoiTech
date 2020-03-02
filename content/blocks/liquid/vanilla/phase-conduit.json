@@ -1,0 +1,10 @@
+{
+	"requirements": [
+		{"item": "aluminum", "amount": 5},
+		{"item": "dense-alloy", "amount": 10},
+		{"item": "metaglass", "amount": 15},
+		{"item": "titanium", "amount": 10},
+		{"item": "silicon", "amount": 7},
+		{"item": "phase-fabric", "amount": 5}		
+	],
+}

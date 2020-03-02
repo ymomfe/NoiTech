@@ -1,0 +1,25 @@
+{
+	"ammo": {
+		"scrap": "flakScrap",
+		"lead": "flakLead",
+		"metaglass": "flakGlass",
+		"iron": {
+			"speed": 6.0,
+			"damage": 3,
+			"splashDamage": 24,
+			"splashDamageRadius": 26,
+			"ammoMultiplier": 5,
+			"backColor": "bulletYellow",
+			"frontColor": "bulletYellowBack",
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke"
+		},
+	},
+	"requirements": [
+        {"item": "copper", "amount": 85},
+        {"item": "iron", "amount": 65},
+        {"item": "lead", "amount": 45}
+    ]
+}

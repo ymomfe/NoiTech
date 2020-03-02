@@ -1,0 +1,11 @@
+{
+	"requirements": [
+		{"item": "aluminum", "amount": 300},
+		{"item": "dense-alloy", "amount": 325},
+		{"item": "graphite", "amount": 325},
+		{"item": "lead", "amount": 225},
+		{"item": "silicon", "amount": 325},
+		{"item": "surge-alloy", "amount": 120},
+		{"item": "thorium", "amount": 300}
+	],
+}

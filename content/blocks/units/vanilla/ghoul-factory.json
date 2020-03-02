@@ -1,0 +1,18 @@
+{
+	"hasItems": true,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "iron", "amount": 20},
+				{ "item": "silicon", "amount": 15},
+				{ "item": "aluminum", "amount": 10}
+			]
+		},
+	},
+	"requirements": [
+		{"item": "taluminum", "amount": 75},
+		{"item": "iron", "amount": 125},
+		{"item": "lead", "amount": 65},
+		{"item": "silicon", "amount": 110}
+	],
+}

@@ -1,0 +1,21 @@
+{
+	"description": "Combines titanium, lead, silicon, copper and iron to produce surge alloy.",
+	"hasItems": true,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "iron", "amount": 2},
+				{ "item": "copper", "amount": 2},
+				{ "item": "lead", "amount": 3},
+				{ "item": "titanium", "amount": 2},
+				{ "item": "silicon", "amount": 3}
+			]
+		},
+	},
+	"requirements": [
+		{"item": "dense-alloy", "amount": 105},
+		{"item": "lead", "amount": 80},
+		{"item": "silicon", "amount": 80},
+		{"item": "thorium", "amount": 70}	
+	],
+}

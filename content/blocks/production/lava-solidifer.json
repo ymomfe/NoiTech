@@ -1,0 +1,25 @@
+{
+	"description": "Cools lava to stone at a fast pece.",
+	"name": "Lava Solidifer",
+	"type": "GenericCrafter",
+	"health": 60,
+	"size": 2,
+	"category": "crafting",
+	"itemCapacity": 10,
+	"liquidCapacity": 10,
+	"craftTime": 30,
+	"hasItems": true,
+	"hasLiquids": true,
+	"hasPower": true,
+	"consumes": {
+		"liquid": {"liquid": "lava-item", "amount": 0.0333},
+		"power": 1,
+	},
+	"outputItem": {"item": "stone", "amount": 1},
+	"requirements": [
+		{"item": "dense-alloy", "amount": 45},
+		{"item": "iron", "amount": 30},
+		{"item": "lead", "amount": 40},
+		{"item": "graphite", "amount": 45}
+	],
+}

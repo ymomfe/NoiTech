@@ -1,0 +1,16 @@
+{
+	"ammo": {
+		"graphite": "standardDenseBig",
+		"pyratite": "standardIncendiaryBig",
+		"thorium": "standardThoriumBig",
+		"dense-alloy": "standardDenseBig"
+		},
+	"requirements": [
+        {"item": "dense-alloy", "amount": 350},
+        {"item": "iron", "amount": 325}
+        {"item": "graphite", "amount": 300},
+        {"item": "thorium", "amount": 250},
+        {"item": "plastanium", "amount": 175},        
+        {"item": "surge-alloy", "amount": 250}
+    ]	
+}

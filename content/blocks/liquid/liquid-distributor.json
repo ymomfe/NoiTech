@@ -1,0 +1,13 @@
+{
+	"type": "LiquidRouter",
+	"name": "Liquid Distributor",
+	"health": 160,
+	"description": "Accepts liquids from any direction and outputs them to up to 7 other directions equally. Can store certain amount of liquid.",
+	"size": 2,
+	"liquidCapacity": 80,
+	"category": "liquid",
+	"requirements": [
+		{"item": "metaglass", "amount": 8},
+		{"item": "graphite", "amount": 16}
+	],
+}

@@ -1,0 +1,11 @@
+{
+	"requirements": [
+		{"item": "aluminum", "amount": 325},
+		{"item": "iron", "amount": 325},
+		{"item": "lead", "amount": 225},
+		{"item": "plastanium", "amount": 300},
+		{"item": "silicon", "amount": 325},
+		{"item": "surge-alloy", "amount": 100},
+		{"item": "thorium", "amount": 300}	
+	],
+}

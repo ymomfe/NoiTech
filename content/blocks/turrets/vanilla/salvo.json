@@ -1,0 +1,27 @@
+{
+	"ammo": {
+		"copper": "standardCopper",
+		"graphite": "standardDense",
+		"pyratite": "standardIncendiary",
+		"silicon": "standardHoming",
+		"thorium": "standardThorium",
+		"dense-alloy": "standardDense",
+		"iron": {
+			"speed": 6.0,
+			"damage": 10,
+			"backColor": "bulletYellow",
+			"frontColor": "bulletYellowBack",
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke"
+		},
+	},
+	"requirements": [
+		{"item": "aluminum", "amount": 45},
+		{"item": "copper", "amount": 105},
+        {"item": "dense-alloy", "amount": 85},
+        {"item": "graphite", "amount": 85},
+        {"item": "titanium", "amount": 45},
+    ]	
+}

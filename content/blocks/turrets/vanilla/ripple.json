@@ -1,0 +1,15 @@
+{
+	"ammo": {
+		"graphite": "artilleryDense",
+		"pyratite": "artilleryIncendiary",
+		"silicon": "artilleryHoming",
+		"blast-compound": "artilleryExplosive",
+		"plastanium": "artilleryPlastic",
+		"dense-alloy": "artilleryDense",
+	},
+	"requirements": [
+        {"item": "dense-alloy", "amount": 175},
+        {"item": "graphite", "amount": 135},
+        {"item": "titanium", "amount": 95}
+    ]	
+}
