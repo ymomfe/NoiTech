@@ -1,0 +1,14 @@
+{
+	"health": 220,
+	"name": "Plated Conduit",
+	"description": "Moves liquids faster than pulse conduit, possesses more armor. Does not accept inputs from the sides from anything but other conduits.",
+	"speed": 0.13,
+	"liquidCapacity": 16,
+	"requirements": [
+		{"item": "aluminum", "amount": 1},
+		{"item": "insulator-alloy", "amount": 1},
+		{"item": "metaglass", "amount": 1},
+		{"item": "titanium", "amount": 1},
+		{"item": "thorium", "amount": 1}
+	],
+}

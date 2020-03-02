@@ -7,10 +7,10 @@
 		},
 	"requirements": [
         {"item": "dense-alloy", "amount": 350},
+        {"item": "insulator-alloy", "amount": 150},
         {"item": "iron", "amount": 325}
         {"item": "graphite", "amount": 300},
-        {"item": "thorium", "amount": 250},
-        {"item": "plastanium", "amount": 175},        
+        {"item": "thorium", "amount": 250},        
         {"item": "surge-alloy", "amount": 250}
     ]	
 }

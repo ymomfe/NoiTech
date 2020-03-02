@@ -4,6 +4,7 @@
 	"description": "Sifts sand to receive scrap.",
 	"size": 1,
 	"category": "crafting",
+	"craftEffect": "pulverize",
 	"craftTime": 30,
 	"hasItems": true,
 	"consumes": {

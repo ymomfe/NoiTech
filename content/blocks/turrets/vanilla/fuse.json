@@ -2,6 +2,7 @@
 	"requirements": [
 		{"item": "aluminum", "amount": 155},
         {"item": "dense-alloy", "amount": 125},
+        {"item": "insulator-alloy", "amount": 95},
         {"item": "iron", "amount": 225}
         {"item": "graphite", "amount": 225},
         {"item": "thorium", "amount": 100},

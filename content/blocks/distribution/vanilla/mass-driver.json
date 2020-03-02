@@ -3,10 +3,10 @@
 		{"item": "aluminum", "amount": 125},
 		{"item": "copper", "amount": 105},
         {"item": "dense-alloy", "amount": 150},
+        {"item": "insulator-alloy", "amount": 75},
         {"item": "iron", "amount": 105},
 		{"item": "lead", "amount": 150},
         {"item": "titanium", "amount": 125},
-        {"item": "thorium", "amount": 75},
-        {"item": "silicon", "amount": 100}
+        {"item": "thorium", "amount": 75}
     ]	
 }

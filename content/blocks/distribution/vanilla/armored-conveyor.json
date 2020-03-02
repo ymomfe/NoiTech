@@ -1,0 +1,14 @@
+{
+	"health": 180,
+	"name": "Armored Conveyor",
+	"description": "Moves items faster than titanium conveyour, possesses more armor. Does not accept inputs from the sides from anything but other conveyor belts.",
+	"speed": 0.13,
+	"itemCapacity": 4,
+	"requirements": [
+		{"item": "aluminum", "amount": 1},
+		{"item": "insulator-alloy", "amount": 1},
+		{"item": "metaglass", "amount": 1},
+		{"item": "titanium", "amount": 1},
+		{"item": "thorium", "amount": 1}
+	],
+}

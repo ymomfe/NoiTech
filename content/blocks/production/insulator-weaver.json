@@ -1,0 +1,31 @@
+{
+	"description": "Synthesizes insulator alloy from plastanium, oil and silicon. Requires massive amounts of power to function.",
+	"name": "Insulator Weaver",
+	"size": 3,
+	"category": "crafting",
+	"craftTime": 90,
+	"liquidCapacity": 45,
+	"hasLiquids": true,
+	"hasItems": true,
+	"hasPower": true,
+	"consumes": {
+		"liquid": {"liquid": "oil", "amount": 0.10},
+		"items": {
+			"items": [
+				{ "item": "plastanium", "amount": 1},
+				{ "item": "silicon", "amount": 1}
+			],
+		},
+		"power": 4.5,
+	},
+	"outputItem": {"item": "insulator-alloy", "amount": 1},
+	"requirements": [
+		{"item": "copper", "amount": 85},
+		{"item": "dense-alloy", "amount": 100},
+		{"item": "iron", "amount": 85},
+		{"item": "lead", "amount": 115},
+		{"item": "silicon", "amount": 105},
+		{"item": "titanium", "amount": 95}
+	],
+	"idleSound": "machine",
+}

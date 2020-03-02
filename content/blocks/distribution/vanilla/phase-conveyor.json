@@ -3,8 +3,8 @@
 		{"item": "aluminum", "amount": 5},
         {"item": "dense-alloy", "amount": 10},
 		{"item": "graphite", "amount": 10},
+		{"item": "insulator-alloy", "amount": 7},
         {"item": "lead", "amount": 10},
-        {"item": "silicon", "amount": 7},
         {"item": "phase-fabric", "amount": 5}
     ]	
 }

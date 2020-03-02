@@ -1,8 +1,8 @@
 {
 	"requirements": [
 		{"item": "graphite", "amount": 60},
+		{"item": "insulator-alloy", "amount": 12},
 		{"item": "lead", "amount": 40},
-		{"item": "silicon", "amount": 20},
 		{"item": "titanium", "amount": 20}
 	],
 }

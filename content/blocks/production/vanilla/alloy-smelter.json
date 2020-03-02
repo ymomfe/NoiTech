@@ -14,8 +14,9 @@
 	},
 	"requirements": [
 		{"item": "dense-alloy", "amount": 105},
+		{"item": "insulator-alloy", "amount": 45},
 		{"item": "lead", "amount": 80},
-		{"item": "silicon", "amount": 80},
+		{"item": "silicon", "amount": 45},
 		{"item": "thorium", "amount": 70}	
 	],
 }
