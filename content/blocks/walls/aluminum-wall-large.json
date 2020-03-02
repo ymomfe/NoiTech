@@ -6,6 +6,6 @@
 	"health": "1520",
 	"category": "defense",
 	"requirements": [
-		{"item": "dense-alloy", "amount": 24}
+		{"item": "aluminum", "amount": 24}
 	],
 }
