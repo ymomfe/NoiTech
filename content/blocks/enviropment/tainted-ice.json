@@ -1,0 +1,6 @@
+{
+	"type": "Floor",
+	"name": "Tainted Ice",
+	"variants": 3,
+	"attributes": { "array": [ 0, 0.4, 0.1, 0 ] }
+}

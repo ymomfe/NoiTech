@@ -1,0 +1,12 @@
+{
+	"type": "wall",
+	"size": 1,
+	"name": "Insulator Alloy Wall",
+	"description": "A special type of wall that absorbs electric arcs and blocks automatic power node connections.",
+	"health": "780",
+	"insulated": true,
+	"category": "defense",
+	"requirements": [
+		{"item": "insulator-alloy", "amount": 5}
+	],
+}
