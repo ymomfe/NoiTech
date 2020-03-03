@@ -1,0 +1,30 @@
+{
+	"type": "genericCrafter",
+	"name": "Sulfur Filter",
+	"health": 180,
+	"description": "Filters sulfur water and outputs clean water.",
+	"size": 3,
+	"liquidCapacity": 240,
+	"category": "crafting",
+	"craftEffect": "generatespark",
+	"craftTime": 60,
+	"hasItems": true,
+	"hasLiquids": true,
+	"hasPowers": true,
+	"consumes": {
+		"liquid": {"liquid": "sulfur-water-item", "amount": 0.5},
+		"items": {
+			"items": [
+				{"item": "sand", "amount": 1}
+			],
+		},
+		"power": 0.25,
+	},
+	"outputLiquid": {"liquid": "water", "amount": 30},
+	"requirements": [
+		{"item": "copper", "amount": 60},
+		{"item": "iron", "amount": 60},
+		{"item": "lead", "amount": 75},
+		{"item": "metaglass", "amount": 35}
+	],
+}

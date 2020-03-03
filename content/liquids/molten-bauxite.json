@@ -1,8 +1,8 @@
 {
 	"name": "Molten Bauxite",
 	"description": "Molten bauxite can be separated into aluminum, titanium, iron and silicon.",
-	"temperature": 0.9,
-    "viscosity": 0.5,
+	"temperature": 1,
+    "viscosity": 0.75,
     "effect": "melting",
     "color": "85473c"
 }

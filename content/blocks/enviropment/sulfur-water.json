@@ -1,0 +1,13 @@
+{
+  "type": "floor",
+  "name": "Sulfur Water",
+  "speedMultiplier": 0.15,
+  "variants": 0,
+  "blendGroup": "water",
+  "isLiquid": true,
+  "drownTime": 140,
+  "liquidDrop": "sulfur-water-item",
+  "status": "wet",
+  "statusDuration": 150,
+  "cacheLayer": "water",
+}

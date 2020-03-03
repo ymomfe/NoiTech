@@ -16,6 +16,17 @@
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke"
 		},
+		"sulfur": {
+			"speed": 6.0,
+			"damage": 7,
+			"backColor": "bulletYellow",
+			"frontColor": "bulletYellowBack",
+			"incendAmount": 1,
+			"incendSpread": 0.01,
+			"incendChance": 0.25,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke"
+		},
 	},
 	"requirements": [
 		{"item": "aluminum", "amount": 45},

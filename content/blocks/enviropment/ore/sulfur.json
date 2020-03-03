@@ -1,0 +1,6 @@
+{
+	"type": "OreBlock",
+	"itemDrop": "sulfur",
+	"hardness": 2.0,
+	"variants": 3
+}

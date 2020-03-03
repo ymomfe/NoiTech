@@ -1,10 +1,10 @@
 {
-	"description": "Mixes coal, lead, sand and sulfur into highly flammable pyratite.",
+	"description": "Mixes lead, sand and sulfur into highly flammable pyratite.",
 	"hasItems": true,
 	"consumes": {
 		"items": {
 			"items": [
-				{ "item": "coal", "amount": 1},
+				{ "item": "sulfur", "amount": 1},
 				{ "item": "lead", "amount": 2},
 				{ "item": "sand", "amount": 2}
 			]
