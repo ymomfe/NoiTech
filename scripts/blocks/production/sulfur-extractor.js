@@ -18,4 +18,4 @@ const sulfurExtractor = extendContent(GenericCrafter, "sulfur-extractor", {
 	
 });
 
-insulatorWeaver.layer = Layer.turret;
+sulfurExtractor.layer = Layer.turret;

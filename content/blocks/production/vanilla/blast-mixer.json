@@ -5,6 +5,7 @@
 		"items": {
 			"items": [
 				{ "item": "pyratite", "amount": 1},
+				{ "item": "sulfur", "amount": 1},
 				{ "item": "spore-pod", "amount": 1}
 			]
 		},

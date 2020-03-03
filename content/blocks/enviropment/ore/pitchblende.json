@@ -1,0 +1,6 @@
+{
+	"type": "OreBlock",
+	"itemDrop": "pitchblende",
+	"hardness": 3.0,
+	"variants": 3
+}

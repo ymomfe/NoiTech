@@ -2,7 +2,7 @@
 	"type": "resource",
 	"name": "Sulfur",
 	"color": "dbcb5f",
-	"description": "The chemical element of atomic number 16, a yellow combustible non-metal. Used in pyratite and flammable compounds production.",
+	"description": "Chemical element used in flammable compounds production.",
 	"hardness": 1.0,
 	"explosiveness": 0.10,
 	"flammability": 1.2
