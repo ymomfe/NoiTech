@@ -1,0 +1,9 @@
+{
+	"buildVisibility": "sandboxOnly",
+	"type": "wall",
+	"size": 2,
+	"variants": 4,
+	"name": "Large Stone Wall",
+	"health": "240",
+	"category": "defense",
+}

@@ -1,7 +1,6 @@
 {
 	"description": "Crushes stone into sand.",
 	"name": "Rock Crusher",
-	"type": "genericCrafter",
 	"health": 60,
 	"size": 2,
 	"category": "crafting",
