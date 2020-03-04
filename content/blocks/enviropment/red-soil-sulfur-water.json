@@ -1,11 +1,10 @@
 {
   "type": "floor",
-  "name": "Sulfur Water",
-  "speedMultiplier": 0.17,
+  "name": "Red Soil Sulfur Water",
+  "speedMultiplier": 0.75,
   "variants": 0,
   "blendGroup": "water",
   "isLiquid": true,
-  "drownTime": 120,
   "liquidDrop": "sulfur-water-item",
   "status": "wet",
   "statusDuration": 150,

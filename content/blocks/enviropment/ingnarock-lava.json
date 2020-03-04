@@ -1,6 +1,6 @@
 {
   "type": "floor",
-  "name": "Lava",
+  "name": "Igna Lava",
   "speedMultiplier": 0.17,
   "variants": 0,
   "blendGroup": "water",
