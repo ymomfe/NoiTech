@@ -2,7 +2,7 @@
 	"type": "wall",
 	"size": 2,
 	"name": "Insulator Alloy Wall",
-	"description": "A special type of wall that absorbs electric arcs and blocks automatic power node connections.\nSpans multiple tiles.",
+	"description": "A special type of wall that absorbs electric arcs and blocks automatic power node connections, possesses more health than plastanium walls.\nSpans multiple tiles.",
 	"health": "3120",
 	"insulated": true,
 	"category": "defense",

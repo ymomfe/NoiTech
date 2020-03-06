@@ -1,4 +1,13 @@
 {
+	"description": "Produces plastanium from light oil and titanium.",
+	"consumes": {
+		"liquid": {"liquid": "light-oil", "amount": 0.25},
+		"items": {
+			"items": [
+				{ "item": "titanium", "amount": 2},
+			]
+		},
+	},
 	"requirements": [
 		{"item": "dense-alloy", "amount": 55},
 		{"item": "graphite", "amount": 65},

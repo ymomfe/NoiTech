@@ -5,7 +5,7 @@
 	"health": 60,
 	"size": 2,
 	"category": "crafting",
-	"craftEffect": "formsmoke",
+	"craftEffect": "pulverize",
 	"itemCapacity": 10,
 	"liquidCapacity": 10,
 	"craftTime": 30,

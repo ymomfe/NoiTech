@@ -1,0 +1,13 @@
+{
+  "type": "floor",
+  "name": "Polluted Water",
+  "speedMultiplier": 0.10,
+  "variants": 0,
+  "blendGroup": "water",
+  "isLiquid": true,
+  "drownTime": 100,
+  "liquidDrop": "polluted-water-item",
+  "status": "wet",
+  "statusDuration": 150,
+  "cacheLayer": "water",
+}

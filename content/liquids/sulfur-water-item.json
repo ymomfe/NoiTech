@@ -1,6 +1,6 @@
 {
 	"name": "Sulfur Water",
-	"description": "This liquid is a condition when the water contains a high amount of hydrogen sulfide.",
+	"description": "Sulfur water is a condition when the water contains a high amount of hydrogen sulfide. Can be filtered.",
     "viscosity": 0.5,
     "temperature": 0.5,
     "heatCapacity": 0.4,

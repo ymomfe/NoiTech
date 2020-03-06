@@ -1,5 +1,5 @@
 {
-	"description": "Mixes Natrium and fine titanium powder into cryofluid. Essential for thorium reactor usage.",
+	"description": "Mixes natrium and fine titanium powder into cryofluid. Essential for thorium reactor usage.",
 	"consumes": {
 		"liquid": {"liquid": "natrium", "amount": 0.20}
 	},

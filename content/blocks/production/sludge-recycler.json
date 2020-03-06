@@ -1,0 +1,32 @@
+{
+	"description": "Recycles sludge into small bits of oil.",
+	"name": "Sludge Recycler",
+	"type": "genericCrafter",
+	"health": 90,
+	"size": 2,
+	"category": "crafting",
+	"craftEffect": "steam",
+	"idleSound": "machine",
+	"liquidCapacity": 10,
+	"itemCapacity": 30,
+	"craftTime": 45,
+	"hasLiquids": true,
+	"hasItems": true,
+	"hasPower": true,
+	"consumes": {
+		"items": {
+			"items": [
+				{"item": "sludge", "amount": 15},
+			],
+		},
+		"power": 0.25,
+	},
+	"outputLiquid": {"liquid": "oil", "amount": 2},
+	"requirements": [
+		{"item": "copper", "amount": 45},
+		{"item": "graphite", "amount": 70},
+		{"item": "lead", "amount": 70},
+		{"item": "iron", "amount": 45}
+		{"item": "titanium", "amount": 30},
+	],
+}

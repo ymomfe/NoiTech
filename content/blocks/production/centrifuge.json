@@ -9,7 +9,7 @@
 	"hasLiquids": true,
 	"hasPower": true,
 	"consumes": {
-		"liquid": {"liquid": "lava-item", "amount": 0.07},
+		"liquid": {"liquid": "lava-item", "amount": 0.14222},
 		"power": 1,
 	},
 	"results": [

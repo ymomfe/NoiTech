@@ -1,0 +1,6 @@
+{
+	"type": "resource",
+	"description": "Oil processing by-product. Can be recycled into raw oil.",
+	"name": "Sludge",
+	"color": "725f45",
+}

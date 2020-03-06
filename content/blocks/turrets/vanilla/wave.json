@@ -16,7 +16,21 @@
 			"liquid": "tainted-water-item",
 			"knockback": 0.7,
 			"status": "wet",
-			"statusDuration": 300
+			"statusDuration": 180
+		},
+		"light-oil": {
+			"type": "LiquidBulletType",
+			"liquid": "light-oil",
+			"damage": 6,
+			"status": "burning",
+			"statusDuration": 200
+		},
+		"heavy-oil": {
+			"type": "LiquidBulletType",
+			"liquid": "heavy-oil",
+			"damage": 6,
+			"status": "burning",
+			"statusDuration": 200
 		},
 	},
 	"requirements": [

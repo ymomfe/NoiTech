@@ -1,5 +1,5 @@
 {
-	"description": "Synthesizes insulator alloy from plastanium, oil and silicon. Requires massive amounts of power to function.",
+	"description": "Parses and combines aluminum, silicon and light oil to sew insulator alloy. Requires massive amounts of power to function.",
 	"name": "Insulator Weaver",
 	"size": 3,
 	"category": "crafting",
@@ -9,10 +9,10 @@
 	"hasItems": true,
 	"hasPower": true,
 	"consumes": {
-		"liquid": {"liquid": "oil", "amount": 0.10},
+		"liquid": {"liquid": "light-oil", "amount": 0.10},
 		"items": {
 			"items": [
-				{ "item": "plastanium", "amount": 1},
+				{ "item": "aluminum", "amount": 1},
 				{ "item": "silicon", "amount": 1}
 			],
 		},

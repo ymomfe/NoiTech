@@ -1,0 +1,9 @@
+{
+	"name": "Light Oil",
+	"description": "Light oil is a liquid that has a low density and flows freely at room temperature. Can be processed in light oil processor to achive fuel.",
+    "viscosity": 0.7,
+    "temperature": 0.8,
+    "heatCapacity": 0.5,
+    "effect": "burning",
+    "color": "ac8a23"
+}

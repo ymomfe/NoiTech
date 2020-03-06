@@ -1,11 +1,11 @@
 {
-	"description": "Crushes and mixes clusters of spores with pyratite and sulfur to produce blast compound.",
+	"description": "Crushes and mixes clusters of spores with pyratite and heavy oil to produce blast compound.",
 	"hasItems": true,
 	"consumes": {
+		"liquid": {"liquid": "heavy-oil", "amount": 0.0369},
 		"items": {
 			"items": [
 				{ "item": "pyratite", "amount": 1},
-				{ "item": "sulfur", "amount": 1},
 				{ "item": "spore-pod", "amount": 1}
 			]
 		},

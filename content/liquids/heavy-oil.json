@@ -1,0 +1,9 @@
+{
+	"name": "Heavy Oil",
+	"description": "Heavy oil are somewhat mobile fluid under naturally existing pressure gradients. Can be processed in heavy oil processor to achive fuel or used to create light oil.",
+    "viscosity": 0.8,
+    "temperature": 1,
+    "heatCapacity": 0.5,
+    "effect": "burning",
+    "color": "a43815"
+}
