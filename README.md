@@ -18,7 +18,7 @@ This mod adds / changes (this information might be outdated):
 	 > Heavy oil processor - Processes heavy oil into fuel
 	 > Chemical plant - Processes heavy oil into light oil
 	 > Light oil orocessor - Processes light oil into fuel
-	 > Polluted water recycler - Recycles polluted water.
+	 > Polluted water recycler - Recycles polluted water
 	 > Smelter and Arc smelter - Smelts iron and lead into dense alloy
 	 > Bauxite smelter - Smelts raw bauxite into iron using coal as fuel
 	 > Bauxite melter - Melts bauxite into liquid
