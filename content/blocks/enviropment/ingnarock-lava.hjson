@@ -1,0 +1,15 @@
+type: floor
+name: Igna Rock Lava
+  
+  isLiquid: true
+
+  variants: 0
+  blendGroup: water
+  cacheLayer: tar
+
+  speedMultiplier: 0.17
+  liquidDrop: lava-liquid
+  status: burning
+  statusDuration: 150
+  drownTime: 200
+  damageTaken: 1

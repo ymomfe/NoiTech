@@ -1,0 +1,6 @@
+requirements: [
+		copper/65
+		graphite/40
+		iron/65
+		lead/30
+	]

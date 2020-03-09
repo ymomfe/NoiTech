@@ -1,9 +1,0 @@
-{
-	"buildVisibility": "sandboxOnly",
-	"type": "wall",
-	"size": 1,
-	"variants": 4,
-	"name": "Stone Wall",
-	"health": "60",
-	"category": "defense",
-}

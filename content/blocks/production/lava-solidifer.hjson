@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: Lava Solidifer
+description: Cools lava to stone at a fast pece.
+	
+	size: 2
+	health: 120
+	category: crafting
+
+	hasPower: true
+	hasItems: true
+	hasLiquids: true
+
+	itemCapacity: 10
+	liquidCapacity: 10
+	craftTime: 30
+
+	consumes: {
+		liquid: {
+			liquid: lava-liquid
+			amount: 0.0333
+		}
+		power: 1
+	}
+
+	outputItem: stone/1
+
+requirements: [
+		dense-alloy/45
+		graphite/45
+		iron/30
+		lead/40
+	]

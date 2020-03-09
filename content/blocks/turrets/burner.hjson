@@ -1,0 +1,77 @@
+type: ItemTurret
+name: Burner
+description: Burns any ground enemies close to it. More efficient than Scorch.
+	
+	size: 2
+	health: 1600
+	category: turret
+	shootEffect: none
+	shootSound: flame
+
+    targetAir: false
+    targetGround: true
+    
+    coolantMultiplier: 2
+	reload: 5
+	shootCone: 50
+	range: 60
+	recoil: 0
+
+ammo: {
+		sulfur: {
+			damage:9
+			ammoMultiplier: 3
+			hitSize: 7
+			lifetime: 42
+			bulletWidth: 1
+    		bulletHeight: 1
+			pierce: true
+			drag: 0.05
+			status: burning
+			statusDuration: 60
+
+			shootEffect: shootSmallFlame
+			hitEffect: hitFlameSmall
+			despawnEffect: none
+		}
+		pyratite: {
+			damage:14
+			ammoMultiplier: 2
+			hitSize: 8
+			lifetime: 42
+			bulletWidth: 1
+    		bulletHeight: 1
+			pierce: true
+			drag: 0.05
+			status: burning
+			statusDuration: 120
+
+			shootEffect: shootSmallFlame
+			hitEffect: hitFlameSmall
+			despawnEffect: none
+		}
+		blast-compound: {
+			damage:21
+			ammoMultiplier: 3
+			hitSize: 10
+			lifetime: 42
+			bulletWidth: 1
+    		bulletHeight: 1
+			pierce: true
+			drag: 0.05
+			status: burning
+			statusDuration: 120
+
+			shootEffect: shootSmallFlame
+			hitEffect: hitFlameSmall
+			despawnEffect: none
+		}
+	}
+
+requirements: [
+		aluminum/105
+		dense-alloy/175
+		iron/200
+		graphite/150
+		titanium/105
+    ]

@@ -1,0 +1,8 @@
+requirements: [
+		aluminum/5
+		dense-alloy/10
+		insulator-alloy/7
+		metaglass/15
+		phase-fabric/5
+		titanium/10
+	]

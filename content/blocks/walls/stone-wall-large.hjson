@@ -1,0 +1,9 @@
+type: wall
+name: Large Stone Wall
+	
+	buildVisibility: sandboxOnly
+	variants: 4
+
+	size: 2
+	health: 240
+	category: defense

@@ -1,0 +1,9 @@
+type: wall
+name: Stone Wall
+	
+	buildVisibility: sandboxOnly
+	variants: 4
+
+	size: 1
+	health: 60
+	category: defense

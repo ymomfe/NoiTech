@@ -1,0 +1,8 @@
+requirements: [
+		copper/150
+		dense-alloy/75
+		graphite/75
+		iron/150
+		lead/250
+		silicon/250
+	]

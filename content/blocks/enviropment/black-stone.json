@@ -1,8 +1,0 @@
-{
-	"type": "Floor",
-	"name": "Black Stone",
-	"variants": 3,
-	"itemDrop": "stone",
-	"hardness": 3.0,
-	"playerUnmineable": true
-}

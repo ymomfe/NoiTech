@@ -1,0 +1,7 @@
+type: material
+name: Iron
+description: One of the most basic structural materials. Used extensively in all types of blocks.
+	
+	hardness: 1
+
+color: d6c29e

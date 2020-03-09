@@ -1,8 +1,0 @@
-{
-	"requirements": [
-		{"item": "aluminum", "amount": 1},
-        {"item": "dense-alloy", "amount": 1},
-        {"item": "lead", "amount": 1},
-        {"item": "titanium", "amount": 1}
-    ]	
-}

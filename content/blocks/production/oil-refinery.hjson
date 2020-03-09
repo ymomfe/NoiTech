@@ -1,0 +1,38 @@
+type: genericCrafter
+name: Oil Refinery
+description: Processes raw oil into heavy oil. Outputs production waste.
+	
+	size: 2
+	health: 120
+	category: crafting
+	craftEffect: steam
+	idleSound: flame
+
+	hasPower: true
+	hasItems: true
+	hasLiquids: true
+
+	itemCapacity: 10
+	liquidCapacity: 100
+	craftTime: 30
+
+	consumes: {
+		liquid: {
+			liquid: oil
+			amount: 0.501
+		}
+		power: 0.5
+	}
+
+	outputItem: sludge/1
+	outputLiquid: {
+		liquid: heavy-oil-liquid
+		amount: 12
+	}
+
+requirements: [
+		copper/55
+		graphite/55
+		iron/60
+		lead/75
+	]

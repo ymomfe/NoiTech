@@ -1,0 +1,27 @@
+type: PowerTurret
+name: Radius
+description: A small close-range anti-air electric turret. Fires arcs of electriciry at enemies.
+    
+    size: 1
+    health: 260
+    category: turret
+    shootEffect: lightningShoot
+    heatColor: Color.red
+    shootSound: spark
+
+    targetAir: true
+    targetGround: false
+    
+    reload: 35
+    shootCone: 40
+    shootType: arc
+    rotateSpeed: 20
+    range: 90
+    recoil: 1
+
+    powerUse: 1.5
+    
+requirements: [
+        iron/35
+        lead/50
+    ]

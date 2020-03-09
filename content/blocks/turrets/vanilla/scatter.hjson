@@ -1,0 +1,25 @@
+ammo: {
+	scrap: flakScrap
+	lead: flakLead
+	metaglass: flakGlass
+	iron: {
+			speed: 6.0
+			damage: 3
+			splashDamage: 24
+			splashDamageRadius: 26
+			ammoMultiplier: 5
+
+			backColor: bulletYellow
+			frontColor: bulletYellowBack
+			shootEffect: shootSmall
+			smokeEffect: shootSmallSmoke
+			bulletWidth: 7
+			bulletHeight: 9
+		}
+	}
+
+requirements: [
+        copper/85
+        iron/65
+        lead/45
+    ]

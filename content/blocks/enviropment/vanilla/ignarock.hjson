@@ -1,0 +1,4 @@
+itemDrop: stone
+	
+	hardness: 3
+	playerUnmineable: true

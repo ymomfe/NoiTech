@@ -1,0 +1,41 @@
+type: cultivator
+name: Tainter
+description: Taints water by using spore pods.
+	
+	size: 2
+	health: 60
+	category: production
+	idleSound: machine
+
+	hasPower: true
+	hasItems: true
+	hasLiquids: true
+
+	itemCapacity: 10
+	liquidCapacity: 10
+	craftTime: 30
+
+	consumes: {
+		items: {
+			items: [
+				spore-pod/1
+			]
+		}
+		liquid: {
+			liquid: water
+			amount: 0.04
+		}
+		power: 0.5
+	}
+
+	outputLiquid: {
+		liquid: tainted-water-liquid
+		amount: 1.2
+	}
+
+requirements: [
+		copper/35
+		dense-alloy/30
+		lead/25
+		silicon/15
+	]

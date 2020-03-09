@@ -1,7 +1,0 @@
-{
-	"type": "resource",
-	"description": "A common raw material. Used for refinig into other materials, or melting into lava.",
-	"name": "Stone",
-	"hardness": 3.0,
-	"color": "666666",
-}

@@ -1,0 +1,11 @@
+type: wall
+name: Large Iron Wall
+description: A cheap defensive block.\nUseful for protecting the core and turrets in the first few waves.
+
+	size: 1
+	health: 280
+	category: defense
+
+requirements: [
+		iron/6
+	]

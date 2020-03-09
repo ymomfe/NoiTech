@@ -1,0 +1,33 @@
+type: SingleTypeGenerator
+name: Basic Liquid Combustion Generator
+description: Generates power using coal and oil. Much less effective than Liquid Combustion Generator.
+
+	size: 2,
+	category: power
+
+	hasPower: true
+	hasItems: true
+	hasLiquids: true
+
+	liquidCapacity: 50
+
+	itemDuration: 60
+	consumes: {
+		items: {
+			items: [
+				coal/1
+			]
+		}
+		liquid: {
+			liquid: oil
+			amount: 0.16666
+		}
+	}
+
+	powerProduction: 1.5
+
+requirements: [
+		copper/25
+		iron/25
+		lead/30
+	]

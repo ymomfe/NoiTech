@@ -1,0 +1,8 @@
+requirements: [
+		aluminum/100
+        copper/200
+        dense-alloy/215
+        iron/200
+        plastanium/80
+        titanium/125
+    ]

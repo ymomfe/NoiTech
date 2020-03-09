@@ -1,0 +1,39 @@
+type: genericCrafter
+name: Sulfur Filter
+description: Filters sulfur water by removing sulfur. Outputs clean water.
+	
+	size: 3
+	health: 60
+	category: crafting
+
+	hasPower: true
+	hasItems: true
+	hasLiquids: true
+
+	liquidCapacity: 240
+	craftTime: 60
+
+	consumes: {
+		items: {
+			items: [
+				sand/1
+			]
+		}
+		liquid: {
+			liquid: sulfur-water-liquid
+			amount: 0.5
+		}
+		power: 0.25
+	}
+
+	outputLiquid: {
+		liquid: water
+		amount: 30
+	}
+
+requirements: [
+		graphite/40
+		iron/60
+		lead/75
+		metaglass/35
+	]

@@ -1,0 +1,16 @@
+description: Mixes natrium and fine titanium powder into cryofluid. Essential for thorium reactor usage.
+
+	consumes: {
+		liquid: {
+			liquid: natrium-liquid
+			amount: 0.20
+		}
+	}
+
+requirements: [
+		aluminum/45
+		iron/100
+		lead/65
+		silicon/40
+		titanium/45
+	]

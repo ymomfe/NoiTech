@@ -1,9 +1,0 @@
-{
-	"requirements": [
-		{"item": "aluminum", "amount": 65},
-		{"item": "insulator-alloy", "amount": 35},
-		{"item": "metaglass", "amount": 105},
-		{"item": "thorium", "amount": 35},
-		{"item": "titanium", "amount": 65}
-	],
-}

@@ -1,0 +1,7 @@
+type: OreBlock
+itemDrop: rock-salt
+	
+	hardness: 2
+
+oreDefault: true
+oreScale: 25.38

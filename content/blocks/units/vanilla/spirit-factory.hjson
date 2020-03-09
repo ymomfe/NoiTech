@@ -1,0 +1,16 @@
+	consumes: {
+		items: {
+			items: [
+				aluminum/5
+				iron/10
+				silicon/10
+			]
+		}
+	}
+
+requirements: [
+		dense-alloy/50
+		lead/60
+		metaglass/50
+		silicon/45
+	]

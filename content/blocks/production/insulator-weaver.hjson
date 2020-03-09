@@ -1,0 +1,40 @@
+name: Insulator Weaver
+description: Parses and combines aluminum, silicon and light oil to sew insulator alloy. Requires massive amounts of power to function.
+	
+	size: 3
+	health: 320
+	category: crafting
+	idleSound: machine
+
+	hasPower: true
+	hasLiquids: true
+	hasItems: true
+
+	itemCapacity: 15
+	liquidCapacity:45
+	craftTime: 90
+
+	consumes: {
+		items: {
+			items: [
+				aluminum/1
+				silicon/1
+			]
+		}
+		liquid: {
+			liquid: light-oil-liquid
+			amount: 0.10
+		}
+		power: 4.5
+	}
+
+	outputItem: insulator-alloy/1
+
+requirements: [
+		copper/185
+		dense-alloy/135
+		iron/185
+		lead/115
+		silicon/100
+		titanium/95
+	]

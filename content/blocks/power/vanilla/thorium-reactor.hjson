@@ -1,0 +1,9 @@
+requirements: [
+		aluminum/125
+		dense-alloy/150
+		graphite/150
+		lead/300
+		metaglass/50
+		silicon/200
+		thorium/150
+	]

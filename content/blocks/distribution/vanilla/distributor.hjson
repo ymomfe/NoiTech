@@ -1,0 +1,5 @@
+requirements: [
+        copper/4
+        dense-alloy/4
+        lead/4
+    ]

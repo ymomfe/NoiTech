@@ -1,9 +1,0 @@
-{
-	"name": "Natrium",
-	"description": "A very reactive soft white element of the alkali metal group occurring principally in common salt.",
-	"temperature": 35,
-    "viscosity": 0.35,
-    "heatCapacity": 0.6,
-    "effect": "wet",
-    "color": "ffffff"
-}

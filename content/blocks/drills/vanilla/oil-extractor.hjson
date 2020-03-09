@@ -1,0 +1,12 @@
+	pumpAmount: 0.4
+
+requirements: [
+        aluminum/75
+        copper/150
+        dense-alloy/200
+        graphite/175
+        iron/150
+        lead/175
+        silicon/85
+        thorium/115
+    ]

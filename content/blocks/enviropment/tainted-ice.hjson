@@ -1,0 +1,8 @@
+type: Floor
+name: Tainted Ice
+
+attributes: { 
+		array: [ 
+		0, 0.4, 0.1, 0 
+		]
+	}

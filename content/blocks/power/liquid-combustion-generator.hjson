@@ -1,0 +1,35 @@
+type: SingleTypeGenerator
+name: Liquid Combustion Generator
+description: Generates power using coal and fuel.
+
+	size: 2,
+	category: power
+
+	hasPower: true
+	hasItems: true
+	hasLiquids: true
+
+	liquidCapacity: 50
+
+	itemDuration: 60
+	consumes: {
+		items: {
+			items: [
+				coal/1
+			]
+		}
+		liquid: {
+			liquid: fuel-liquid
+			amount: 0.333
+		}
+	}
+
+	powerProduction: 9.0
+
+requirements: [
+		copper/125
+		dense-alloy/75
+		graphite/80
+		iron/130
+		silicon/75
+	]

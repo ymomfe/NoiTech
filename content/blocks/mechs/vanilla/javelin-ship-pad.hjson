@@ -1,0 +1,8 @@
+requirements: [
+		aluminum/250
+		iron/250
+		lead/175
+		phase-fabric/100
+		plastanium/200
+		silicon/225
+	]

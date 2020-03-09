@@ -1,9 +1,0 @@
-{
-	"requirements": [
-		{"item": "copper", "amount": 35},
-		{"item": "dense-alloy", "amount": 50},
-		{"item": "iron", "amount": 35},
-		{"item": "lead", "amount": 40},
-		{"item": "silicon", "amount": 35}
-	],
-}

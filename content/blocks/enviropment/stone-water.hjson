@@ -1,0 +1,13 @@
+type: floor
+name: Stone Water
+  
+  isLiquid: true
+
+  variants: 0
+  blendGroup: water
+  cacheLayer: water
+
+  speedMultiplier: 0.8
+  liquidDrop: water
+  status: wet
+  statusDuration: 150

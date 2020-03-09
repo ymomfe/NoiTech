@@ -1,0 +1,14 @@
+ammo: {
+	dense-alloy: artilleryDense
+	graphite: artilleryDense
+	pyratite: artilleryIncendiary
+	silicon: artilleryHoming
+	blast-compound: artilleryExplosive
+	plastanium: artilleryPlastic
+	}
+
+requirements: [
+        dense-alloy/175
+        graphite/135
+        titanium/95
+    ]

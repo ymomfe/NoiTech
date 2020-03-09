@@ -1,0 +1,9 @@
+type: Liquid
+name: Lava
+description: Hot molten or semi-fluid rock erupted from a volcano or fissure.
+    
+    viscosity: 0.8
+    temperature: 1.5
+
+effect: burning
+color: ff4a12

@@ -1,0 +1,7 @@
+type: Floor
+name: Black Stone
+
+itemDrop: stone
+	
+	hardness: 3
+	playerUnmineable: true

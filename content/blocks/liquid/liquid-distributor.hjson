@@ -1,0 +1,14 @@
+type: LiquidRouter
+name: Liquid Distributor
+description: Accepts liquids from any direction and outputs them to up to 7 other directions equally. Can store certain amount of liquid.
+	
+	size: 2
+	health: 160
+	category: liquid
+
+	liquidCapacity: 80
+	
+requirements: [
+		graphite/16
+		metaglass/8
+	]

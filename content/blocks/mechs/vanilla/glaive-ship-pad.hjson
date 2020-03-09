@@ -1,0 +1,9 @@
+requirements: [
+		aluminum/325
+		insulator-alloy/250
+		iron/325
+		lead/225
+		plastanium/300
+		surge-alloy/100
+		thorium/300
+	]

@@ -1,0 +1,8 @@
+requirements: [
+		aluminum/50
+		dense-alloy/100
+		lead/100
+		metaglass/50
+		silicon/65
+		titanium/50
+	]

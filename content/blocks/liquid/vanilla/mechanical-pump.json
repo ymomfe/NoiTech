@@ -1,7 +1,0 @@
-{
-	"requirements": [
-		{"item": "copper", "amount": 20},
-		{"item": "iron", "amount": 15},
-		{"item": "metaglass", "amount": 10}
-	],
-}

@@ -1,8 +1,0 @@
-{
-	"requirements": [
-		{"item": "insulator-alloy", "amount": 25},
-		{"item": "lead", "amount": 100},
-		{"item": "silicon", "amount": 125},
-		{"item": "phase-fabric", "amount": 15}
-	],
-}

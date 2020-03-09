@@ -1,0 +1,13 @@
+type: floor
+name: Red Soil Polluted Water
+  
+  isLiquid: true
+
+  variants: 0
+  blendGroup: water
+  cacheLayer: water
+
+  speedMultiplier: 0.15
+  liquidDrop: polluted-water-liquid
+  status: wet
+  statusDuration: 150

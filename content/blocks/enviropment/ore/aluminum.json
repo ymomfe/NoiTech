@@ -1,7 +1,0 @@
-{
-	"type": "OreBlock",
-	"itemDrop": "aluminum",
-	"hardness": 3.0,
-	"oreDefault": true,
-	"oreScale": 25.38
-}

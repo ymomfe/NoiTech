@@ -1,0 +1,9 @@
+type: Liquid
+name: Sulfur Water
+description: Sulfur water is a condition when the water contains a high amount of hydrogen sulfide. Can be filtered.
+
+	heatCapacity: 0.4
+	flammability: 0.5
+
+effect: wet
+color: bfb268

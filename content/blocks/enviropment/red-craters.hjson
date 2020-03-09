@@ -1,0 +1,9 @@
+type: Floor
+name: Red Craters
+
+	variants: 6
+
+itemDrop: stone
+
+	hardness: 3
+	playerUnmineable: true

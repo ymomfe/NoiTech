@@ -1,0 +1,14 @@
+	consumes: {
+		items: {
+			items: [
+				iron/10
+				silicon/7
+			]
+		}
+	}
+
+requirements: [
+		iron/70
+		lead/50
+		silicon/45
+	]

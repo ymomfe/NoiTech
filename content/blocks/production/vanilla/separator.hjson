@@ -1,0 +1,15 @@
+	results:[
+		copper/5
+		lead/5
+		graphite/3
+		titanium/2
+		iron/5
+		dense-alloy/3
+		aluminum/2
+	]
+
+requirements: [
+		copper/50
+		graphite/65
+		iron/50
+	]

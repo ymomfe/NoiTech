@@ -1,0 +1,10 @@
+type: Liquid
+name: Tainted Water
+description: Tainted water. Can be filtrated to get spore pods.
+	
+	temperature: 0.5
+	viscosity: 0.5
+	heatCapacity: 0.4
+
+effect: wet
+color: 645195

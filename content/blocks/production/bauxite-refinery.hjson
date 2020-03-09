@@ -1,0 +1,38 @@
+
+type: separator
+name: Bauxite Refinery
+description: Separates molten bauxite into aluminum, titanium, iron and silicon.
+	
+	size: 3
+	health: 60
+	category: crafting
+	spinnerSpeed: 2
+
+	hasPower: true
+	hasLiquids: true
+
+	liquidCapacity: 30
+	craftTime: 45
+
+	consumes: {
+		liquid: {
+			liquid: molten-bauxite-liquid
+			amount: 0.0666
+		}
+		power: 1.2
+	}
+
+	results:[
+		aluminum/4
+		titanium/4
+		iron/3
+		silicon/3
+	]
+
+requirements: [
+		dense-alloy/200
+		graphite/225
+		iron/325
+		lead/250
+		silicon/105
+	]

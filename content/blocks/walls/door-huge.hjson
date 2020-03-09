@@ -1,0 +1,14 @@
+type: door
+name: Huge Door
+description: A huge door. Can be opened and closed by tapping.\nSpans multiple tiles.
+	
+	buildVisibility: sandboxOnly
+
+	size: 3
+	health: 3600
+	category: defense
+
+requirements: [
+		graphite/54
+		silicon/36
+	]

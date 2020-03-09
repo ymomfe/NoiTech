@@ -1,0 +1,6 @@
+requirements: [
+		aluminum/125
+		dense-alloy/250
+		thorium/125
+		titanium/250
+	]

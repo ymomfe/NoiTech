@@ -1,0 +1,8 @@
+requirements: [
+		insulator-alloy/45
+		iron/150
+		lead/100
+		phase-fabric/25
+		plastanium/75
+		thorium/50
+	]

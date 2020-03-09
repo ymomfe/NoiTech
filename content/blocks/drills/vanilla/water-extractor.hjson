@@ -1,0 +1,10 @@
+	pumpAmount: 0.2
+
+requirements: [
+		aluminum/15
+        copper/45
+        dense-alloy/30
+        graphite/25
+        lead/25
+        titanium/20
+    ]

@@ -1,0 +1,31 @@
+name: Rock Crusher
+description: Crushes stone into sand.
+	
+	size: 2
+	health: 60
+	category: crafting
+	idleSound: rock-crusher
+	craftEffect: pulverize
+
+	hasPower: true
+	hasItems: true
+
+	itemCapacity: 10
+	craftTime: 39.4
+
+	consumes: {
+		items: {
+			items: [
+				stone/1
+			]
+		}
+		power: 0.5
+	}
+
+	outputItem: sand/1
+
+requirements: [
+		graphite/25
+		iron/35
+		lead/25
+	]

@@ -1,0 +1,37 @@
+ammo: {
+	copper: standardCopper
+	graphite: standardDense
+	pyratite: standardIncendiary
+	silicon: standardHoming
+	dense-alloy: standardDense
+	thorium: standardThorium
+	iron: {
+			speed: 6.0
+			damage: 10
+
+			backColor: bulletYellow
+			frontColor: bulletYellowBack
+			shootEffect: shootSmall
+			smokeEffect: shootSmallSmoke
+		}
+	sulfur: {
+			speed: 6.0
+			damage: 7
+			incendAmount: 1
+			incendSpread: 0.01
+			incendChance: 0.25
+
+			backColor: bulletYellow
+			frontColor: bulletYellowBack
+			shootEffect: shootSmall
+			smokeEffect: shootSmallSmoke
+		}
+	}
+
+requirements: [
+		aluminum/45
+		copper/105
+        dense-alloy/85
+        graphite/85
+        titanium/60
+    ]

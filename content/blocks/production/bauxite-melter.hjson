@@ -1,0 +1,37 @@
+type: GenericSmelter
+name: Bauxite Melter
+description: Melts bauxite into liquid.
+	
+	size: 2
+	health: 60
+	category: crafting
+	idleSound: machine
+	craftEffect: smeltsmoke
+
+	hasPower: true
+	hasLiquids: true
+	hasItems: true
+
+	liquidCapacity: 15
+	craftTime: 55
+
+	consumes: {
+		items: {
+			items: [
+				bauxite/1
+			]
+		}
+		power: 1
+	}
+
+	outputLiquid: {
+		liquid: molten-bauxite-liquid
+		amount: 2
+	}
+
+requirements: [
+		copper/175
+		iron/175
+		lead/200
+		silicon/105
+	]

@@ -1,0 +1,14 @@
+type: floor
+name: Sulfur Water
+  
+  isLiquid: true
+
+  variants: 0
+  blendGroup: water
+  cacheLayer: water
+
+  speedMultiplier: 0.17
+  liquidDrop: sulfur-water-liquid
+  status: wet
+  statusDuration: 150
+  drownTime: 120

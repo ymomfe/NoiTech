@@ -1,0 +1,13 @@
+type: floor
+name: Black Stone Tainted Water
+  
+  isLiquid: true
+
+  variants: 0
+  blendGroup: water
+  cacheLayer: water
+
+  speedMultiplier: 0.75
+  liquidDrop: tainted-water-liquid
+  status: wet
+  statusDuration: 150

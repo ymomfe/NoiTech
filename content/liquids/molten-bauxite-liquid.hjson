@@ -1,0 +1,10 @@
+type: Liquid
+name: Molten Bauxite
+description: Molten bauxite. Can be separated into aluminum, titanium, iron and silicon.
+	
+	temperature: 1
+    viscosity: 0.75
+    explosiveness: 0.5
+
+effect: melting
+color: 85473c

@@ -1,0 +1,40 @@
+name: Light Oil Processor
+description: Processes light oil into fuel. Outputs production waste.
+	
+	size: 3
+	health: 120
+	category: crafting
+	craftEffect: steam
+	idleSound: flame
+
+	hasPower: true
+	hasItems: true
+	hasLiquids: true
+
+	itemCapacity: 10
+	liquidCapacity: 100
+	craftTime: 60
+
+	consumes: {
+		liquid: {
+			liquid: light-oil-liquid
+			amount: 0.25
+		}
+		power: 0.5
+	}
+
+	outputItem: sludge/1
+	outputLiquid: {
+		liquid: fuel-liquid
+		amount: 12
+	}
+
+requirements: [
+		aluminum/45
+		copper/45
+		dense-alloy/65
+		graphite/70
+		iron/40
+		lead/75
+		titanium/50
+	]

@@ -1,0 +1,21 @@
+description: Crushes and mixes clusters of spores with pyratite and heavy oil to produce blast compound.
+
+	consumes: {
+		liquid: {
+			liquid: heavy-oil-liquid
+			amount: 0.0369
+		}
+		items: {
+			items: [
+				pyratite/1
+				spore-pod/1
+			]
+		}
+	}
+
+requirements: [
+		dense-alloy/40
+		iron/60
+		lead/30
+		titanium/35
+	]

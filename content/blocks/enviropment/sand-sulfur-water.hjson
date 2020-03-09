@@ -1,0 +1,13 @@
+type: floor
+name: Sand Sulfur Water
+  
+  isLiquid: true
+
+  variants: 0
+  blendGroup: water
+  cacheLayer: water
+
+  speedMultiplier: 0.75
+  liquidDrop: sulfur-water-liquid
+  status: wet
+  statusDuration: 150

@@ -1,0 +1,7 @@
+requirements: [
+		aluminum/155
+        dense-alloy/125
+        iron/225
+        graphite/225
+        thorium/100
+    ]

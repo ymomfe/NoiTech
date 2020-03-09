@@ -1,0 +1,8 @@
+type: material
+name: Aluminum
+description: Advanced structural material. Used in all types of blocks and aircraft.
+
+	hardness: 3
+	explosiveness: 0.5
+
+color: 82b8c6

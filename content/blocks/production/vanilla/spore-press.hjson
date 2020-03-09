@@ -1,0 +1,6 @@
+requirements: [
+		copper/45
+		iron/35
+		lead/35
+		silicon/30
+	]

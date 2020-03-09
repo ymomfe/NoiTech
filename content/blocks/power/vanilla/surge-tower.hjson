@@ -1,0 +1,7 @@
+requirements: [
+		dense-alloy/25
+		insulator-alloy/15
+		lead/10
+		surge-alloy/15
+		titanium/7
+	]

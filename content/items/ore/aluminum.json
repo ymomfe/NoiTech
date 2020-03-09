@@ -1,8 +1,0 @@
-{
-	"type": "material",
-	"name": "Aluminum",
-	"description": "Advanced structural material. Used extensively in all types of blocks.",
-	"explosiveness": 0.5,
-	"color": "82b8c6",
-	"hardness": 3.0
-}

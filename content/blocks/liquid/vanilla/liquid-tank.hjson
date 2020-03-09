@@ -1,0 +1,5 @@
+requirements: [
+		iron/15
+		metaglass/25
+		titanium/20
+	]

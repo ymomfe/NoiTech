@@ -1,0 +1,5 @@
+requirements: [
+		dense-alloy/15
+		graphite/5
+		lead/15
+	]

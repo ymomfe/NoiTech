@@ -1,0 +1,39 @@
+type: genericCrafter
+name: Sludge Recycler
+description: Recycles sludge into small bits of oil.
+	
+	size: 2
+	health: 90
+	category: crafting
+	craftEffect: steam
+	idleSound: machine
+
+	hasPower: true
+	hasItems: true
+	hasLiquids: true
+
+	itemCapacity: 30
+	liquidCapacity: 10
+	craftTime: 45
+
+	consumes: {
+		items: {
+			items: [
+				sludge/15
+			]
+		}
+		power: 0.25
+	}
+
+	outputLiquid: {
+		liquid: oil
+		amount: 2
+	}
+
+requirements: [
+		copper/60
+		graphite/70
+		iron/60
+		lead/70
+		titanium/30
+	]

@@ -1,0 +1,7 @@
+requirements: [
+		dense-alloy/105
+		graphite/75
+		lead/100
+		silicon/35
+		titanium/75
+	]

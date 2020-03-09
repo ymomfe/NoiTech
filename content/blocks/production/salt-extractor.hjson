@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: Salt Extractor
+description: Extracts salt from water. Used in locations with no rock salt on surface.
+	
+	size: 2
+	health: 120
+	category: crafting
+	craftEffect: pulverize
+
+	hasPower: true
+	hasItems: true
+	hasLiquids: true
+
+	itemCapacity: 10
+	liquidCapacity: 10
+	craftTime: 30
+
+	consumes: {
+		liquid: {
+			liquid: water
+			amount: 0.5
+		}
+		power: 0.5
+	}
+
+	outputItem: rock-salt/1
+
+requirements: [
+		dense-alloy/45
+		iron/35
+		lead/45
+	]

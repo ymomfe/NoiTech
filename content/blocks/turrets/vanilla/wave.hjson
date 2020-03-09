@@ -1,0 +1,48 @@
+ammo: {
+	water: waterShot
+	slag: slagShot
+	cryofluid: cryoShot
+	oil: oilShot
+	lava-liquid: {
+		type: liquidBulletType
+		liquid: lava-liquid
+			
+			knockback: 0.6
+			status: burning
+			statusDuration: 300
+		}
+	tainted-water-liquid: {
+		type: liquidBulletType
+		liquid: tainted-water-liquid
+
+			knockback: 0.7
+			status: wet
+			statusDuration: 180
+		}
+	light-oil-liquid: {
+		type: LiquidBulletType
+		liquid: light-oil-liquid
+
+			damage: 6
+			ammoMultiplier: 1
+			status: burning
+			statusDuration: 200
+		}
+	heavy-oil-liquid: {
+		type: LiquidBulletType
+		liquid: heavy-oil-liquid
+
+			damage: 7
+			ammoMultiplier: 1
+			status: burning
+			statusDuration: 200
+		}
+	}
+
+requirements: [
+		copper/70
+		dense-alloy/45
+        iron/55
+        lead/75
+        metaglass/45
+    ]

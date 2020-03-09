@@ -1,0 +1,17 @@
+	consumes: {
+		items: {
+			items: [
+				aluminum/25
+				lead/30
+				silicon/25
+			]
+		}
+	}
+
+requirements: [
+		dense-alloy/105
+		lead/55
+		silicon/105
+		thorium/60
+		titanium/55
+	]

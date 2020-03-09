@@ -1,0 +1,5 @@
+requirements: [
+        dense-alloy/2
+        iron/2
+        lead/2
+    ]

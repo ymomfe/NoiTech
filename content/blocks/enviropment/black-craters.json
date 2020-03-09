@@ -1,8 +1,0 @@
-{
-	"type": "Floor",
-	"name": "Black Craters",
-	"variants": 6,
-	"itemDrop": "stone",
-	"hardness": 3.0,
-	"playerUnmineable": true
-}

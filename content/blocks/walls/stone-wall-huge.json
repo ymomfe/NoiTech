@@ -1,9 +1,0 @@
-{
-	"buildVisibility": "sandboxOnly",
-	"type": "wall",
-	"size": 3,
-	"variants": 3,
-	"name": "Huge Stone Wall",
-	"health": "540",
-	"category": "defense",
-}

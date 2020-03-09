@@ -1,0 +1,13 @@
+type: floor
+name: Polluted Dirt Tar
+  
+  isLiquid: true
+
+  variants: 0
+  blendGroup: water
+  cacheLayer: tar
+
+  speedMultiplier: 0.15
+  liquidDrop: oil
+  status: tarred
+  statusDuration: 240

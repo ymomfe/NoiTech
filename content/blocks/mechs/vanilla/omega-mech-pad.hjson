@@ -1,0 +1,9 @@
+requirements: [
+		dense-alloy/325
+		graphite/325
+		insulator-alloy/250
+		lead/225
+		surge-alloy/120
+		thorium/300
+		titanium/300
+	]

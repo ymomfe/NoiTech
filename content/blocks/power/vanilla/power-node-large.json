@@ -1,8 +1,0 @@
-{
-	"requirements": [
-		{"item": "lead", "amount": 10},
-		{"item": "iron", "amount": 15},
-		{"item": "silicon", "amount": 5},
-		{"item": "titanium", "amount": 5},
-	],
-}

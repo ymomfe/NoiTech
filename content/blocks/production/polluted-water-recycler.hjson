@@ -1,0 +1,40 @@
+type: separator
+name: Polluted Water Recycler
+description: Recycles polluted water. Outputs sludge, coal, sulfur, scrap, stone, halite and sand.
+	
+	size: 4
+	health: 240
+	category: crafting
+
+	hasPower: true
+	hasItems: true
+	hasLiquids: true
+
+	liquidCapacity: 360
+	craftTime: 90
+
+	consumes: {
+		liquid: {
+			liquid: polluted-water-liquid
+			amount: 0.5
+		}
+		power: 1
+	}
+
+	results:[
+		sludge/4
+		scrap/1
+		coal/3
+		sand/3
+		stone/1
+		sulfur/1
+		rock-salt/1
+	]
+
+requirements: [
+		copper/80
+		dense-alloy/75
+		iron/80
+		lead/100
+		metaglass/35
+	]

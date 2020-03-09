@@ -1,0 +1,8 @@
+requirements: [
+		aluminum/100
+		dense-alloy/125
+		insulator-alloy/55
+		lead/100
+		plastanium/30
+		titanium/100
+	]

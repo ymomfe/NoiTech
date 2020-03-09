@@ -1,0 +1,10 @@
+ammo: {
+		coal: basicFlame
+		pyratite: standardIncendiary
+		sulfur: basicFlame
+	}
+
+requirements: [
+        graphite/22
+        iron/25
+    ]

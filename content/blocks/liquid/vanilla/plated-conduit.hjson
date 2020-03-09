@@ -1,0 +1,10 @@
+description: Moves liquids faster than pulse conduit and possesses more armor. Does not accept inputs from the sides from anything but other conduits.
+	
+	speed: 0.13
+
+requirements: [
+		aluminum/1
+		insulator-alloy/1
+		metaglass/1
+		thorium/1
+	]

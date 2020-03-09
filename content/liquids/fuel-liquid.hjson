@@ -1,0 +1,10 @@
+type: Liquid
+name: Fuel
+description: Fuel is a liquid that is burned in a furnace or boiler for the generation of heat for power production.
+    
+    viscosity: 0.65
+    flammability: 0.75
+    explosiveness: 1
+
+effect: wet
+color: b8b328

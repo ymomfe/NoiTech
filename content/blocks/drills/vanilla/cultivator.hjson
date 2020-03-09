@@ -1,0 +1,8 @@
+	craftTime: 60
+
+requirements: [
+        copper/35
+        graphite/25
+        iron/30
+        silicon/20
+    ]

@@ -1,0 +1,9 @@
+requirements: [
+		copper/275
+        dense-alloy/325
+        insulator-alloy/225
+        iron/275
+        lead/350
+        graphite/300
+        surge-alloy/325
+    ]

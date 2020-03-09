@@ -1,0 +1,29 @@
+type: GenericSmelter
+name: Bauxite Smelter
+description: Smelts raw bauxite into iron using coal as fuel.
+	
+	size: 2
+	health: 60
+	category: crafting
+	idleSound: machine
+	craftEffect: smeltsmoke
+
+	hasItems: true
+
+	craftTime: 60
+
+	consumes: {
+		items: {
+			items: [
+				bauxite/2
+				coal/1
+			]
+		}
+	}
+
+	outputItem: iron/1
+
+requirements: [
+		copper/45
+		lead/50
+	]

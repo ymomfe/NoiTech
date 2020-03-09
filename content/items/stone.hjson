@@ -1,0 +1,7 @@
+type: resource
+name: Stone
+description: A common raw material. Used for refinig into other materials, or melting into lava.
+	
+	hardness: 3
+
+color: 666666

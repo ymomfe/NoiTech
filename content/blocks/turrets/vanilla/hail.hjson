@@ -1,0 +1,12 @@
+ammo: {
+	dense-alloy: artilleryDense
+	graphite: artilleryDense
+	pyratite: artilleryIncendiary
+	silicon: artilleryHoming
+	}
+	
+requirements: [
+        copper/40
+        dense-alloy/25
+        iron/35
+    ]

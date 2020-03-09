@@ -1,0 +1,34 @@
+type: GenericSmelter
+name: Arc Smelter
+description: Uses electricity to smelt iron and lead into dense alloy more efficiently.
+	
+	size: 2
+	health: 60
+	category: crafting
+	idleSound: machine
+	craftEffect: formsmoke
+
+	hasPower: true
+	hasItems: true
+
+	itemCapacity: 10
+	craftTime: 30
+
+	consumes: {
+		items: {
+			items: [
+				iron/2
+				copper/1
+			]
+		}
+		power: 0.5
+	}
+
+	outputItem: dense-alloy/1
+
+requirements: [
+		copper/45
+		iron/45
+		graphite/50
+		lead/40
+	]

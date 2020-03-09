@@ -1,0 +1,120 @@
+type: liquidTurret
+name: Tsunami
+description: Shoots streams of liquid at enemmies. Automaticlly extinguishes fires when supplied with water. More efficient than Wave.
+	
+	size: 3
+	health: 1980
+	category: turret
+	shootEffect: shootLiquid
+	shootSound: splash
+
+    targetAir: true
+    targetGround: true
+    
+    liquidCapacity: 120
+    maxAmmo: 120
+	reload: 2
+	shootCone: 50
+	range: 220
+	inaccuracy: 7
+	recoil: 0
+
+ammo: {
+	water: {
+		type: liquidBulletType
+		liquid: water
+			
+			knockback: 0.7
+			damage: 3
+			speed: 3
+			ammoMultiplier: 1
+			status: wet
+			statusDuration: 600
+		}
+	slag: {
+		type: liquidBulletType
+		liquid: slag
+			
+			knockback: 0.6
+			damage: 4
+			speed: 3
+			ammoMultiplier: 2
+			status: burning
+			statusDuration: 600
+		}
+	cryofluid: {
+		type: liquidBulletType
+		liquid: cryofluid
+			
+			knockback: 0.6
+			damage: 4
+			speed: 4
+			ammoMultiplier: 1
+			status: freezing
+			statusDuration: 600
+		}
+	oil: {
+		type: liquidBulletType
+		liquid: oil
+			
+			knockback: 0.6
+			damage: 3
+			speed: 4
+			ammoMultiplier: 1
+			status: tarred
+			statusDuration: 600
+		}
+	lava-liquid: {
+		type: liquidBulletType
+		liquid: lava-liquid
+			
+			knockback: 0.6
+			damage: 3
+			speed: 4
+			ammoMultiplier: 2
+			status: burning
+			statusDuration: 600
+		}
+	tainted-water-liquid: {
+		type: liquidBulletType
+		liquid: tainted-water-liquid
+			
+			knockback: 0.7
+			damage: 3
+			speed: 3
+			ammoMultiplier: 2
+			status: wet
+			statusDuration: 600
+		}
+	light-oil-liquid: {
+		type: liquidBulletType
+		liquid: light-oil-liquid
+			
+			knockback: 0.6
+			damage: 6
+			speed: 3
+			ammoMultiplier: 1
+			status: burning
+			statusDuration: 600
+		}
+	heavy-oil-liquid: {
+		type: liquidBulletType
+		liquid: heavy-oil-liquid
+			
+			knockback: 0.6
+			damage: 7
+			speed: 3
+			ammoMultiplier: 1
+			status: burning
+			statusDuration: 600
+		}
+	}
+
+requirements: [
+		dense-alloy/175
+		graphite/135
+        iron/205
+        lead/200
+        metaglass/135
+        titanium/105
+    ]

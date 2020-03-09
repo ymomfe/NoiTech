@@ -1,0 +1,35 @@
+type: GenericCrafter
+name: Stone Melter
+description: Heats up stone to very high temperatures to obtain lava.
+	
+	size: 2
+	health: 120
+	category: crafting
+
+	hasPower: true
+	hasItems: true
+	hasLiquids: true
+
+	itemCapacity: 10
+	liquidCapacity: 10
+	craftTime: 30
+
+	consumes: {
+		items: {
+			items: [
+				stone/1
+			]
+		}
+	}
+
+	outputLiquid: {
+		liquid: lava-liquid
+		amount: 1
+	}
+
+requirements: [
+		copper/30
+		dense-alloy/45
+		graphite/45
+		lead/40
+	]

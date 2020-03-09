@@ -1,0 +1,6 @@
+requirements: [
+		aluminum/30
+		dense-alloy/25
+		iron/25
+		silicon/30
+	]

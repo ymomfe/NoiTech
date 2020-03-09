@@ -1,0 +1,8 @@
+requirements: [
+        copper/35
+        dense-alloy/40
+        graphite/30
+        iron/35
+        silicon/30
+        titanium/20
+    ]
