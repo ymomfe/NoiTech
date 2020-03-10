@@ -3,6 +3,7 @@ name: Fuel
 description: Fuel is a liquid that is burned in a furnace or boiler for the generation of heat for power production.
     
     viscosity: 0.65
+    heatCapacity: 0.7
     flammability: 0.75
     explosiveness: 1
 

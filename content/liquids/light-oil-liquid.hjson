@@ -3,9 +3,10 @@ name: Light Oil
 description: Light oil is a liquid that has a low density and flows freely at room temperature. Can be processed in light oil processor to achive fuel.
 
     viscosity: 0.7
-    temperature: 0.8
-    flammability: 1.2
-    explosiveness: 1.2
+    temperature: 0.7
+    heatCapacity: 0.7
+    flammability: 1.1
+    explosiveness: 1.1
 
 effect: burning
 color: ac8a23
