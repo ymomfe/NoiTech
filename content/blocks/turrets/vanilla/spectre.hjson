@@ -3,7 +3,22 @@ ammo: {
 		pyratite: standardIncendiaryBig
 		thorium: standardThoriumBig
 		dense-alloy: standardDenseBig
+		insulator-alloy: {
+			speed: 6.0
+			damage: 60
+            homingPower: 5
+            reloadMultiplier: 1.4
+            ammoMultiplier: 5
+            lifetime: 60
+			
+			bulletWidth: 15
+            bulletHeight: 21
+            backColor: fbda9e
+			frontColor: ffffe3
+			shootEffect: shootBig
+			smokeEffect: shootSmallSmoke
 		}
+	}
 
 requirements: [
         dense-alloy/350

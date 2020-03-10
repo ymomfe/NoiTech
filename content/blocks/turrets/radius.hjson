@@ -15,7 +15,6 @@ description: A small close-range anti-air electric turret. Fires arcs of electri
     reload: 35
     shootCone: 40
     shootType: arc
-    rotateSpeed: 20
     range: 90
     recoil: 1
 

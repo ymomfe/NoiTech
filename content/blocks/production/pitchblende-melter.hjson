@@ -1,0 +1,39 @@
+type: GenericSmelter
+name: Pitchblende Melter
+description: Melts pitchblende into liquid.
+	
+	size: 3
+	health: 90
+	category: crafting
+	idleSound: machine
+	craftEffect: smeltsmoke
+
+	hasPower: true
+	hasLiquids: true
+	hasItems: true
+
+	liquidCapacity: 30
+	craftTime: 30
+
+	consumes: {
+		items: {
+			items: [
+				pitchblende/2
+			]
+		}
+		power: 1
+	}
+
+	outputLiquid: {
+		liquid: molten-pitchblende-liquid
+		amount: 3
+	}
+
+requirements: [
+		copper/205
+		dense-alloy/225
+		iron/205
+		graphite/225
+		lead/255
+		silicon/150
+	]

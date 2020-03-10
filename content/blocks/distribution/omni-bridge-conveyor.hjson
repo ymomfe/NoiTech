@@ -1,0 +1,21 @@
+name: Omni-Bridge Conveyor
+description: Omni-bridge conveyor can be linked with other omni-bridge conveyors in any direction. Possesses more armor than a regular bridge conveyor.
+	
+	size:1
+	health: 180
+	configurable: true
+	category: distribution
+
+	update: true
+	hasItems: true
+
+	bufferCapacity: 14
+	range: 4
+	speed: 70
+
+requirements: [
+		aluminum/4
+		insulator-alloy/8
+		metaglass/2
+		thorium/8
+	]

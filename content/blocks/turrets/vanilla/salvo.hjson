@@ -9,8 +9,10 @@ ammo: {
 			speed: 6.0
 			damage: 10
 
-			backColor: bulletYellow
-			frontColor: bulletYellowBack
+			bulletWidth: 7
+            bulletHeight: 9
+			backColor: fbda9e
+			frontColor: ffffe3
 			shootEffect: shootSmall
 			smokeEffect: shootSmallSmoke
 		}
@@ -21,8 +23,10 @@ ammo: {
 			incendSpread: 0.01
 			incendChance: 0.25
 
-			backColor: bulletYellow
-			frontColor: bulletYellowBack
+			bulletWidth: 7
+            bulletHeight: 9
+			backColor: fbda9e
+			frontColor: ffffe3
 			shootEffect: shootSmall
 			smokeEffect: shootSmallSmoke
 		}

@@ -12,7 +12,6 @@ description: Shoots streams of liquid at enemmies. Automaticlly extinguishes fir
     targetGround: true
     
     liquidCapacity: 120
-    maxAmmo: 120
 	reload: 2
 	shootCone: 50
 	range: 220

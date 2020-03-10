@@ -1,3 +1,27 @@
+ammo: {
+		metaglass: flakGlass
+		blast-compound: flakExplosive
+		plastanium: flakPlastic
+		surge-alloy: flakSurge
+		insulator-alloy: {
+			speed: 6.0
+			damage: 6
+			splashDamageRadius: 50
+            splashDamage: 25
+            homingPower: 5
+            reloadMultiplier: 1.4
+            ammoMultiplier: 5
+			
+			bulletWidth: 15
+            bulletHeight: 21
+            backColor: fbda9e
+			frontColor: ffffe3
+			shootEffect: shootBig
+			smokeEffect: shootSmallSmoke
+			hitEffect: plasticExplosion
+		}
+	}
+
 requirements: [
 		aluminum/100
         copper/200

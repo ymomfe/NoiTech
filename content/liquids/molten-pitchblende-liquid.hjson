@@ -1,0 +1,8 @@
+name: Molten Pitchblende
+description: Molten Pitchblende. Can be separated into thorium and lead.
+	
+	temperature: 1
+    viscosity: 0.75
+
+effect: melting
+color: 8d9231

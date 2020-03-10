@@ -1,0 +1,21 @@
+name: Omni-Bridge Conduit
+description: Omni-bridge conduit can be linked with other omni-bridge conduits in any direction. Possesses more armor than a regular bridge conduit.
+	
+	size:1
+	health: 180
+	configurable: true
+	category: liquid
+
+	update: true
+	hasLiquids: true
+
+	liquidCapacity: 16
+	liquidPressure: 1
+	range: 4
+
+requirements: [
+		aluminum/4
+		insulator-alloy/8
+		metaglass/2
+		thorium/8
+	]

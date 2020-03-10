@@ -1,0 +1,29 @@
+type: GenericSmelter
+name: Pitchblende Smelter
+description: Smelts raw pitchblende into lead using coal as fuel.
+	
+	size: 2
+	health: 60
+	category: crafting
+	idleSound: machine
+	craftEffect: smeltsmoke
+
+	hasItems: true
+
+	craftTime: 60
+
+	consumes: {
+		items: {
+			items: [
+				pitchblende/2
+				coal/1
+			]
+		}
+	}
+
+	outputItem: lead/1
+
+requirements: [
+		copper/45
+		iron/50
+	]

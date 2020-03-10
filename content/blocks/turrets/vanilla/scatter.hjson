@@ -9,8 +9,8 @@ ammo: {
 			splashDamageRadius: 26
 			ammoMultiplier: 5
 
-			backColor: bulletYellow
-			frontColor: bulletYellowBack
+			backColor: fbda9e
+			frontColor: ffffe3
 			shootEffect: shootSmall
 			smokeEffect: shootSmallSmoke
 			bulletWidth: 7

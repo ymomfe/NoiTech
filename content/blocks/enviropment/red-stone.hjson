@@ -3,5 +3,4 @@ name: Red Stone
 
 itemDrop: stone
 	
-	hardness: 3
 	playerUnmineable: true

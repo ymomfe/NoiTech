@@ -5,6 +5,25 @@ ammo: {
 	silicon: artilleryHoming
 	blast-compound: artilleryExplosive
 	plastanium: artilleryPlastic
+	insulator-alloy: {
+			speed: 6.0
+			splashDamage: 50
+			splashDamageRadius: 25
+			knockback: 0.8
+			homingPower: 2
+			homingRange: 50
+            ammoMultiplier: 2
+            lifetime: 45
+            collidesTiles: false
+
+            bulletWidth: 11
+            bulletHeight: 11
+            backColor: fbda9e
+			frontColor: ffffe3
+			shootEffect: shootSmall
+			smokeEffect: shootSmallSmoke
+			hitEffect: flakExplosion
+		}
 	}
 
 requirements: [
