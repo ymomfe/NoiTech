@@ -18,7 +18,7 @@ description: Uses electricity to smelt iron and lead into dense alloy more effic
 		items: {
 			items: [
 				iron/2
-				copper/1
+				lead/1
 			]
 		}
 		power: 0.5

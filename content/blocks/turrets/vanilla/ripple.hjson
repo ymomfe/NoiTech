@@ -7,6 +7,7 @@ ammo: {
 	plastanium: artilleryPlastic
 	insulator-alloy: {
 			speed: 6.0
+			damage: 0
 			splashDamage: 50
 			splashDamageRadius: 25
 			knockback: 0.8

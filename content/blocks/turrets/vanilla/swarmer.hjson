@@ -5,8 +5,9 @@ ammo: {
 	insulator-alloy: {
 			speed: 6.0
 			drag: -0.01
+			damage: 14
 			splashDamageRadius: 30
-            splashDamage: 13
+            splashDamage: 14
             homingPower: 2
 			homingRange: 50
             ammoMultiplier: 4

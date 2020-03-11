@@ -18,7 +18,7 @@ description: Burns coal for smelting iron and lead into dense alloy.
 		items: {
 			items: [
 				iron/2
-				copper/1
+				lead/1
 				coal/1
 			]
 		}
