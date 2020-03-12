@@ -1,8 +1,0 @@
-type: resource
-name: Pitchblende
-description: Ore that consists of thorium and lead.
-
-	hardness: 2
-	radioactivity: 0.75
-
-color: 8d9231

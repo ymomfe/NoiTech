@@ -35,7 +35,6 @@ description: Taints water by using spore pods.
 
 requirements: [
 		copper/35
-		dense-alloy/30
+		iron/30
 		lead/25
-		silicon/15
 	]

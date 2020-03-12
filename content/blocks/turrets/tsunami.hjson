@@ -24,9 +24,9 @@ ammo: {
 		liquid: water
 			
 			knockback: 0.7
-			damage: 3
+			damage: 2
 			speed: 3
-			ammoMultiplier: 1
+			ammoMultiplier: 2
 			status: wet
 			statusDuration: 600
 		}
@@ -48,7 +48,7 @@ ammo: {
 			knockback: 0.6
 			damage: 4
 			speed: 4
-			ammoMultiplier: 1
+			ammoMultiplier: 2
 			status: freezing
 			statusDuration: 600
 		}
@@ -59,7 +59,7 @@ ammo: {
 			knockback: 0.6
 			damage: 3
 			speed: 4
-			ammoMultiplier: 1
+			ammoMultiplier: 2
 			status: tarred
 			statusDuration: 600
 		}
@@ -92,7 +92,7 @@ ammo: {
 			knockback: 0.6
 			damage: 6
 			speed: 3
-			ammoMultiplier: 1
+			ammoMultiplier: 2
 			status: burning
 			statusDuration: 600
 		}
@@ -103,7 +103,7 @@ ammo: {
 			knockback: 0.6
 			damage: 7
 			speed: 3
-			ammoMultiplier: 1
+			ammoMultiplier: 2
 			status: burning
 			statusDuration: 600
 		}
