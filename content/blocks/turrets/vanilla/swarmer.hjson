@@ -3,6 +3,7 @@ ammo: {
 	pyratite: missileIncendiary
 	surge-alloy: missileSurge
 	insulator-alloy: {
+	        type: MissileBulletType
 			speed: 6.0
 			drag: -0.01
 			damage: 14

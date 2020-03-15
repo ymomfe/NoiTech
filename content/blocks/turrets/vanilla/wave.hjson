@@ -7,7 +7,8 @@ ammo: {
 		type: liquidBulletType
 		liquid: tainted-water-liquid
 
-			damage: 1
+			damage: 2
+			speed: 3
 			knockback: 0.7
 			status: wet
 			statusDuration: 180

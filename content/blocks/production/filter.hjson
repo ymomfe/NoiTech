@@ -1,6 +1,6 @@
 type: genericCrafter
 name: Filter
-description: Taints water by using spore pods.
+description: Filters tainted water by using coal. Outputs clean water.
 	
 	size: 3
 	health: 60

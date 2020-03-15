@@ -20,48 +20,57 @@ description: Burns any ground enemies close to it. More efficient than Scorch.
 ammo: {
 		sulfur: {
 			damage:9
+			speed: 3
 			ammoMultiplier: 3
 			hitSize: 7
 			lifetime: 42
-			bulletWidth: 1
-    		bulletHeight: 1
+			bulletWidth: 7
+    		bulletHeight: 9
 			pierce: true
 			drag: 0.05
 			status: burning
-			statusDuration: 60
+			statusDuration: 240
 
+			backColor: f1af4e
+			frontColor: fffead
 			shootEffect: shootSmallFlame
 			hitEffect: hitFlameSmall
 			despawnEffect: none
 		}
 		pyratite: {
 			damage:14
+			speed: 3
 			ammoMultiplier: 2
 			hitSize: 8
 			lifetime: 42
-			bulletWidth: 1
-    		bulletHeight: 1
+			bulletWidth: 7
+    		bulletHeight: 9
 			pierce: true
 			drag: 0.05
 			status: burning
-			statusDuration: 120
+			statusDuration: 480
 
+			backColor: f1af4e
+			frontColor: fffead
 			shootEffect: shootSmallFlame
 			hitEffect: hitFlameSmall
 			despawnEffect: none
 		}
 		blast-compound: {
 			damage:21
+			speed: 3
 			ammoMultiplier: 3
 			hitSize: 10
 			lifetime: 42
-			bulletWidth: 1
-    		bulletHeight: 1
+			bulletWidth: 7
+    		bulletHeight: 9
 			pierce: true
 			drag: 0.05
 			status: burning
-			statusDuration: 120
+			statusDuration: 480
 
+			backColor: f1af4e
+			frontColor: fffead
 			shootEffect: shootSmallFlame
 			hitEffect: hitFlameSmall
 			despawnEffect: none
