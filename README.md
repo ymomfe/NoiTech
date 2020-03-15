@@ -1,9 +1,9 @@
 # NoiTech
 A Mindustry mod based around refinery, recycling and filtering.
--
+_
 This mod adds / changes (this information might be outdated):
 
-	· New ores: Bauxite, Iron, Aluminum, Hlite and Sulfur
+	· New ores: Bauxite, Iron, Aluminum, Halite and Sulfur
 
 	· New materias and alloys: Dense alloy, Insulattor Alloy Sludge and Stone
 
@@ -40,5 +40,5 @@ This mod adds / changes (this information might be outdated):
 	· Power and liquid related blocks and turrets: Liquid distributor, Liquid combustion generators, Meddium battery and solar panel, "Burner", "Tsunami" and "Radius"
 	
 	· Changes almost every single mid-game vanilla craft and almost all vanilla blocks requirments
--
+_
 NoiTech Discord server link: https://discord.gg/NcuNTQx
