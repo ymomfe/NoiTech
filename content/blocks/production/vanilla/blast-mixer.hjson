@@ -1,5 +1,3 @@
-description: Crushes and mixes clusters of spores with pyratite and heavy oil to produce blast compound.
-
 	consumes: {
 		liquid: {
 			liquid: heavy-oil-liquid

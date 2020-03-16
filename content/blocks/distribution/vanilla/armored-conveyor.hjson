@@ -1,5 +1,3 @@
-description: Moves items faster than titanium conveyour and possesses more armor. Does not accept inputs from the sides from anything but other conveyor belts.
-
 	speed: 0.13
 
 requirements: [

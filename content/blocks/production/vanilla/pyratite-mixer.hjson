@@ -1,5 +1,3 @@
-description: Mixes lead, sand and sulfur into highly flammable pyratite.
-
 	consumes: {
 		items: {
 			items: [
