@@ -1,6 +1,3 @@
-name: Omni-Bridge Conveyor
-description: Omni-bridge conveyor can be linked with other omni-bridge conveyors in any direction. Possesses more armor than a regular bridge conveyor.
-	
 	size:1
 	health: 180
 	configurable: true

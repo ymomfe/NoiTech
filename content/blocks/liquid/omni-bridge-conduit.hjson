@@ -1,6 +1,3 @@
-name: Omni-Bridge Conduit
-description: Omni-bridge conduit can be linked with other omni-bridge conduits in any direction. Possesses more armor than a regular bridge conduit.
-	
 	size:1
 	health: 180
 	configurable: true

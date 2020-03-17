@@ -1,6 +1,3 @@
-name: Sulfur Extractor
-description: Extracts sulfur from sulfur water. Used in locations with no sulfur ore on surface.
-	
 	size: 2
 	health: 120
 	category: crafting

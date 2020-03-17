@@ -1,6 +1,3 @@
-name: Insulator Weaver
-description: Parses and combines aluminum, silicon and light oil to sew insulator alloy. Requires massive amounts of power to function.
-	
 	size: 3
 	health: 320
 	category: crafting

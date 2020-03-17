@@ -1,6 +1,3 @@
-name: Heavy Oil Processor
-description: Processes heavy oil into fuel. Outputs production waste.
-	
 	size: 3
 	health: 120
 	category: crafting
