@@ -1,6 +1,4 @@
 type: resource
-name: Bauxite
-description: Ore that consists of aluminum, titanium, iron and silicon.
 
 	hardness: 2
 

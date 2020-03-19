@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Arc Smelter
-description: Uses electricity to smelt iron and lead into dense alloy more efficiently.
 	
 	size: 2
 	health: 60

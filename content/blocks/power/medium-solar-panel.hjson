@@ -1,6 +1,4 @@
 type: SolarGenerator
-name: Medium Solar Panel
-description: A more effecient version of the standard solar panel
 
 	size: 2
 	category: power

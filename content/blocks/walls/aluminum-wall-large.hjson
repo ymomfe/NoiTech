@@ -1,6 +1,4 @@
 type: wall
-name: Large Aluminum Wall
-description: "A moderately strong defensive block.\nProvides moderate protection from enemies.\nSpans multiple tiles."
 
 	size: 2
 	health: 1520

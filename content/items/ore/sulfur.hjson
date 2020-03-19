@@ -1,6 +1,4 @@
 type: resource
-name: Sulfur
-description: Chemical element used in flammable compounds production.
 
 	hardness: 2
 	explosiveness: 0.20

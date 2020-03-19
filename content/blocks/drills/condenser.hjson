@@ -1,6 +1,4 @@
 type: solidPump
-name: Condenser
-description: Slowly condensates water from the atmosphere.
 	
 	size: 3
 	health: 45
@@ -13,7 +11,7 @@ description: Slowly condensates water from the atmosphere.
 
 	liquidCapacity: 10
 	pumpAmount: 0.02
-	result: water
+	result: tainted-water-liquid
 	
 requirements: [
 		copper/20

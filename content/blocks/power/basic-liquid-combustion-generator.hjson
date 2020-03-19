@@ -1,6 +1,4 @@
 type: SingleTypeGenerator
-name: Basic Liquid Combustion Generator
-description: Generates power using coal and oil. Much less effective than Liquid Combustion Generator.
 
 	size: 2
 	category: power

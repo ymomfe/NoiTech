@@ -1,6 +1,4 @@
 type: genericCrafter
-name: Sludge Recycler
-description: Recycles sludge into small bits of oil.
 	
 	size: 2
 	health: 90

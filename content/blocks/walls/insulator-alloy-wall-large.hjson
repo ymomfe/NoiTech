@@ -1,6 +1,4 @@
 type: wall
-name: Large Insulator Alloy Wall
-description: "A special type of wall that absorbs electric arcs and blocks automatic power node connections, possesses more health than plastanium walls.\nSpans multiple tiles."
 
 	size: 2
 	health: 3120

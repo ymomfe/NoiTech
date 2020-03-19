@@ -1,6 +1,4 @@
 type: resource
-name: Halite
-description: Rock Salt is a chemical sedimentary rock that forms from the evaporation of ocean or saline lake waters. It is also known by the mineral name halite.
 	
 	hardness: 2
 	

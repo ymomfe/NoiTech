@@ -1,6 +1,4 @@
 type: GenericCrafter
-name: Natrium Extractor
-description: Extracts natrium from halite.
 	
 	size: 1
 	health: 200

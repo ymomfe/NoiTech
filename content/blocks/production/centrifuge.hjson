@@ -1,6 +1,4 @@
 type: separator
-name: Centrifuge
-description: Separates and cools lava in order to obtain various minerals contained in molten stone.
 	
 	size: 2
 	health: 160

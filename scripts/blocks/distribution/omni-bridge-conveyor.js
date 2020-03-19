@@ -66,7 +66,7 @@ const omniBridgeConveyor = extendContent(BufferedItemBridge, "omni-bridge-convey
 
                 var linked = other.pos() == entity.link;
 
-                Draw.color(linked ? Pal.accent : Pal.breakInvalid);
+                Draw.color(linked ? Pal.place : Pal.breakInvalid);
 
                 Lines.square(other.drawx(), other.drawy(),
                 other.block().size * Vars.tilesize / 2.0 + 1.0 + (linked ? 0.0 : Mathf.absin(Time.time(), 4.0, 1.0)));

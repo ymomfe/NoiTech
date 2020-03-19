@@ -1,6 +1,4 @@
 type: GenericCrafter
-name: Lava Solidifer
-description: Cools lava to stone at a fast pece.
 	
 	size: 2
 	health: 120

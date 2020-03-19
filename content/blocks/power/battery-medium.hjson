@@ -1,6 +1,4 @@
 type: Battery
-name: Medium Battery
-description: Stores more power than a regular battery.
 
 	size: 2
 	category: power

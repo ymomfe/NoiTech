@@ -1,5 +1,3 @@
-name: Polluted Water
-description: Water polluted with sludge and other various things. Can be filtered.
 
     heatCapacity: 0.4
 	flammability: 0.15

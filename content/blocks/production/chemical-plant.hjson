@@ -1,6 +1,4 @@
 type: genericCrafter
-name: Chemical Plant
-description: Processes heavy oil into light oil. Outputs production waste.
 	
 	size: 3
 	health: 180

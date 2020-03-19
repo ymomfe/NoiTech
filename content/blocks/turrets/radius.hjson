@@ -1,6 +1,4 @@
 type: PowerTurret
-name: Radius
-description: A small close-range anti-air electric turret. Fires arcs of electriciry at enemies.
     
     size: 1
     health: 260

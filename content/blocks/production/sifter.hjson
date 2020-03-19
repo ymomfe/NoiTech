@@ -1,6 +1,4 @@
 type: genericCrafter
-name: Sifter
-description: Sifts sand to receive scrap.
 	
 	size: 1
 	health: 45

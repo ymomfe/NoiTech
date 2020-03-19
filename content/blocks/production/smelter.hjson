@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Smelter
-description: Burns coal for smelting iron and lead into dense alloy.
 	
 	size: 1
 	health: 60

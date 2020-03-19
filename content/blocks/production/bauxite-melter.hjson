@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Bauxite Melter
-description: Melts bauxite into liquid.
 	
 	size: 2
 	health: 60

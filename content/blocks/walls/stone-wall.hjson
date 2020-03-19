@@ -1,5 +1,4 @@
 type: wall
-name: Stone Wall
 	
 	buildVisibility: sandboxOnly
 	variants: 4

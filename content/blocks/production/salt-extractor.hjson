@@ -1,6 +1,4 @@
 type: GenericCrafter
-name: Salt Extractor
-description: Extracts salt from water. Used in locations with no rock salt on surface.
 	
 	size: 2
 	health: 120

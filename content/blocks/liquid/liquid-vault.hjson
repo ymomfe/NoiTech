@@ -1,6 +1,4 @@
 type: LiquidRouter
-name: Liquid Vault
-description: Stores a huge amount of liquids. Use for creating buffers in situations with non-contant demand of materials or as a safeguard for cooling vital blocks.
 	
 	size: 4
 	health: 900

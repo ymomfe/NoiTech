@@ -1,6 +1,4 @@
 type: ItemTurret
-name: Burner
-description: Burns any ground enemies close to it. More efficient than Scorch.
 	
 	size: 2
 	health: 1600

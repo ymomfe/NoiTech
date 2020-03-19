@@ -1,6 +1,4 @@
 type: genericCrafter
-name: Oil Refinery
-description: Processes raw oil into heavy oil. Outputs production waste.
 	
 	size: 2
 	health: 120

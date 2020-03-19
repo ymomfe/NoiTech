@@ -1,6 +1,4 @@
 type: genericCrafter
-name: Polluted Water Filter
-description: Filters pollluted water using complex filtering system. Outputs clean water.
 	
 	size: 4
 	health: 80

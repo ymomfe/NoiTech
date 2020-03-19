@@ -1,6 +1,4 @@
 type: GenericCrafter
-name: Stone Melter
-description: Heats up stone to very high temperatures to obtain lava.
 	
 	size: 2
 	health: 120

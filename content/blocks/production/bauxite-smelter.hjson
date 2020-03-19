@@ -1,6 +1,4 @@
 type: GenericSmelter
-name: Bauxite Smelter
-description: Smelts raw bauxite into iron using coal as fuel.
 	
 	size: 2
 	health: 60

@@ -1,6 +1,4 @@
 type: separator
-name: Bauxite Refinery
-description: Separates molten bauxite into aluminum, titanium, iron and silicon.
 	
 	size: 3
 	health: 60

@@ -1,6 +1,4 @@
 type: liquidTurret
-name: Tsunami
-description: Shoots streams of liquid at enemmies. Automaticlly extinguishes fires when supplied with water. More efficient than Wave.
 	
 	size: 3
 	health: 1980

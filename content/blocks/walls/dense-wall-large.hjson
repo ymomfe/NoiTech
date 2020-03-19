@@ -1,6 +1,4 @@
 type: wall
-name: Large Dense Alloy Wall
-description: "A standart defensive block.\nAdequate protection from enemies.\nSpans multiple tiles."
 
 	size: 2
 	health: 1320

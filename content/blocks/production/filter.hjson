@@ -1,6 +1,4 @@
 type: genericCrafter
-name: Filter
-description: Filters tainted water by using coal. Outputs clean water.
 	
 	size: 3
 	health: 60

@@ -1,6 +1,4 @@
 type: SingleTypeGenerator
-name: Liquid Combustion Generator
-description: Generates power using coal and fuel.
 
 	size: 2,
 	category: power

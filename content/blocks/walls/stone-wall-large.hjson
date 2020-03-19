@@ -1,5 +1,4 @@
 type: wall
-name: Large Stone Wall
 	
 	buildVisibility: sandboxOnly
 	variants: 4

@@ -1,6 +1,4 @@
 type: vault
-name: Silo
-description: Stores a huge amount of items of each type. An unloader block can be used to retrieve items from the silo.
 
 	size: 4
 	itemCapacity: 3500

@@ -1,6 +1,4 @@
 type: genericCrafter
-name: Coal Liquidifier
-description: Crushes and processes coal into oil.
 
 	size: 2
 	health: 60
