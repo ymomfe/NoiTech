@@ -1,6 +1,0 @@
-requirements: [
-		insulator-alloy/25
-		lead/100
-		silicon/125
-		phase-fabric/15
-	]

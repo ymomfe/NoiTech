@@ -1,8 +1,8 @@
 requirements: [
-		dense-alloy/55
-		graphite/30
-		insulator-alloy/35
-		lead/50
-		metaglass/40
-		titanium/40
-	]
+	dense-alloy/55
+	graphite/30
+	lead/50
+	metaglass/40
+	silicon/35
+	titanium/40
+]

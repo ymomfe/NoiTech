@@ -1,16 +1,12 @@
 type: Battery
-
-	size: 2
-	category: power
-
-	consumes: {
-		powerBuffered: 20000
-	}
-    
+size: 2
+category: power
+consumes: {
+	powerBuffered: 20000
+}
 requirements: [
-		aluminum/25
-		lead/30
-		graphite/10
-		silicon/8
-		
-	]
+	lead/30
+	graphite/10
+	silicon/8
+]
+research: battery

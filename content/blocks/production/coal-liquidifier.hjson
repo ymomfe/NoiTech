@@ -1,36 +1,29 @@
 type: genericCrafter
-
-	size: 2
-	health: 60
-	category: crafting
-	craftEffect: steam
-	idleSound: rock-crusher
-
-	itemCapacity: 10
-	liquidCapacity: 10
-	craftTime: 30
-
-	hasLiquids: true
-	hasItems: true
-	hasPower: true
-
-	consumes: {
-		items: {
-			items: [
-				coal/1
-			]
-		}
-		power: 0.5
+size: 2
+health: 60
+category: crafting
+idleSound: rock-crusher
+itemCapacity: 10
+liquidCapacity: 10
+craftTime: 30
+hasLiquids: true
+hasItems: true
+hasPower: true
+consumes: {
+	items: {
+		items: [
+			coal/1
+		]
 	}
-
-	outputLiquid: {
-		liquid: oil
-		amount: 2.7
-	}
-
+	power: 0.5
+}
+outputLiquid: {
+	liquid: oil
+	amount: 2.7
+}
 requirements: [
-		copper/65
-		dense-alloy/40
-		iron/65
-		lead/30
-	]
+	copper/65
+	graphite/40
+	lead/30
+]
+research: coal-centrifuge

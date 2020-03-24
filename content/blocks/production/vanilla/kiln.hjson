@@ -1,7 +1,6 @@
 requirements: [
-		copper/60
-		dense-alloy/50
-		iron/60
-		graphite/45
-		lead/30
-	]
+	copper/60
+	dense-alloy/50
+	graphite/45
+	lead/30
+]

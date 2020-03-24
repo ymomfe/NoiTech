@@ -1,10 +1,7 @@
 requirements: [
-		aluminum/105
-		copper/105
-        dense-alloy/150
-        insulator-alloy/75
-        iron/105
-		lead/150
-        thorium/75
-        titanium/125
-    ]
+    dense-alloy/150
+	lead/150
+	silicon/75
+    thorium/75
+    titanium/125
+]

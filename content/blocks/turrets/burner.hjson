@@ -1,84 +1,76 @@
 type: ItemTurret
-	
-	size: 2
-	health: 1600
-	category: turret
-	shootEffect: none
-	shootSound: flame
-
-    targetAir: false
-    targetGround: true
-    
-    coolantMultiplier: 2
-	reload: 5
-	shootCone: 50
-	range: 60
-	recoil: 0
-
+size: 2
+health: 1600
+category: turret
+shootEffect: none
+shootSound: flame
+targetAir: false
+targetGround: true
+coolantMultiplier: 2
+reload: 5
+shootCone: 50
+range: 60
+recoil: 0
 ammo: {
-		sulfur: {
-			damage:9
-			speed: 3
-			ammoMultiplier: 3
-			hitSize: 7
-			lifetime: 42
-			bulletWidth: 7
-    		bulletHeight: 9
-			pierce: true
-			drag: 0.05
-			status: burning
-			statusDuration: 240
-
-			backColor: f1af4e
-			frontColor: fffead
-			shootEffect: shootSmallFlame
-			hitEffect: hitFlameSmall
-			despawnEffect: none
-		}
-		pyratite: {
-			damage:14
-			speed: 3
-			ammoMultiplier: 2
-			hitSize: 8
-			lifetime: 42
-			bulletWidth: 7
-    		bulletHeight: 9
-			pierce: true
-			drag: 0.05
-			status: burning
-			statusDuration: 480
-
-			backColor: f1af4e
-			frontColor: fffead
-			shootEffect: shootSmallFlame
-			hitEffect: hitFlameSmall
-			despawnEffect: none
-		}
-		blast-compound: {
-			damage:21
-			speed: 3
-			ammoMultiplier: 3
-			hitSize: 10
-			lifetime: 42
-			bulletWidth: 7
-    		bulletHeight: 9
-			pierce: true
-			drag: 0.05
-			status: burning
-			statusDuration: 480
-
-			backColor: f1af4e
-			frontColor: fffead
-			shootEffect: shootSmallFlame
-			hitEffect: hitFlameSmall
-			despawnEffect: none
-		}
+	sulfur: {
+		damage:9
+		speed: 3
+		ammoMultiplier: 3
+		hitSize: 7
+		lifetime: 42
+		bulletWidth: 7
+    	bulletHeight: 9
+		pierce: true
+		drag: 0.05
+		status: burning
+		statusDuration: 240
+		backColor: f1af4e
+		frontColor: fffead
+		shootEffect: shootSmallFlame
+		hitEffect: hitFlameSmall
+		despawnEffect: none
 	}
-
+	pyratite: {
+		damage:14
+		speed: 3
+		ammoMultiplier: 2
+		hitSize: 8
+		lifetime: 42
+		bulletWidth: 7
+    	bulletHeight: 9
+		pierce: true
+		drag: 0.05
+		status: burning
+		statusDuration: 480
+		backColor: f1af4e
+		frontColor: fffead
+		shootEffect: shootSmallFlame
+		hitEffect: hitFlameSmall
+		despawnEffect: none
+	}
+	blast-compound: {
+		damage:21
+		speed: 3
+		ammoMultiplier: 3
+		hitSize: 10
+		lifetime: 42
+		bulletWidth: 7
+    	bulletHeight: 9
+		pierce: true
+		drag: 0.05
+		status: burning
+		statusDuration: 480
+		backColor: f1af4e
+		frontColor: fffead
+		shootEffect: shootSmallFlame
+		hitEffect: hitFlameSmall
+		despawnEffect: none
+	}
+}
 requirements: [
-		aluminum/105
-		dense-alloy/175
-		iron/200
-		graphite/150
-		titanium/105
-    ]
+	copper/200
+	dense-alloy/175
+	graphite/150
+	titanium/105
+]
+research: scorch

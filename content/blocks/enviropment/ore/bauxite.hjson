@@ -1,5 +1,0 @@
-type: OreBlock
-itemDrop: bauxite
-	
-oreDefault: true
-oreScale: 25.38

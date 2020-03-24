@@ -1,6 +1,6 @@
 requirements: [
-		graphite/60
-		insulator-alloy/12
-		lead/40
-		titanium/20
-	]
+	graphite/60
+	lead/40
+	silicon/20
+	titanium/20
+]

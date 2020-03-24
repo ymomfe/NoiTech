@@ -1,32 +1,27 @@
 type: GenericSmelter
-	
-	size: 2
-	health: 60
-	category: crafting
-	idleSound: machine
-	craftEffect: formsmoke
-
-	hasPower: true
-	hasItems: true
-
-	itemCapacity: 10
-	craftTime: 30
-
-	consumes: {
-		items: {
-			items: [
-				iron/2
-				lead/1
-			]
-		}
-		power: 0.5
+size: 2
+health: 60
+category: crafting
+idleSound: machine
+craftEffect: formsmoke
+hasPower: true
+hasLiquids: false
+hasItems: true
+itemCapacity: 10
+craftTime: 30
+consumes: {
+	items: {
+		items: [
+			copper/2
+			lead/1
+		]
 	}
-
-	outputItem: dense-alloy/1
-
+	power: 0.5
+}
+outputItem: dense-alloy/1
 requirements: [
-		copper/45
-		iron/45
-		graphite/50
-		lead/40
-	]
+	copper/45
+	graphite/50
+	lead/40
+]
+research: smelter

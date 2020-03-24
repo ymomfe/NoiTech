@@ -1,8 +1,0 @@
-type: wall
-	
-	buildVisibility: sandboxOnly
-	variants: 4
-
-	size: 1
-	health: 60
-	category: defense

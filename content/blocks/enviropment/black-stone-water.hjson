@@ -1,12 +1,9 @@
 type: floor
-  
-  isLiquid: true
-
-  variants: 0
-  blendGroup: water
-  cacheLayer: water
-
-  speedMultiplier: 0.8
-  liquidDrop: water
-  status: wet
-  statusDuration: 150
+isLiquid: true
+variants: 0
+blendGroup: water
+cacheLayer: water
+speedMultiplier: 0.8
+liquidDrop: water
+status: wet
+statusDuration: 150

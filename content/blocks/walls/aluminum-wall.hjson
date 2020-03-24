@@ -1,9 +1,0 @@
-type: wall
-
-	size: 1
-	health: 380
-	category: defense
-
-requirements: [
-		aluminum/6
-	]

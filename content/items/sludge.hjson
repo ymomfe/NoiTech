@@ -1,6 +1,4 @@
 type: resource
-	
-	flammability: 1
-	explosiveness: 0.5
-
+flammability: 1
+explosiveness: 0.5
 color: 725f45

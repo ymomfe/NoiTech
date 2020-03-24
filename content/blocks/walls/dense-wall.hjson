@@ -1,9 +1,8 @@
 type: wall
-
-	size: 1
-	health: 330
-	category: defense
-
+size: 1
+health: 330
+category: defense
 requirements: [
-		dense-alloy/6
-	]
+	dense-alloy/6
+]
+research: copper-wall-large

@@ -1,5 +1,4 @@
 requirements: [
-		aluminum/75
-		dense-alloy/100
-		titanium/100
-	]
+	dense-alloy/100
+	titanium/100
+]

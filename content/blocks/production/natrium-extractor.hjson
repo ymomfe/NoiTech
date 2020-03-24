@@ -1,38 +1,32 @@
 type: GenericCrafter
-	
-	size: 1
-	health: 200
-	category: crafting
-
-	hasPower: true
-	hasItems: true
-	hasLiquids: true
-
-	itemCapacity: 10
-	liquidCapacity: 10
-	craftTime: 10
-
-	consumes: {
-		items: {
-			items: [
-				rock-salt/1
-			]
-		}
-		liquid: {
-			liquid: water
-			amount: 0.10
-		}
-		power: 1
+size: 1
+health: 200
+category: crafting
+hasPower: true
+hasItems: true
+hasLiquids: true
+itemCapacity: 10
+liquidCapacity: 10
+craftTime: 10
+consumes: {
+	items: {
+		items: [
+			rock-salt/1
+		]
 	}
-
-	outputLiquid: {
-		liquid: natrium-liquid
-		amount: 2
+	liquid: {
+		liquid: water
+		amount: 0.2
 	}
-
+	power: 1
+}
+outputLiquid: {
+	liquid: natrium-liquid
+	amount: 2
+}
 requirements: [
 		graphite/45
-		iron/30
 		lead/45
 		titanium/35
-	]
+]
+research: mineral-extractor

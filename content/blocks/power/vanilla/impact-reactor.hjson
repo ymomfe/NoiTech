@@ -1,9 +1,9 @@
 requirements: [
 		dense-alloy/350
 		graphite/350
-		insulator-alloy/300
 		lead/500
 		metaglass/250
+		silicon/300
 		surge-alloy/250
 		thorium/100
 	]

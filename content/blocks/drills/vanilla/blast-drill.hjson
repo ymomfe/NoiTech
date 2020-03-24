@@ -1,9 +1,7 @@
 requirements: [
-		aluminum/50
-        copper/60
-        dense-alloy/80
-        iron/75
-        silicon/60
-        titanium/50
-        thorium/75
-    ]
+    copper/65
+    dense-alloy/80
+    silicon/60
+    titanium/50
+    thorium/75
+]

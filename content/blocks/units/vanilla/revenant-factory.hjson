@@ -1,19 +1,9 @@
-	consumes: {
-		items: {
-			items: [
-				aluminum/45
-				dense-alloy/30
-				silicon/40
-				titanium/30
-			]
-		}
+consumes: {
+	items: {
+		items: [
+			dense-alloy/30
+			silicon/40
+			titanium/30
+		]
 	}
-
-requirements: [
-		aluminum/125
-		insulator-alloy/35
-		lead/150
-		plastanium/35
-		silicon/180
-		titanium/150
-	]
+}

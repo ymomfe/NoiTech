@@ -1,9 +1,0 @@
-type: wall
-
-	size: 1
-	health: 280
-	category: defense
-
-requirements: [
-		iron/6
-	]

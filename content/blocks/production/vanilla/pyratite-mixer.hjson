@@ -1,16 +1,14 @@
-	consumes: {
-		items: {
-			items: [
-				sulfur/1
-				lead/2
-				sand/2
-			]
-		}
+consumes: {
+	items: {
+		items: [
+			sulfur/1
+			lead/2
+			sand/2
+		]
 	}
-
+}
 requirements: [
-		copper/50
-		dense-alloy/65
-		iron/45
-		lead/30
-	]
+	copper/50
+	dense-alloy/65
+	lead/30
+]

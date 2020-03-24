@@ -1,10 +1,7 @@
-	pumpAmount: 0.2
-
+result: mineral-water-liquid
 requirements: [
-		aluminum/15
-        copper/45
-        dense-alloy/30
-        graphite/25
-        lead/25
-        titanium/20
-    ]
+    copper/35
+    graphite/30
+    lead/30
+    titanium/20
+]

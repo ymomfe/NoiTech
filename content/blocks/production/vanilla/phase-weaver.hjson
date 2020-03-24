@@ -1,8 +1,0 @@
-requirements: [
-		aluminum/225
-		copper/200
-		insulator-alloy/55
-		lead/120
-		silicon/130
-		thorium/75
-	]

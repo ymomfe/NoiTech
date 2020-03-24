@@ -3,10 +3,8 @@ ammo: {
 	graphite: artilleryDense
 	pyratite: artilleryIncendiary
 	silicon: artilleryHoming
-	}
-	
+}	
 requirements: [
-        copper/40
-        dense-alloy/25
-        iron/35
-    ]
+    copper/40
+    dense-alloy/25
+]

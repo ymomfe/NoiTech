@@ -1,14 +1,8 @@
-	consumes: {
-		items: {
-			items: [
-				iron/3
-				sulfur/6
-			]
-		}
+consumes: {
+	items: {
+		items: [
+			lead/3
+			sulfur/6
+		]
 	}
-
-requirements: [
-		iron/50
-		lead/45
-		silicon/45
-	]
+}

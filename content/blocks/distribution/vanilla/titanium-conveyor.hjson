@@ -1,5 +1,5 @@
 requirements: [
-        dense-alloy/1
-        lead/1
-        titanium/1
-    ]
+    dense-alloy/1
+    lead/1
+    titanium/1
+]

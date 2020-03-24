@@ -1,0 +1,28 @@
+size: 3
+health: 60
+category: crafting
+hasPower: true
+hasLiquids: true
+hasItems: true
+liquidCapacity: 240
+craftTime: 60
+consumes: {
+	liquid: {
+		liquid: mineral-water-liquid
+		amount: 0.05
+	}
+	power: 0.5
+}
+outputItem: rock-salt/1
+outputLiquid: {
+	liquid: water
+	amount: 2
+}
+requirements: [
+		copper/90
+		dense-alloy/80
+		graphite/75
+		lead/115
+		silicon/30
+]
+research: filter

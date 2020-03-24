@@ -1,7 +1,6 @@
 requirements: [
-		dense-alloy/105
-		insulator-alloy/45
-		lead/80
-		silicon/45
-		thorium/70
-	]
+	dense-alloy/105
+	lead/80
+	silicon/80
+	thorium/70
+]

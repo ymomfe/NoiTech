@@ -1,33 +1,27 @@
 type: SingleTypeGenerator
-
-	size: 2,
-	category: power
-
-	hasPower: true
-	hasItems: true
-	hasLiquids: true
-
-	liquidCapacity: 50
-
-	itemDuration: 60
-	consumes: {
-		items: {
-			items: [
-				coal/1
-			]
-		}
-		liquid: {
-			liquid: fuel-liquid
-			amount: 0.333
-		}
+size: 2,
+category: power
+hasPower: true
+hasItems: true
+hasLiquids: true
+liquidCapacity: 50
+itemDuration: 60
+consumes: {
+	items: {
+		items: [
+			coal/1
+		]
 	}
-
-	powerProduction: 9.0
-
+	liquid: {
+		liquid: fuel-liquid
+		amount: 0.333
+	}
+}
+powerProduction: 9.0
 requirements: [
-		copper/125
-		dense-alloy/75
-		graphite/80
-		iron/130
-		silicon/75
-	]
+	copper/155
+	dense-alloy/75
+	graphite/100
+	silicon/75
+]
+research: basic-liquid-combustion-generator

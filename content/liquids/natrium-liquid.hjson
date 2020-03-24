@@ -1,7 +1,5 @@
-	
-	temperature: 0.35
-    viscosity: 0.35
-    heatCapacity: 0.6
-
-effect: wet
+temperature: 0.35
+viscosity: 0.35
+heatCapacity: 0.6
+effect: freezing
 color: ffffff

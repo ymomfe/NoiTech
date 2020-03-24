@@ -1,19 +1,11 @@
-	consumes: {
-		liquid: {
-			liquid: heavy-oil-liquid
-			amount: 0.0369
-		}
-		items: {
-			items: [
-				pyratite/1
-				spore-pod/1
-			]
-		}
+consumes: {
+	liquid: {
+		liquid: heavy-oil-liquid
+		amount: 0.0369
 	}
-
+}
 requirements: [
-		dense-alloy/40
-		iron/60
-		lead/30
-		titanium/35
-	]
+	dense-alloy/40
+	lead/30
+	titanium/35
+]

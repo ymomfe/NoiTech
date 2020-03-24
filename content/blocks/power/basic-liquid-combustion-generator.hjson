@@ -1,31 +1,25 @@
 type: SingleTypeGenerator
-
-	size: 2
-	category: power
-
-	hasPower: true
-	hasItems: true
-	hasLiquids: true
-
-	liquidCapacity: 50
-
-	itemDuration: 60
-	consumes: {
-		items: {
-			items: [
-				coal/1
-			]
-		}
-		liquid: {
-			liquid: oil
-			amount: 0.16666
-		}
+size: 2
+category: power
+hasPower: true
+hasItems: true
+hasLiquids: true
+liquidCapacity: 50
+itemDuration: 60
+consumes: {
+	items: {
+		items: [
+			coal/1
+		]
 	}
-
-	powerProduction: 1.5
-
+	liquid: {
+		liquid: oil
+		amount: 0.16666
+	}
+}
+powerProduction: 1.5
 requirements: [
-		copper/25
-		iron/25
-		lead/30
-	]
+	copper/45
+	lead/30
+]
+research: combustion-generator

@@ -1,30 +1,14 @@
 ammo: {
-		graphite: standardDenseBig
-		pyratite: standardIncendiaryBig
-		thorium: standardThoriumBig
-		dense-alloy: standardDenseBig
-		insulator-alloy: {
-			speed: 6.0
-			damage: 60
-            homingPower: 5
-            reloadMultiplier: 1.4
-            ammoMultiplier: 5
-            lifetime: 60
-			
-			bulletWidth: 15
-            bulletHeight: 21
-            backColor: fbda9e
-			frontColor: ffffe3
-			shootEffect: shootBig
-			smokeEffect: shootSmallSmoke
-		}
-	}
-
+	graphite: standardDenseBig
+	pyratite: standardIncendiaryBig
+	thorium: standardThoriumBig
+	dense-alloy: standardDenseBig
+}
 requirements: [
-        dense-alloy/350
-        graphite/300
-        insulator-alloy/150
-        iron/325
-        thorium/250  
-        surge-alloy/250
-    ]
+	copper/350
+    dense-alloy/350
+    graphite/300
+    plastanium/175
+    thorium/250  
+    surge-alloy/250
+]

@@ -1,5 +1,4 @@
 requirements: [
-		copper/20
-		iron/15
-		metaglass/10
-	]
+	copper/20
+	metaglass/10
+]

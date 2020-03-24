@@ -1,35 +1,7 @@
-ammo: {
-	blast-compound: missileExplosive
-	pyratite: missileIncendiary
-	surge-alloy: missileSurge
-	insulator-alloy: {
-	        type: MissileBulletType
-			speed: 6.0
-			drag: -0.01
-			damage: 14
-			splashDamageRadius: 30
-            splashDamage: 14
-            homingPower: 2
-			homingRange: 50
-            ammoMultiplier: 4
-            lifetime: 150
-            
-            bulletWidth: 8
-            bulletHeight: 8
-            bulletShrink: 0
-            backColor: fbda9e
-			frontColor: ffffe3
-			shootEffect: shootSmall
-			smokeEffect: shootSmallSmoke
-			hitEffect: blastExplosion
-			despawnEffect: blastExplosion
-		}
-	}
-
 requirements: [
-		aluminum/30
-        dense-alloy/50
-        graphite/35
-        silicon/45
-        plastanium/45
-    ]
+    dense-alloy/50
+    graphite/35
+    silicon/45
+    plastanium/45
+    titanium/35
+]

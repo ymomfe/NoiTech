@@ -1,20 +1,16 @@
 type: solidPump
-	
-	size: 3
-	health: 45
-	category: production
-	rotateSpeed: 0
-
-	hasPower: false
-	hasItems: false
-	hasLiquids: true
-
-	liquidCapacity: 10
-	pumpAmount: 0.02
-	result: tainted-water-liquid
-	
+size: 3
+health: 45
+category: production
+rotateSpeed: 0
+hasPower: false
+hasItems: false
+hasLiquids: true
+liquidCapacity: 10
+pumpAmount: 0.01
+result: water
 requirements: [
-		copper/20
-		lead/25
-		iron/20
-	]
+	copper/20
+	lead/25
+]
+research: mechanical-pump

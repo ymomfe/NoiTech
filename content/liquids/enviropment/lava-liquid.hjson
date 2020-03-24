@@ -1,6 +1,4 @@
-    
-    viscosity: 0.8
-    temperature: 1.5
-
+viscosity: 0.8
+temperature: 1
 effect: burning
 color: ff4a12

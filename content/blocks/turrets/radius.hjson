@@ -1,24 +1,20 @@
 type: PowerTurret
-    
-    size: 1
-    health: 260
-    category: turret
-    shootEffect: lightningShoot
-    heatColor: Color.red
-    shootSound: spark
-
-    targetAir: true
-    targetGround: false
-    
-    reload: 35
-    shootCone: 40
-    shootType: arc
-    range: 90
-    recoil: 1
-
-    powerUse: 1.5
-    
+size: 1
+health: 260
+category: turret
+shootEffect: lightningShoot
+heatColor: Color.red
+shootSound: spark
+targetAir: true
+targetGround: false
+reload: 35
+shootCone: 40
+shootType: arc
+range: 90
+recoil: 1
+powerUse: 1.5   
 requirements: [
-        iron/35
-        lead/50
-    ]
+    copper/35
+    lead/50
+]
+research: arc

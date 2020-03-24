@@ -1,34 +1,29 @@
 type: genericCrafter
-	
-	size: 3
-	health: 180
-	category: crafting
-	idleSound: machine
-
-	hasPower: true
-	hasItems: true
-	hasLiquids: true
-
-	liquidCapacity: 200
-	craftTime: 45
-
-	consumes: {
-		liquid: {
-			liquid: heavy-oil-liquid
-			amount: 0.334
-		}
-		power: 0.5
+size: 3
+health: 180
+category: crafting
+idleSound: machine
+hasPower: true
+hasItems: true
+hasLiquids: true
+liquidCapacity: 200
+craftTime: 45
+consumes: {
+	liquid: {
+		liquid: heavy-oil-liquid
+		amount: 0.334
 	}
-
-	outputItem: sludge/1
-	outputLiquid: {
-		liquid: light-oil-liquid
-		amount: 12
-	}
-
+	power: 0.5
+}
+outputItem: sludge/1
+outputLiquid: {
+	liquid: light-oil-liquid
+	amount: 12
+}
 requirements: [
-		aluminum/70
-		dense-alloy/105
-		graphite/70
-		lead/105
-	]
+	dense-alloy/105
+	graphite/70
+	lead/105
+	titanium/70
+]
+research: heavy-oil-processor

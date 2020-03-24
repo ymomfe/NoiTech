@@ -1,12 +1,10 @@
 type: vault
-
-	size: 4
-	itemCapacity: 3500
-	category: effect
-
+size: 4
+itemCapacity: 3500
+category: effect
 requirements: [
-		aluminum/205
-		dense-alloy/450
-		thorium/205
-		titanium/425
-	]
+	dense-alloy/450
+	titanium/425
+	thorium/205
+]
+research: vault

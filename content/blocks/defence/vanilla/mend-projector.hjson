@@ -1,7 +1,6 @@
 requirements: [
-		aluminum/25
-		dense-alloy/75
-		lead/100
-		silicon/50
-		titanium/45
-	]
+	dense-alloy/75
+	lead/100
+	silicon/50
+	titanium/45
+]

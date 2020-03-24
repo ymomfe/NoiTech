@@ -1,18 +1,16 @@
-	size:1
-	health: 180
-	configurable: true
-	category: distribution
-
-	update: true
-	hasItems: true
-
-	bufferCapacity: 14
-	range: 4
-	speed: 70
-
+size:1
+health: 180
+configurable: true
+category: distribution
+update: true
+hasItems: true
+bufferCapacity: 14
+range: 4
+speed: 70
 requirements: [
-		aluminum/4
-		insulator-alloy/8
-		metaglass/2
-		thorium/8
-	]
+	dense-alloy/4
+	metaglass/8
+	plastanium/8
+	thorium/8
+]
+research: armored-conveyor

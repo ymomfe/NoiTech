@@ -1,39 +1,30 @@
 type: separator
-	
-	size: 2
-	health: 160
-	category: crafting
-
-	hasPower: true
-	hasLiquids: true
-
-	liquidCapacity: 10
-	craftTime: 35
-
-	consumes: {
-		liquid: {
-			liquid: lava-liquid
-			amount: 0.14222
-		}
-		power: 1
+size: 2
+health: 160
+category: crafting
+hasPower: true
+hasLiquids: true
+hasItems: true
+liquidCapacity: 10
+craftTime: 35
+consumes: {
+	liquid: {
+		liquid: lava-liquid
+		amount: 0.14222
 	}
-
-	results:[
-		copper/4
-		lead/4
-		iron/4
-		coal/3
-		sulfur/2
-		sand/2
-		stone/1
-		rock-salt/3
-		titanium/2
-		aluminum/2
-		thorium/1
+	power: 1
+}
+results:[
+	copper/4
+	lead/4
+	stone/1
+	titanium/2
+	thorium/1
 	]
-
 requirements: [
-		dense-alloy/45
-		iron/35
-		lead/45
-	]
+	copper/45
+	dense-alloy/75
+	lead/45
+	titanium/50
+]
+research: stone-melter

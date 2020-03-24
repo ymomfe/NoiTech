@@ -1,9 +1,8 @@
 type: wall
-
-	size: 2
-	health: 1320
-	category: defense
-
+size: 2
+health: 1320
+category: defense
 requirements: [
-		dense-alloy/24
-	]
+	dense-alloy/24
+]
+research: dense-wall

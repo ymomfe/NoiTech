@@ -1,14 +1,10 @@
 type: SolarGenerator
-
-	size: 2
-	category: power
-
-    powerProduction: 0.42
-
+size: 2
+category: power
+powerProduction: 0.42
 requirements: [
-		aluminum/15
-		graphite/30
-		lead/45
-		silicon/55
-		
-	]
+	graphite/30
+	lead/45
+	silicon/55		
+]
+research: solar-panel

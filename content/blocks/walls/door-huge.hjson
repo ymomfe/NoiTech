@@ -1,12 +1,9 @@
 type: door
-	
-	buildVisibility: sandboxOnly
-
-	size: 3
-	health: 3600
-	category: defense
-
+buildVisibility: sandboxOnly
+size: 3
+health: 3600
+category: defense
 requirements: [
-		graphite/54
-		silicon/36
-	]
+	graphite/54
+	silicon/36
+]

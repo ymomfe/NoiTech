@@ -1,6 +1,5 @@
 requirements: [
-		copper/13
-		dense-alloy/20
-		graphite/13
-        iron/20
-    ]
+	copper/13
+	dense-alloy/20
+	graphite/13
+]

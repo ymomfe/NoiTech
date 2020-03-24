@@ -1,7 +1,4 @@
 type: Floor
-
-	variants: 6
-
+variants: 6
 itemDrop: stone
-
-	playerUnmineable: true
+playerUnmineable: true

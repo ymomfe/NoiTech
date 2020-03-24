@@ -1,5 +1,3 @@
 type: resource
-	
-	hardness: 3
-
+hardness: 3
 color: 666666

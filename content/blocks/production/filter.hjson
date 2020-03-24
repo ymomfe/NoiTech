@@ -1,37 +1,32 @@
 type: genericCrafter
-	
-	size: 3
-	health: 60
-	category: crafting
-
-	hasPower: true
-	hasItems: true
-	hasLiquids: true
-
-	liquidCapacity: 240
-	craftTime: 60
-
-	consumes: {
-		items: {
-			items: [
-				coal/1
-			]
-		}
-		liquid: {
-			liquid: tainted-water-liquid
-			amount: 0.5
-		}
-		power: 0.25
+size: 4
+health: 90
+category: crafting
+hasPower: true
+hasItems: true
+hasLiquids: true
+liquidCapacity: 240
+craftTime: 60
+consumes: {
+	items: {
+		items: [
+			coal/1
+		]
 	}
-
-	outputLiquid: {
-		liquid: water
-		amount: 30
+	liquid: {
+		liquid: tainted-water-liquid
+		amount: 0.5
 	}
-
+	power: 0.25
+}
+outputItem: sulfur/1
+outputLiquid: {
+	liquid: water
+	amount: 30
+}
 requirements: [
-		copper/60
-		graphite/40
-		lead/75
-		metaglass/35
-	]
+	copper/60
+	graphite/40
+	lead/75
+]
+research: conduit

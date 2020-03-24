@@ -1,7 +1,6 @@
 requirements: [
-		copper/35
-		dense-alloy/50
-		iron/35
-		lead/40
-		silicon/35
-	]
+	copper/35
+	dense-alloy/50
+	lead/40
+	silicon/35
+]

@@ -1,27 +1,23 @@
 type: genericCrafter
-	
-	size: 1
-	health: 45
-	category: crafting
-	craftEffect: pulverize
-
-	hasPower: false
-	hasItems: true
-
-	itemCapacity: 6
-	craftTime: 30
-
-	consumes: {
-		items: {
-			items: [
-				sand/3
-			]
-		}
+size: 1
+health: 45
+category: crafting
+craftEffect: pulverize
+hasPower: false
+hasLiquids: false
+hasItems: true
+itemCapacity: 6
+craftTime: 30
+consumes: {
+	items: {
+		items: [
+			sand/5
+		]
 	}
-
-	outputItem: scrap/1
-
+}
+outputItem: scrap/1
 requirements: [
 		copper/25
-		iron/25
-	]
+		lead/25
+]
+research: mechanical-drill

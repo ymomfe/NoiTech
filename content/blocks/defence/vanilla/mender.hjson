@@ -1,6 +1,5 @@
 requirements: [
-		copper/35
-		dense-alloy/15
-		iron/30
-		lead/30
-	]
+	copper/35
+	dense-alloy/15
+	lead/30
+]

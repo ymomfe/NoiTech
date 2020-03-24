@@ -1,5 +1,4 @@
 requirements: [
-		copper/15
-		iron/15
-		silicon/12
-	]
+	lead/15
+	silicon/12
+]
