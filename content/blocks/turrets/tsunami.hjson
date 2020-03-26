@@ -30,7 +30,7 @@ ammo: {
 		damage: 4
 		speed: 6
 		ammoMultiplier: 2
-		status: burning
+		status: melting
 		statusDuration: 600
 	}
 	cryofluid: {
@@ -63,6 +63,16 @@ ammo: {
 		status: wet
 		statusDuration: 600
 	}
+	lava-liquid: {
+		type: liquidBulletType
+		liquid: lava-liquid
+		knockback: 0.6
+		damage: 2
+		speed: 6
+		ammoMultiplier: 2
+		status: melting
+		statusDuration: 600
+	}
 	light-oil-liquid: {
 		type: liquidBulletType
 		liquid: light-oil-liquid
@@ -70,7 +80,7 @@ ammo: {
 		damage: 6
 		speed: 6
 		ammoMultiplier: 2
-		status: burning
+		status: melting
 		statusDuration: 600
 	}
 	heavy-oil-liquid: {
@@ -80,7 +90,7 @@ ammo: {
 		damage: 7
 		speed: 6
 		ammoMultiplier: 2
-		status: burning
+		status: melting
 		statusDuration: 600
 	}
 }

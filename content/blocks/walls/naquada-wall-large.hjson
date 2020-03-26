@@ -1,0 +1,8 @@
+health: 2640
+size: 2
+update: true
+category: defense
+requirements: [
+	naquada/24
+]
+research: naquada-wall

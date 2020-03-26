@@ -5,6 +5,6 @@ blendGroup: water
 cacheLayer: tar
 speedMultiplier: 0.17
 liquidDrop: lava-liquid
-status: burning
+status: melting
 statusDuration: 150
 drownTime: 50

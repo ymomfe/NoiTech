@@ -7,3 +7,8 @@ require("blocks/production/light-oil-processor")
 require("blocks/distribution/omni-bridge-conveyor")
 //blocks-liquid
 require("blocks/liquid/omni-bridge-conduit")
+//blocks-drills
+require("blocks/drills/bowels-mining-station")
+//blocks-walls
+require("blocks/walls/naquada-wall")
+require("blocks/walls/naquada-wall-large")

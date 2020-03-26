@@ -10,6 +10,14 @@ ammo: {
 		status: wet
 		statusDuration: 180
 	}
+	lava-liquid: {
+		type: liquidBulletType
+		liquid: lava-liquid
+		knockback: 0.6
+		damage: 1
+		status: melting
+		statusDuration: 180
+	}
 }
 requirements: [
 	copper/70

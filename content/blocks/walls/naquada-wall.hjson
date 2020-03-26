@@ -1,0 +1,8 @@
+health: 660
+size: 1
+update: true
+category: defense
+requirements: [
+	naquada/6
+]
+research: phase-wall
