@@ -17,7 +17,7 @@ consumes: {
 		amount: 0.333
 	}
 }
-powerProduction: 9.0
+powerProduction: 12.0
 requirements: [
 	copper/155
 	dense-alloy/75

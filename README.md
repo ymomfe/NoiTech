@@ -9,7 +9,7 @@ This mod adds / changes (this information might be outdated):
 
 	· New liquids: Heavy oil, Light oil, Fuel, Natrium, Lava, Tinted water and Mineral water
 
-	· New enviropment: Black stone, Dirt, Red soil and Tainted ice
+	· New environment: Black stone, Dirt, Red soil and Tainted ice
 
 	· New factories:
 	 > Condesner - Slowly condensates water from the atmosphere

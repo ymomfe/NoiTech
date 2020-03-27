@@ -5,7 +5,7 @@ hasPower: true
 hasLiquids: true
 hasItems: true
 liquidCapacity: 240
-craftTime: 60
+craftTime: 15
 consumes: {
 	liquid: {
 		liquid: mineral-water-liquid
