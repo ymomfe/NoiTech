@@ -1,4 +1,4 @@
-type: wall
+type: Wall
 size: 1
 health: 330
 category: defense

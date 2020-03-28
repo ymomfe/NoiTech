@@ -3,12 +3,11 @@ require("blocks/production/mineral-extractor")
 require("blocks/production/rock-crusher")
 require("blocks/production/heavy-oil-processor")
 require("blocks/production/light-oil-processor")
+require("blocks/production/fossils-liquidifier")
 //blocks-distribution
 require("blocks/distribution/omni-bridge-conveyor")
 //blocks-liquid
 require("blocks/liquid/omni-bridge-conduit")
-//blocks-drills
-require("blocks/drills/bowels-mining-station")
-//blocks-walls
-require("blocks/walls/naquada-wall")
-require("blocks/walls/naquada-wall-large")
+//blocks-environment
+require("blocks/environment/lava")
+require("blocks/environment/ignarock-lava")

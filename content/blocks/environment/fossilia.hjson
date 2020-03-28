@@ -1,0 +1,6 @@
+type: OreBlock
+itemDrop: fossilia
+variants: 5
+oreDefault: true
+oreScale: 25.38
+oreThreshold: 0.882

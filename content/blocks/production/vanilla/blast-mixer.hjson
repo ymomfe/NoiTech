@@ -1,9 +1,3 @@
-consumes: {
-	liquid: {
-		liquid: heavy-oil-liquid
-		amount: 0.0369
-	}
-}
 requirements: [
 	dense-alloy/40
 	lead/30

@@ -1,0 +1,30 @@
+size: 3
+health: 90
+category: crafting
+craftEffect: pulverize
+idleSound: drill
+hasPower: true
+hasItems: true
+hasLiquids: true
+itemCapacity: 30
+liquidCapacity: 10
+craftTime: 45
+consumes: {
+	items: {
+		items: [
+			fossilia/7
+		]
+	}
+	power: 0.25
+}
+outputLiquid: {
+	liquid: oil
+	amount: 1
+}
+requirements: [
+	copper/105
+	dense-alloy/80
+	graphite/100
+	lead/70
+]
+research: oil-refinery

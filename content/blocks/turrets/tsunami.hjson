@@ -23,6 +23,16 @@ ammo: {
 		status: wet
 		statusDuration: 600
 	}
+	mineral-water-liquid: {
+		type: liquidBulletType
+		liquid: mineral-water-liquid	
+		knockback: 0.7
+		damage: 1
+		speed: 6
+		ammoMultiplier: 2
+		status: wet
+		statusDuration: 600
+	}
 	slag: {
 		type: liquidBulletType
 		liquid: slag
@@ -38,6 +48,16 @@ ammo: {
 		liquid: cryofluid
 		knockback: 0.6
 		damage: 2
+		speed: 6
+		ammoMultiplier: 2
+		status: freezing
+		statusDuration: 600
+	}
+	natrium-liquid: {
+		type: liquidBulletType
+		liquid: natrium-liquid
+		knockback: 0.6
+		damage: 1
 		speed: 6
 		ammoMultiplier: 2
 		status: freezing

@@ -3,3 +3,4 @@ viscosity: 0.35
 heatCapacity: 0.6
 effect: freezing
 color: ffffff
+lightColor: ffffff33

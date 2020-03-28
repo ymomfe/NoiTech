@@ -3,7 +3,6 @@ requirements: [
     dense-alloy/325
     graphite/300
     lead/350
-    naquada/70
     silicon/225
     surge-alloy/325
 ]

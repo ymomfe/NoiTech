@@ -1,9 +1,9 @@
-type: floor 
+type: Floor
 isLiquid: true
-variants: 0
+variants: 0 
 blendGroup: tar
 cacheLayer: tar
-speedMultiplier: 0.30
+speedMultiplier: 0.3
 liquidDrop: oil
 status: tarred
-statusDuration: 240
+statusDuration: 120

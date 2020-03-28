@@ -1,4 +1,4 @@
-type: solidPump
+type: SolidPump
 size: 3
 health: 45
 category: production

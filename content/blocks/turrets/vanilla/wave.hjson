@@ -10,6 +10,21 @@ ammo: {
 		status: wet
 		statusDuration: 180
 	}
+	mineral-water-liquid: {
+		type: liquidBulletType
+		liquid: mineral-water-liquid
+		knockback: 0.7
+		status: wet
+		statusDuration: 180
+	}
+	natrium-liquid: {
+		type: liquidBulletType
+		liquid: natrium-liquid
+		knockback: 0.6
+		ammoMultiplier: 2
+		status: freezing
+		statusDuration: 180
+	}
 	lava-liquid: {
 		type: liquidBulletType
 		liquid: lava-liquid
