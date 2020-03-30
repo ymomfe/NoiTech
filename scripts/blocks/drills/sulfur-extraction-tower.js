@@ -1,4 +1,4 @@
-const rockCrusher = extendContent(GenericCrafter, "rock-crusher", {
+const sulfurExtractionTower = extendContent(GenericCrafter, "sulfur-extraction-tower", {
 	draw(tile){
 		Draw.rect(Core.atlas.find(this.name + "-bottom"), tile.drawx(), tile.drawy());
 		Draw.rect(Core.atlas.find(this.name + "-rotator"), tile.drawx(), tile.drawy(), tile.entity.totalProgress * 2);
@@ -10,4 +10,4 @@ const rockCrusher = extendContent(GenericCrafter, "rock-crusher", {
 		];
 	},	
 });
-rockCrusher.layer = Layer.turret;
+sulfurExtractionTower.layer = Layer.turret;

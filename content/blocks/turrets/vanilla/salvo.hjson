@@ -5,6 +5,19 @@ ammo: {
 	silicon: standardHoming
 	dense-alloy: standardDense
 	thorium: standardThorium
+	sulfur: {
+		speed: 6.0
+		damage: 7
+		incendAmount: 1
+		incendSpread: 0.01
+		incendChance: 0.25
+		bulletWidth: 7
+        bulletHeight: 9
+		backColor: fbda9e
+		frontColor: ffffe3
+		shootEffect: shootSmall
+		smokeEffect: shootSmallSmoke
+	}
 }
 requirements: [
 	copper/105

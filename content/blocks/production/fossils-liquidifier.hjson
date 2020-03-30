@@ -19,7 +19,7 @@ consumes: {
 }
 outputLiquid: {
 	liquid: oil
-	amount: 1
+	amount: 5
 }
 requirements: [
 	copper/105

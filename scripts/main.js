@@ -4,6 +4,9 @@ require("blocks/production/rock-crusher")
 require("blocks/production/heavy-oil-processor")
 require("blocks/production/light-oil-processor")
 require("blocks/production/fossils-liquidifier")
+//blocks-drills
+require("blocks/drills/condenser")
+require("blocks/drills/sulfur-extraction-tower")
 //blocks-distribution
 require("blocks/distribution/omni-bridge-conveyor")
 //blocks-liquid

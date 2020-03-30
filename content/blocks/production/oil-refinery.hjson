@@ -17,7 +17,7 @@ consumes: {
 	}
 	power: 0.5
 }
-outputItem: sludge/1
+outputItem: sulfur/1
 outputLiquid: {
 	liquid: heavy-oil-liquid
 	amount: 12

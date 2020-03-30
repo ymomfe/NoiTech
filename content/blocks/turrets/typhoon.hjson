@@ -1,0 +1,128 @@
+type: liquidTurret
+size: 4
+health: 3200
+category: turret
+shootEffect: shootLiquid
+shootSound: splash
+targetAir: true
+targetGround: true
+liquidCapacity: 240
+reload: 0.5
+shootCone: 50
+range: 320
+inaccuracy: 0
+recoil: 0
+ammo: {
+	water: {
+		type: liquidBulletType
+		liquid: water	
+		knockback: 1.4
+		damage: 3
+		speed: 6
+		ammoMultiplier: 2
+		status: wet
+		statusDuration: 600
+	}
+	mineral-water-liquid: {
+		type: liquidBulletType
+		liquid: mineral-water-liquid	
+		knockback: 1.4
+		damage: 3
+		speed: 6
+		ammoMultiplier: 2
+		status: wet
+		statusDuration: 600
+	}
+	slag: {
+		type: liquidBulletType
+		liquid: slag
+		knockback: 1.2
+		damage: 8
+		speed: 6
+		ammoMultiplier: 2
+		status: melting
+		statusDuration: 600
+	}
+	cryofluid: {
+		type: liquidBulletType
+		liquid: cryofluid
+		knockback: 1.2
+		damage: 5
+		speed: 6
+		ammoMultiplier: 2
+		status: freezing
+		statusDuration: 600
+	}
+	natrium-liquid: {
+		type: liquidBulletType
+		liquid: natrium-liquid
+		knockback: 1.2
+		damage: 3
+		speed: 6
+		ammoMultiplier: 2
+		status: freezing
+		statusDuration: 600
+	}
+	oil: {
+		type: liquidBulletType
+		liquid: oil
+		knockback: 1.2
+		damage: 3
+		speed: 6
+		ammoMultiplier: 2
+		status: tarred
+		statusDuration: 600
+	}
+	tainted-water-liquid: {
+		type: liquidBulletType
+		liquid: tainted-water-liquid
+		knockback: 1.4
+		damage: 3
+		speed: 6
+		ammoMultiplier: 2
+		status: wet
+		statusDuration: 600
+	}
+	lava-liquid: {
+		type: liquidBulletType
+		liquid: lava-liquid
+		knockback: 1.2
+		damage: 4
+		speed: 6
+		ammoMultiplier: 2
+		status: melting
+		statusDuration: 600
+	}
+	light-oil-liquid: {
+		type: liquidBulletType
+		liquid: light-oil-liquid
+		knockback: 1.2
+		damage: 12
+		speed: 6
+		ammoMultiplier: 2
+		status: melting
+		statusDuration: 600
+	}
+	heavy-oil-liquid: {
+		type: liquidBulletType
+		liquid: heavy-oil-liquid
+		knockback: 1.2
+		damage: 14
+		speed: 6
+		ammoMultiplier: 2
+		status: melting
+		statusDuration: 600
+	}
+}
+consumes: {
+	power: 1
+}
+requirements: [
+	dense-alloy/305
+	graphite/245
+	lead/500
+	metaglass/245
+	thorium/155
+	titanium/210
+]
+research: tsunami

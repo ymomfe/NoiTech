@@ -1,6 +1,6 @@
 const fossilsLiquidifier = extendContent(GenericCrafter, "fossils-liquidifier", {
 	draw(tile){
-		Draw.rect(this.region, tile.drawx(), tile.drawy());
+		Draw.rect(Core.atlas.find(this.name + "-bottom"), tile.drawx(), tile.drawy());
 		Draw.color(tile.entity.liquids.current().color);
    		Draw.alpha(tile.entity.liquids.total() / this.liquidCapacity);
    		Draw.rect(Core.atlas.find(this.name + "-liquid"), tile.drawx(), tile.drawy());
@@ -10,9 +10,7 @@ const fossilsLiquidifier = extendContent(GenericCrafter, "fossils-liquidifier", 
 	},
 	generateIcons: function(){
 		return [
-			Core.atlas.find(this.name),
-			Core.atlas.find(this.name + "-bottom-rotator"),
-			Core.atlas.find(this.name + "-top-rotator")
+			Core.atlas.find(this.name)
 		];
 	},	
 });

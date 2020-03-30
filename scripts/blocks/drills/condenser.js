@@ -1,8 +1,8 @@
-const heavyOilProcessor = extendContent(GenericCrafter, "heavy-oil-processor", {
+const condenser = extendContent(SolidPump, "condenser", {
 	draw(tile){
    		Draw.rect(Core.atlas.find(this.name + "-bottom"), tile.drawx(), tile.drawy());
-   		Draw.color(this.outputLiquid.liquid.color);
-    	Draw.alpha(tile.entity.liquids.get(this.outputLiquid.liquid) / this.liquidCapacity);
+  	    Draw.color(tile.entity.liquids.current().color);
+   		Draw.alpha(tile.entity.liquids.total() / this.liquidCapacity);
     	Draw.rect(Core.atlas.find(this.name + "-liquid"), tile.drawx(), tile.drawy());
     	Draw.color();
     	Draw.rect(Core.atlas.find(this.name + "-top"), tile.drawx(), tile.drawy());
@@ -13,4 +13,4 @@ const heavyOilProcessor = extendContent(GenericCrafter, "heavy-oil-processor", {
 		];
 	},	
 });
-heavyOilProcessor.layer = Layer.turret;
+condenser.layer = Layer.turret;

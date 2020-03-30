@@ -12,6 +12,24 @@ shootCone: 50
 range: 60
 recoil: 0
 ammo: {
+	sulfur: {
+		damage:9
+		speed: 3
+		ammoMultiplier: 3
+		hitSize: 7
+		lifetime: 42
+		bulletWidth: 7
+    	bulletHeight: 9
+		pierce: true
+		drag: 0.05
+		status: burning
+		statusDuration: 240
+		backColor: f1af4e
+		frontColor: fffead
+		shootEffect: shootSmallFlame
+		hitEffect: hitFlameSmall
+		despawnEffect: none
+	}
 	pyratite: {
 		damage:14
 		speed: 3

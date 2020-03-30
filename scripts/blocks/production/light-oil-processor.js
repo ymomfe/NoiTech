@@ -1,6 +1,6 @@
 const lightOilProcessor = extendContent(GenericCrafter, "light-oil-processor", {
 	draw(tile){
-   		Draw.rect(this.region, tile.drawx(), tile.drawy());
+   		Draw.rect(Core.atlas.find(this.name + "-bottom"), tile.drawx(), tile.drawy());
   	    Draw.color(this.outputLiquid.liquid.color);
   	    Draw.alpha(tile.entity.liquids.get(this.outputLiquid.liquid) / this.liquidCapacity);
     	Draw.rect(Core.atlas.find(this.name + "-liquid"), tile.drawx(), tile.drawy());
@@ -9,8 +9,7 @@ const lightOilProcessor = extendContent(GenericCrafter, "light-oil-processor", {
 	},
 	generateIcons: function(){
 		return [
-			Core.atlas.find(this.name),
-			Core.atlas.find(this.name + "-top")
+			Core.atlas.find(this.name)
 		];
 	},	
 });

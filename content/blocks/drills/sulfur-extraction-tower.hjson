@@ -1,0 +1,26 @@
+size: 3
+health: 60
+category: production
+idleSound: machine
+craftEffect: pulverize
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 15
+liquidCapacity: 30
+craftTime: 60
+consumes: {
+	liquid: {
+		liquid: water
+		amount: 0.25
+	}
+	power: 0.5
+}
+outputItem: sulfur/2
+requirements: [
+	copper/55
+	dense-alloy/45
+	graphite/60
+	lead/60
+]
+research: filter

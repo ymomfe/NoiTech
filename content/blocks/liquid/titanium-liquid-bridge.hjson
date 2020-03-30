@@ -1,0 +1,13 @@
+type: LiquidExtendingBridge
+range: 6
+hasPower: false
+hasLiquids: true
+liquidCapacity: 16
+liquidPressure: 1
+category: liquid
+requirements: [
+	graphite/8
+	metaglass/16
+	titanium/8
+]
+research: bridge-conduit

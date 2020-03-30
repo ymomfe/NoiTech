@@ -1,8 +1,8 @@
 consumes: {
 	items: {
 		items: [
-			lead/3
-			sulfur/6
+			dense-alloy/1
+			sulfur/3
 		]
 	}
 }
