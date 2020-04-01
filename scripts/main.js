@@ -11,6 +11,3 @@ require("blocks/drills/sulfur-extraction-tower")
 require("blocks/distribution/omni-bridge-conveyor")
 //blocks-liquid
 require("blocks/liquid/omni-bridge-conduit")
-//blocks-environment
-require("blocks/environment/lava")
-require("blocks/environment/ignarock-lava")

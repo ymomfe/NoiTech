@@ -16,7 +16,7 @@ consumes: {
 	}
 	power: 0.5
 }
-outputItem: sulfur/2
+outputItem: sulfur/1
 requirements: [
 	copper/55
 	dense-alloy/45

@@ -17,7 +17,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: water	
 		knockback: 1.4
-		damage: 3
+		damage: 6
 		speed: 6
 		ammoMultiplier: 2
 		status: wet
@@ -27,7 +27,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: mineral-water-liquid	
 		knockback: 1.4
-		damage: 3
+		damage: 6
 		speed: 6
 		ammoMultiplier: 2
 		status: wet
@@ -37,7 +37,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: slag
 		knockback: 1.2
-		damage: 8
+		damage: 16
 		speed: 6
 		ammoMultiplier: 2
 		status: melting
@@ -47,7 +47,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: cryofluid
 		knockback: 1.2
-		damage: 5
+		damage: 10
 		speed: 6
 		ammoMultiplier: 2
 		status: freezing
@@ -57,7 +57,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: natrium-liquid
 		knockback: 1.2
-		damage: 3
+		damage: 6
 		speed: 6
 		ammoMultiplier: 2
 		status: freezing
@@ -67,7 +67,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: oil
 		knockback: 1.2
-		damage: 3
+		damage: 6
 		speed: 6
 		ammoMultiplier: 2
 		status: tarred
@@ -77,7 +77,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: tainted-water-liquid
 		knockback: 1.4
-		damage: 3
+		damage: 6
 		speed: 6
 		ammoMultiplier: 2
 		status: wet
@@ -87,7 +87,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: lava-liquid
 		knockback: 1.2
-		damage: 4
+		damage: 8
 		speed: 6
 		ammoMultiplier: 2
 		status: melting
@@ -97,7 +97,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: light-oil-liquid
 		knockback: 1.2
-		damage: 12
+		damage: 24
 		speed: 6
 		ammoMultiplier: 2
 		status: melting
@@ -107,7 +107,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: heavy-oil-liquid
 		knockback: 1.2
-		damage: 14
+		damage: 28
 		speed: 6
 		ammoMultiplier: 2
 		status: melting
@@ -118,11 +118,12 @@ consumes: {
 	power: 1
 }
 requirements: [
-	dense-alloy/305
-	graphite/245
+	dense-alloy/345
+	graphite/345
 	lead/500
-	metaglass/245
-	thorium/155
-	titanium/210
+	silicon/255
+	metaglass/345
+	thorium/255
+	titanium/310
 ]
 research: tsunami

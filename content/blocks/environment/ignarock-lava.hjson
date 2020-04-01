@@ -1,3 +1,4 @@
+type: Floor
 isLiquid: true
 variants: 0
 blendGroup: water
@@ -9,5 +10,3 @@ statusDuration: 150
 drownTime: 50
 walkEffect: melting
 drownUpdateEffect: burning
-update: true
-drawLiquidLight: true

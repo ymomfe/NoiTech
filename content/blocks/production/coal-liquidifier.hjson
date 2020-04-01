@@ -22,8 +22,8 @@ outputLiquid: {
 	amount: 2.7
 }
 requirements: [
-	copper/65
+	lead/65
 	graphite/40
-	lead/30
+	titanium/30
 ]
 research: coal-centrifuge
