@@ -8,6 +8,7 @@ hasLiquids: true
 liquidCapacity: 10
 pumpAmount: 0.015
 result: water
+attribute: water
 requirements: [
 	copper/20
 	lead/25
