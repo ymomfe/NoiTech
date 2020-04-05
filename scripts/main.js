@@ -11,3 +11,7 @@ require("blocks/drills/sulfur-extraction-tower")
 require("blocks/distribution/omni-bridge-conveyor")
 //blocks-liquid
 require("blocks/liquid/omni-bridge-conduit")
+//blocks-power
+require("blocks/power/basic-liquid-combustion-generator")
+require("blocks/power/liquid-combustion-generator")
+require("blocks/power/thermal-liquid-generator")

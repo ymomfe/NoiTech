@@ -1,5 +1,4 @@
-type: SingleTypeGenerator
-size: 2,
+size: 2
 category: power
 hasPower: true
 hasItems: true
@@ -7,11 +6,6 @@ hasLiquids: true
 liquidCapacity: 50
 itemDuration: 60
 consumes: {
-	items: {
-		items: [
-			coal/1
-		]
-	}
 	liquid: {
 		liquid: fuel-liquid
 		amount: 0.333
