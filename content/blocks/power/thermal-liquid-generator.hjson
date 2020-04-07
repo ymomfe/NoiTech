@@ -9,10 +9,10 @@ randomlyExplode: false
 consumes: {
 	liquid: {
 		liquid: lava-liquid
-		amount: 0.199992
+		amount: 0.1
 	}
 }
-powerProduction: 1.63333
+powerProduction: 6
 requirements: [
 	dense-alloy/55
 	graphite/30

@@ -6,7 +6,7 @@ hasPower: false
 hasItems: false
 hasLiquids: true
 liquidCapacity: 10
-pumpAmount: 0.015
+pumpAmount: 0.01
 result: water
 attribute: water
 requirements: [

@@ -7,7 +7,7 @@ hasPower: true
 hasItems: true
 hasLiquids: true
 itemCapacity: 30
-liquidCapacity: 10
+liquidCapacity: 75
 craftTime: 45
 consumes: {
 	items: {

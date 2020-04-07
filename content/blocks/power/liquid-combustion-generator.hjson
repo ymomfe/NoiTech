@@ -8,7 +8,7 @@ itemDuration: 60
 consumes: {
 	liquid: {
 		liquid: fuel-liquid
-		amount: 0.333
+		amount: 0.08333
 	}
 }
 powerProduction: 12.0

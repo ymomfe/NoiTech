@@ -1,5 +1,5 @@
 requirements: [
-	copper/75
-	dense-alloy/50
+	copper/70
+	dense-alloy/30
 	lead/30
 ]
