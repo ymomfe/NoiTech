@@ -1,3 +1,4 @@
+/*Omni-Bridge Conveyor*/
 const omniBridgeConveyor = extendContent(BufferedItemBridge, "omni-bridge-conveyor", {
 	linkValid(tile, other, checkDouble){
 		if(other == tile || other == null || tile == null) return false;

@@ -1,3 +1,4 @@
+/*Omni-Bridge Conduit*/
 const omniBridgeConduit = extendContent(LiquidExtendingBridge, "omni-bridge-conduit", {
 	linkValid(tile, other, checkDouble){
 		if(other == tile || other == null || tile == null) return false;
