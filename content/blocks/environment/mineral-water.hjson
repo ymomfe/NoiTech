@@ -1,9 +1,0 @@
-type: Floor 
-isLiquid: true
-variants: 0
-blendGroup: water
-cacheLayer: water
-speedMultiplier: 0.6
-liquidDrop: mineral-water-liquid
-status: wet
-statusDuration: 90
