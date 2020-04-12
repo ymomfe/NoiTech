@@ -30,3 +30,23 @@ const sulfurExtractionTower = extendContent(GenericCrafter, "sulfur-extraction-t
 	},	
 });
 sulfurExtractionTower.layer = Layer.turret;
+
+/*Water Extraction Tower*/
+const waterExtractionTower = extendContent(SolidPump, "water-extraction-tower", {
+	draw(tile){
+		var entity = tile.ent();
+		Draw.rect(Core.atlas.find(this.name + "-bottom"), tile.drawx(), tile.drawy());
+		Draw.color(tile.entity.liquids.current().color);
+   		Draw.alpha(tile.entity.liquids.total() / this.liquidCapacity);
+    	Draw.rect(Core.atlas.find(this.name + "-liquid"), tile.drawx(), tile.drawy());
+    	Draw.color();
+		Draw.rect(Core.atlas.find(this.name + "-rotator"), tile.drawx(), tile.drawy(), entity.pumpTime * this.rotateSpeed);
+		Draw.rect(Core.atlas.find(this.name + "-top"), tile.drawx(), tile.drawy());
+	},
+	generateIcons: function(){
+		return [
+			Core.atlas.find(this.name)
+		];
+	},	
+});
+waterExtractionTower.layer = Layer.turret;

@@ -1,0 +1,21 @@
+size: 3
+category: production
+rotateSpeed: 1.4
+hasPower: true
+hasItems: false
+hasLiquids: true
+liquidCapacity: 30
+consumes: {
+	power: 0.16
+}
+pumpAmount: 1
+result: water
+attribute: water
+requirements: [
+    copper/45
+    graphite/60
+    lead/45
+    thorium/30
+    titanium/35
+]
+research: water-extractor
