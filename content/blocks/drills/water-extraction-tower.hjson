@@ -6,9 +6,9 @@ hasItems: false
 hasLiquids: true
 liquidCapacity: 30
 consumes: {
-	power: 0.16
+	power: 1
 }
-pumpAmount: 1
+pumpAmount: 0.12666
 result: water
 attribute: water
 requirements: [
