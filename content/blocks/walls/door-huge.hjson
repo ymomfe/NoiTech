@@ -1,5 +1,4 @@
 type: Door
-buildVisibility: sandboxOnly
 size: 3
 health: 3600
 category: defense
