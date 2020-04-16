@@ -81,3 +81,6 @@ const omniBridgeConduit = extendContent(LiquidExtendingBridge, "omni-bridge-cond
     },
 });
 omniBridgeConduit.layer = Layer.turret;
+
+//final print
+print("[lightgray]blocks/noise-liquid.js - is successfully loaded.")

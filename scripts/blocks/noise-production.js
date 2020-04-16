@@ -104,3 +104,6 @@ const phaseTransformer = extendContent(GenericCrafter, "phase-transformer", {
 	},	
 });
 phaseTransformer.layer = Layer.turret;
+
+//final print
+print("[lightgray]blocks/noise-production.js - is successfully loaded.")

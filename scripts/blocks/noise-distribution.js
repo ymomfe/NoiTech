@@ -78,3 +78,6 @@ const omniBridgeConveyor = extendContent(BufferedItemBridge, "omni-bridge-convey
     },
 });
 omniBridgeConveyor.layer = Layer.turret;
+
+//final print
+print("[lightgray]blocks/noise-distribution.js - is successfully loaded.")

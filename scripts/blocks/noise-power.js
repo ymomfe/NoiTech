@@ -56,3 +56,6 @@ const thermalLiquidGenerator = extendContent(SingleTypeGenerator, "thermal-liqui
         renderer.lights.add(tile.drawx(), tile.drawy(), (40 + Mathf.absin(10, 5)) * entity.productionEfficiency * this.size, Color.scarlet, 0.4);
     }
 });
+
+//final print
+print("[lightgray]blocks/noise-power.js - is successfully loaded.")
