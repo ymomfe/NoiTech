@@ -1,5 +1,5 @@
 # NoiTech
-A Mindustry mod based around refinery, recycling and filtering.
+A Mindustry mod that aims to make game harder and add more vanilla styled things.
 
 This mod adds / changes (this information might be outdated):
 

@@ -1,6 +1,0 @@
-type: Floor
-attributes: { 
-	array: [ 
-		0, 0.3, 0.1, 0 
-	]
-}
