@@ -71,5 +71,5 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* English
 	* Russian
 
-## inks
+## Links
 > NoiTech Discord server: https://discord.gg/NcuNTQx
