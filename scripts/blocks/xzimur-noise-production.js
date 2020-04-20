@@ -68,4 +68,4 @@ const rockCrusher = extendContent(GenericCrafter, "rock-crusher", {
 rockCrusher.layer = Layer.turret;
 
 //final print
-print("[lightgray]blocks/noise-production.js - is successfully loaded.")
+print("[lightgray]blocks/production - is successfully loaded.")

@@ -52,4 +52,4 @@ const waterExtractionTower = extendContent(SolidPump, "water-extraction-tower", 
 waterExtractionTower.layer = Layer.turret;
 
 //final print
-print("[lightgray]blocks/noise-drills.js - is successfully loaded.")
+print("[lightgray]blocks/drills - is successfully loaded.")

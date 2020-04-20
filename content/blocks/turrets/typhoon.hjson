@@ -97,7 +97,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: light-oil-liquid
 		knockback: 1.2
-		damage: 24
+		damage: 20
 		speed: 6
 		ammoMultiplier: 2
 		status: melting
@@ -107,15 +107,12 @@ ammo: {
 		type: liquidBulletType
 		liquid: heavy-oil-liquid
 		knockback: 1.2
-		damage: 28
+		damage: 24
 		speed: 6
 		ammoMultiplier: 2
 		status: melting
 		statusDuration: 600
 	}
-}
-consumes: {
-	power: 1
 }
 requirements: [
 	dense-alloy/345

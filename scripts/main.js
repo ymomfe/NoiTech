@@ -1,11 +1,11 @@
 print("Loading [sky]NoiTech[].")
 
 //blocks
-require("blocks/noise-production")
-require("blocks/noise-drills")
-require("blocks/noise-distribution")
-require("blocks/noise-liquid")
-require("blocks/noise-power")
+require("blocks/xzimur-noise-production")
+require("blocks/xzimur-noise-drills")
+require("blocks/xzimur-noise-distribution")
+require("blocks/xzimur-noise-liquid")
+require("blocks/xzimur-noise-power")
 
 //final print
 print("Finished loading [sky]NoiTech[].")

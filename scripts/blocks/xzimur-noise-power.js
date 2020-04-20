@@ -58,4 +58,4 @@ const thermalLiquidGenerator = extendContent(SingleTypeGenerator, "thermal-liqui
 });
 
 //final print
-print("[lightgray]blocks/noise-power.js - is successfully loaded.")
+print("[lightgray]blocks/power - is successfully loaded.")
