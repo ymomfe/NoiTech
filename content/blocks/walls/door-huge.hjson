@@ -1,6 +1,6 @@
 type: Door
 size: 3
-health: 3400
+health: 3600
 category: defense
 requirements: [
 	graphite/54
