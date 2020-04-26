@@ -1,7 +1,7 @@
 requirements: [
-    dense-alloy/150
+	dense-alloy/150
 	lead/150
 	silicon/75
-    thorium/75
-    titanium/125
+	thorium/75
+	titanium/125
 ]

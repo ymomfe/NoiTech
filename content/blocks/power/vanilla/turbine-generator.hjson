@@ -3,4 +3,5 @@ requirements: [
 	dense-alloy/50
 	lead/40
 	silicon/35
+	scrap/25
 ]

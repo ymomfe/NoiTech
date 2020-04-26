@@ -12,5 +12,6 @@ attribute: water
 requirements: [
 	copper/20
 	lead/25
+	scrap/15
 ]
 research: mechanical-pump

@@ -1,8 +1,8 @@
 requirements: [
-		dense-alloy/225
-		graphite/275
-		lead/225
-		silicon/325
-		surge-alloy/120
-		thorium/300
-	]
+	dense-alloy/225
+	graphite/275
+	lead/225
+	silicon/325
+	surge-alloy/120
+	thorium/300
+]

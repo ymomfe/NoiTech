@@ -19,7 +19,7 @@ ammo: {
 		hitSize: 7
 		lifetime: 42
 		bulletWidth: 7
-    	bulletHeight: 9
+		bulletHeight: 9
 		pierce: true
 		drag: 0.05
 		status: burning
@@ -37,7 +37,7 @@ ammo: {
 		hitSize: 8
 		lifetime: 42
 		bulletWidth: 7
-    	bulletHeight: 9
+		bulletHeight: 9
 		pierce: true
 		drag: 0.05
 		status: burning
@@ -55,7 +55,7 @@ ammo: {
 		hitSize: 10
 		lifetime: 42
 		bulletWidth: 7
-    	bulletHeight: 9
+		bulletHeight: 9
 		pierce: true
 		drag: 0.05
 		status: burning
@@ -72,5 +72,6 @@ requirements: [
 	dense-alloy/175
 	graphite/150
 	titanium/105
+	scrap/170
 ]
 research: scorch

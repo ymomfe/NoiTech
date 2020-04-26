@@ -2,4 +2,5 @@ requirements: [
 	copper/45
 	lead/35
 	silicon/30
+	scrap/40
 ]

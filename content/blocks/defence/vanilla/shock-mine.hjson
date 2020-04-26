@@ -1,4 +1,5 @@
 requirements: [
-	lead/15
+	scrap/15
+	lead/10
 	silicon/12
 ]

@@ -1,5 +1,6 @@
 requirements: [
-    copper/4
-    dense-alloy/3
-    lead/2
+	copper/4
+	dense-alloy/3
+	lead/2
+	scrap/8
 ]

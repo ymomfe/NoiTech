@@ -1,7 +1,7 @@
 requirements: [
-    dense-alloy/50
-    graphite/35
-    silicon/45
-    plastanium/45
-    titanium/35
+	dense-alloy/50
+	graphite/35
+	silicon/45
+	plastanium/45
+	titanium/35
 ]

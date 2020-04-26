@@ -15,17 +15,7 @@ recoil: 0
 ammo: {
 	water: {
 		type: liquidBulletType
-		liquid: water	
-		knockback: 1.4
-		damage: 6
-		speed: 6
-		ammoMultiplier: 2
-		status: wet
-		statusDuration: 600
-	}
-	mineral-water-liquid: {
-		type: liquidBulletType
-		liquid: mineral-water-liquid	
+		liquid: water
 		knockback: 1.4
 		damage: 6
 		speed: 6
@@ -37,7 +27,7 @@ ammo: {
 		type: liquidBulletType
 		liquid: slag
 		knockback: 1.2
-		damage: 16
+		damage: 8
 		speed: 6
 		ammoMultiplier: 2
 		status: melting
@@ -46,8 +36,8 @@ ammo: {
 	cryofluid: {
 		type: liquidBulletType
 		liquid: cryofluid
-		knockback: 1.2
-		damage: 10
+		knockback: 2.2
+		damage: 6
 		speed: 6
 		ammoMultiplier: 2
 		status: freezing
@@ -83,34 +73,24 @@ ammo: {
 		status: wet
 		statusDuration: 600
 	}
-	lava-liquid: {
+	refined-oil-liquid: {
 		type: liquidBulletType
-		liquid: lava-liquid
+		liquid: refined-oil-liquid
 		knockback: 1.2
-		damage: 8
+		damage: 10
 		speed: 6
 		ammoMultiplier: 2
-		status: melting
+		status: tarred
 		statusDuration: 600
 	}
-	light-oil-liquid: {
+	fuel-liquid: {
 		type: liquidBulletType
-		liquid: light-oil-liquid
-		knockback: 1.2
-		damage: 20
+		liquid: fuel-liquid
+		knockback: 1.4
+		damage: 10
 		speed: 6
 		ammoMultiplier: 2
-		status: melting
-		statusDuration: 600
-	}
-	heavy-oil-liquid: {
-		type: liquidBulletType
-		liquid: heavy-oil-liquid
-		knockback: 1.2
-		damage: 24
-		speed: 6
-		ammoMultiplier: 2
-		status: melting
+		status: wet
 		statusDuration: 600
 	}
 }

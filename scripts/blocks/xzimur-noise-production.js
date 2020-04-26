@@ -1,39 +1,3 @@
-/*Heavy Oil Processor*/
-const heavyOilProcessor = extendContent(GenericCrafter, "heavy-oil-processor", {
-	draw(tile){
-		Draw.rect(Core.atlas.find(this.name + "-bottom"), tile.drawx(), tile.drawy());
-		Draw.color(this.outputLiquid.liquid.color);
-		Draw.alpha(tile.entity.liquids.get(this.outputLiquid.liquid) / this.liquidCapacity);
-		Draw.rect(Core.atlas.find(this.name + "-liquid"), tile.drawx(), tile.drawy());
-		Draw.color();
-		Draw.rect(Core.atlas.find(this.name + "-top"), tile.drawx(), tile.drawy());
-	},
-	generateIcons: function(){
-		return [
-			Core.atlas.find(this.name)
-		];
-	},	
-});
-heavyOilProcessor.layer = Layer.turret;
-
-/*Light Oil Processor*/
-const lightOilProcessor = extendContent(GenericCrafter, "light-oil-processor", {
-	draw(tile){
-		Draw.rect(Core.atlas.find(this.name + "-bottom"), tile.drawx(), tile.drawy());
-		Draw.color(this.outputLiquid.liquid.color);
-		Draw.alpha(tile.entity.liquids.get(this.outputLiquid.liquid) / this.liquidCapacity);
-		Draw.rect(Core.atlas.find(this.name + "-liquid"), tile.drawx(), tile.drawy());
-		Draw.color();
-		Draw.rect(Core.atlas.find(this.name + "-top"), tile.drawx(), tile.drawy());
-	},
-	generateIcons: function(){
-		return [
-			Core.atlas.find(this.name)
-		];
-	},	
-});
-lightOilProcessor.layer = Layer.turret;
-
 /*Mineral Extractor*/
 const mineralExtractor = extendContent(GenericCrafter, "mineral-extractor", {
 	draw(tile){
@@ -50,7 +14,23 @@ const mineralExtractor = extendContent(GenericCrafter, "mineral-extractor", {
 		];
 	},
 });
-mineralExtractor.layer = Layer.turret;
+
+/*Sludge Recycler*/
+const sludgeRecycler = extendContent(GenericCrafter, "sludge-recycler", {
+	draw(tile){
+		Draw.rect(Core.atlas.find(this.name + "-bottom"), tile.drawx(), tile.drawy());
+		Draw.color(this.outputLiquid.liquid.color);
+		Draw.alpha(tile.entity.liquids.get(this.outputLiquid.liquid) / this.liquidCapacity);
+		Draw.rect(Core.atlas.find(this.name + "-liquid"), tile.drawx(), tile.drawy());
+		Draw.color();
+		Draw.rect(Core.atlas.find(this.name + "-top"), tile.drawx(), tile.drawy());
+	},
+	generateIcons: function(){
+		return [
+			Core.atlas.find(this.name)
+		];
+	},	
+});
 
 /*Rock Crusher*/
 const rockCrusher = extendContent(GenericCrafter, "rock-crusher", {
@@ -65,7 +45,6 @@ const rockCrusher = extendContent(GenericCrafter, "rock-crusher", {
 		];
 	},	
 });
-rockCrusher.layer = Layer.turret;
 
 //final print
 print("[lightgray]blocks/production - is successfully loaded.")

@@ -10,14 +10,14 @@ liquidCapacity: 200
 craftTime: 45
 consumes: {
 	liquid: {
-		liquid: heavy-oil-liquid
+		liquid: refined-oil-liquid
 		amount: 0.334
 	}
 	power: 0.5
 }
 outputItem: sludge/1
 outputLiquid: {
-	liquid: light-oil-liquid
+	liquid: fuel-liquid
 	amount: 12
 }
 requirements: [
@@ -26,4 +26,4 @@ requirements: [
 	lead/105
 	titanium/70
 ]
-research: heavy-oil-processor
+research: oil-refinery

@@ -19,12 +19,13 @@ consumes: {
 }
 outputItem: sulfur/1
 outputLiquid: {
-	liquid: heavy-oil-liquid
+	liquid: refined-oil-liquid
 	amount: 12
 }
 requirements: [
 	copper/55
 	graphite/55
 	lead/75
+	scrap/50
 ]
 research: coal-liquidifier

@@ -1,7 +1,7 @@
 requirements: [
-        dense-alloy/10
-		graphite/10
-        lead/10
-        silicon/7
-        phase-fabric/5
-    ]
+	dense-alloy/10
+	graphite/10
+	lead/10
+	silicon/7
+	phase-fabric/5
+]

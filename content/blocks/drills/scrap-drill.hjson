@@ -1,0 +1,20 @@
+type: Drill
+size: 1
+category: production
+tier: 1
+drillTime: 150
+drawMineItem: false
+health: 60
+consumes: {
+	liquid: {
+		liquid: water
+		amount: 0.05
+		booster: true
+		optional: true
+	}
+}
+requirements: [
+	copper/9
+	scrap/9
+]
+research: mechanical-drill

@@ -1,5 +1,4 @@
-type: genericCrafter
-size: 2
+size: 3
 health: 90
 category: crafting
 craftEffect: steam
@@ -27,5 +26,6 @@ requirements: [
 	graphite/70
 	lead/70
 	titanium/30
+	scrap/65
 ]
-research: chemical-plant
+research: oil-refinery

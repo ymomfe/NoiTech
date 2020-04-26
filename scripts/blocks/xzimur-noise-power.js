@@ -16,8 +16,8 @@ const liquidCombustionGenerator = extendContent(SingleTypeGenerator, "liquid-com
 	}
 });
 
-/*Basic Liquid Combustion Generator*/
-const basicLiquidCombustionGenerator = extendContent(SingleTypeGenerator, "basic-liquid-combustion-generator", {
+/*Oil Combustion Generator*/
+const oilCombustionGenerator = extendContent(SingleTypeGenerator, "oil-combustion-generator", {
 		getLiquidEfficiency(liquid){
 		return 1.0;
 	},

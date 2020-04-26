@@ -1,6 +1,6 @@
 requirements: [
 	copper/225
-    dense-alloy/125
-    graphite/225
-    thorium/100
+	dense-alloy/125
+	graphite/225
+	thorium/100
 ]

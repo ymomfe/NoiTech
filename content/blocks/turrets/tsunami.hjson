@@ -15,17 +15,7 @@ recoil: 0
 ammo: {
 	water: {
 		type: liquidBulletType
-		liquid: water	
-		knockback: 0.7
-		damage: 1
-		speed: 6
-		ammoMultiplier: 2
-		status: wet
-		statusDuration: 600
-	}
-	mineral-water-liquid: {
-		type: liquidBulletType
-		liquid: mineral-water-liquid	
+		liquid: water
 		knockback: 0.7
 		damage: 1
 		speed: 6
@@ -83,42 +73,32 @@ ammo: {
 		status: wet
 		statusDuration: 600
 	}
-	lava-liquid: {
+	refined-oil-liquid: {
 		type: liquidBulletType
-		liquid: lava-liquid
+		liquid: refined-oil-liquid
 		knockback: 0.6
-		damage: 2
+		damage: 4
 		speed: 6
 		ammoMultiplier: 2
-		status: melting
+		status: tarred
 		statusDuration: 600
 	}
-	light-oil-liquid: {
+	fuel-liquid: {
 		type: liquidBulletType
-		liquid: light-oil-liquid
-		knockback: 0.6
+		liquid: fuel-liquid
+		knockback: 0.7
 		damage: 6
 		speed: 6
 		ammoMultiplier: 2
-		status: melting
-		statusDuration: 600
-	}
-	heavy-oil-liquid: {
-		type: liquidBulletType
-		liquid: heavy-oil-liquid
-		knockback: 0.6
-		damage: 7
-		speed: 6
-		ammoMultiplier: 2
-		status: melting
+		status: wet
 		statusDuration: 600
 	}
 }
 requirements: [
 	dense-alloy/175
 	graphite/135
-    lead/200
-    metaglass/135
-    titanium/105
+	lead/200
+	metaglass/135
+	titanium/105
 ]
 research: wave

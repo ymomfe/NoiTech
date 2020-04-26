@@ -17,7 +17,7 @@ consumes: {
 }
 outputItem: scrap/1
 requirements: [
-		copper/25
-		lead/25
+	copper/25
+	lead/25
 ]
 research: mechanical-drill

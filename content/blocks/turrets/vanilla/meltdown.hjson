@@ -1,8 +1,8 @@
 requirements: [
 	copper/275
-    dense-alloy/325
-    graphite/300
-    lead/350
-    silicon/225
-    surge-alloy/325
+	dense-alloy/325
+	graphite/300
+	lead/350
+	silicon/225
+	surge-alloy/325
 ]

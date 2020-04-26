@@ -80,7 +80,6 @@ const omniBridgeConduit = extendContent(LiquidExtendingBridge, "omni-bridge-cond
         Draw.reset();
     },
 });
-omniBridgeConduit.layer = Layer.turret;
 
 //final print
 print("[lightgray]blocks/liquid - is successfully loaded.")

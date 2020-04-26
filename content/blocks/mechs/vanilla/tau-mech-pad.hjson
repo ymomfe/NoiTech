@@ -1,7 +1,7 @@
 requirements: [
-		copper/125
-		dense-alloy/200
-		lead/150
-		silicon/105
-		titanium/125
-	]
+	copper/125
+	dense-alloy/200
+	lead/150
+	silicon/105
+	titanium/125
+]

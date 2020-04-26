@@ -22,5 +22,6 @@ requirements: [
 	dense-alloy/45
 	graphite/60
 	lead/60
+	scrap/35
 ]
 research: filter

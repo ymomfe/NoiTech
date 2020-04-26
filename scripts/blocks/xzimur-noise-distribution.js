@@ -77,7 +77,6 @@ const omniBridgeConveyor = extendContent(BufferedItemBridge, "omni-bridge-convey
         Draw.reset();
     },
 });
-omniBridgeConveyor.layer = Layer.turret;
 
 //final print
 print("[lightgray]blocks/distribution - is successfully loaded.")

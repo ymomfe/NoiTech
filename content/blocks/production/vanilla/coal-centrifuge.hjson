@@ -1,0 +1,6 @@
+requirements: [
+	lead/30
+	graphite/40
+	titanium/20
+	scrap/35
+]

@@ -1,9 +1,8 @@
-pumpAmount: 0.5
 requirements: [
-    copper/150
-    dense-alloy/275
-    graphite/175
-    lead/115
-    silicon/75
-    thorium/115
+	copper/150
+	dense-alloy/275
+	graphite/175
+	lead/115
+	silicon/75
+	thorium/115
 ]

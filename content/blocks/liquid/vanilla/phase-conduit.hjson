@@ -1,7 +1,7 @@
 requirements: [
-		dense-alloy/10
-		metaglass/20
-		silicon/7
-		phase-fabric/5
-		titanium/10
-	]
+	dense-alloy/10
+	metaglass/20
+	silicon/7
+	phase-fabric/5
+	titanium/10
+]

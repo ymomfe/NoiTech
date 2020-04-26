@@ -2,9 +2,10 @@ type: LiquidRouter
 size: 2
 health: 160
 category: liquid
-liquidCapacity: 80	
+liquidCapacity: 80
 requirements: [
 	graphite/16
 	metaglass/8
+	scrap/6
 ]
 research: liquid-router

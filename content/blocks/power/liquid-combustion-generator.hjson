@@ -18,4 +18,4 @@ requirements: [
 	graphite/100
 	silicon/75
 ]
-research: basic-liquid-combustion-generator
+research: oil-combustion-generator

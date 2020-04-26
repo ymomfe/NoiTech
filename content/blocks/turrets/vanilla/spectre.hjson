@@ -6,9 +6,9 @@ ammo: {
 }
 requirements: [
 	copper/350
-    dense-alloy/350
-    graphite/300
-    plastanium/175
-    thorium/250  
-    surge-alloy/250
+	dense-alloy/350
+	graphite/300
+	plastanium/175
+	thorium/250  
+	surge-alloy/250
 ]

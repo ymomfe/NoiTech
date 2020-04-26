@@ -1,7 +1,7 @@
-result: mineral-water-liquid
 requirements: [
-    copper/35
-    graphite/30
-    lead/30
-    titanium/20
+	copper/35
+	graphite/30
+	lead/30
+	titanium/20
+	scrap/20
 ]

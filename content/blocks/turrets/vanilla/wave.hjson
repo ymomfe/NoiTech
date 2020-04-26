@@ -10,13 +10,6 @@ ammo: {
 		status: wet
 		statusDuration: 180
 	}
-	mineral-water-liquid: {
-		type: liquidBulletType
-		liquid: mineral-water-liquid
-		knockback: 0.7
-		status: wet
-		statusDuration: 180
-	}
 	natrium-liquid: {
 		type: liquidBulletType
 		liquid: natrium-liquid
@@ -25,18 +18,11 @@ ammo: {
 		status: freezing
 		statusDuration: 180
 	}
-	lava-liquid: {
-		type: liquidBulletType
-		liquid: lava-liquid
-		knockback: 0.6
-		damage: 1
-		status: melting
-		statusDuration: 180
-	}
 }
 requirements: [
 	copper/70
 	dense-alloy/45
-    lead/75
-    metaglass/45
+	lead/75
+	metaglass/45
+	scrap/45
 ]

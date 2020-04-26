@@ -25,5 +25,6 @@ requirements: [
 	lead/65
 	graphite/40
 	titanium/30
+	scrap/35
 ]
 research: coal-centrifuge

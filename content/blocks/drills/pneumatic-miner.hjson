@@ -1,0 +1,21 @@
+type: Drill
+size: 1
+category: production
+tier: 3
+drillTime: 100
+drawMineItem: false
+health: 60
+consumes: {
+	liquid: {
+		liquid: water
+		amount: 0.06
+		booster: true
+		optional: true
+	}
+}
+requirements: [
+	copper/5
+	dense-alloy/5
+	graphite/3
+]
+research: scrap-drill

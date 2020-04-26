@@ -5,6 +5,7 @@ ammo: {
 	silicon: artilleryHoming
 }	
 requirements: [
-    copper/40
-    dense-alloy/25
+	copper/40
+	dense-alloy/25
+	scrap/30
 ]

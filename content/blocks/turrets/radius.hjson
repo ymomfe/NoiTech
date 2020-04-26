@@ -16,5 +16,6 @@ powerUse: 1.5
 requirements: [
     copper/35
     lead/50
+    scrap/25
 ]
 research: scorch
