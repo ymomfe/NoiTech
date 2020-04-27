@@ -2,7 +2,7 @@ type: Drill
 size: 1
 category: production
 tier: 1
-drillTime: 150
+drillTime: 600
 drawMineItem: false
 health: 60
 consumes: {
