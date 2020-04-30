@@ -1,0 +1,7 @@
+viscosity: 0.7
+temperature: 0.7
+heatCapacity: 0.7
+flammability: 1.1
+explosiveness: 1.1
+effect: tarred
+color: a85f1c

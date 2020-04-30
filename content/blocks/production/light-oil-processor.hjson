@@ -1,5 +1,4 @@
-type: genericCrafter
-size: 2
+size: 3
 health: 120
 category: crafting
 craftEffect: steam
@@ -9,22 +8,24 @@ hasItems: true
 hasLiquids: true
 itemCapacity: 10
 liquidCapacity: 100
-craftTime: 30
+craftTime: 60
 consumes: {
 	liquid: {
-		liquid: oil
-		amount: 0.501
+		liquid: light-oil-liquid
+		amount: 0.25
 	}
 	power: 0.5
 }
-outputItem: sulfur/1
+outputItem: sludge/1
 outputLiquid: {
-	liquid: heavy-oil-liquid
+	liquid: fuel-liquid
 	amount: 12
 }
 requirements: [
-	copper/55
-	graphite/55
+	copper/45
+	dense-alloy/65
+	graphite/70
 	lead/75
+	titanium/50
 ]
-research: coal-liquidifier
+research: heavy-oil-processor

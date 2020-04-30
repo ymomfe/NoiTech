@@ -73,11 +73,21 @@ ammo: {
 		status: wet
 		statusDuration: 600
 	}
-	refined-oil-liquid: {
+	heavy-oil-liquid: {
 		type: liquidBulletType
-		liquid: refined-oil-liquid
+		liquid: heavy-oil-liquid
 		knockback: 0.6
 		damage: 4
+		speed: 6
+		ammoMultiplier: 2
+		status: tarred
+		statusDuration: 600
+	}
+	light-oil-liquid: {
+		type: liquidBulletType
+		liquid: light-oil-liquid
+		knockback: 0.6
+		damage: 3
 		speed: 6
 		ammoMultiplier: 2
 		status: tarred

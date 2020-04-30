@@ -1,6 +1,6 @@
 consumes: {
 	liquid: {
-		liquid: refined-oil-liquid
+		liquid: light-oil-liquid
 		amount: 0.11666
 	}
 }
