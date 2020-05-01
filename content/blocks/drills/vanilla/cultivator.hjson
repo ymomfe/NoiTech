@@ -2,5 +2,4 @@ requirements: [
 	copper/35
 	graphite/25
 	silicon/20
-	scrap/40
 ]

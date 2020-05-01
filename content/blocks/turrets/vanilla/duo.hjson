@@ -18,7 +18,3 @@ ammo: {
 		smokeEffect: shootSmallSmoke
 	}
 }
-requirements: [
-	copper/35
-	scrap/15
-]

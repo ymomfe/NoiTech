@@ -3,5 +3,4 @@ requirements: [
 	graphite/30
 	lead/30
 	titanium/20
-	scrap/20
 ]

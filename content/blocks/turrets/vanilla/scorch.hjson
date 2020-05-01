@@ -6,5 +6,4 @@ ammo: {
 requirements: [
 	copper/25
 	graphite/22
-	scrap/30
 ]

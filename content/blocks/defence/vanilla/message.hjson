@@ -1,4 +1,3 @@
 requirements: [
-	scrap/10
 	graphite/5
 ]

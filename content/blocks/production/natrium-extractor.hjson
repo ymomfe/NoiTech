@@ -26,7 +26,7 @@ outputLiquid: {
 }
 requirements: [
 	graphite/45
-		lead/45
+	lead/45
 	titanium/35
 ]
 research: mineral-extractor

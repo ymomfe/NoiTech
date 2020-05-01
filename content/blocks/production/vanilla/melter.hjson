@@ -3,5 +3,4 @@ requirements: [
 	dense-alloy/50
 	graphite/45
 	lead/30
-	scrap/30
 ]

@@ -15,6 +15,5 @@ powerProduction: 1.5
 requirements: [
 	copper/45
 	lead/30
-	scrap/30
 ]
 research: combustion-generator

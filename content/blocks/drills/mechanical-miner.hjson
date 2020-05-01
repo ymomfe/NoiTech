@@ -14,7 +14,6 @@ consumes: {
 	}
 }
 requirements: [
-	copper/9
-	scrap/9
+	copper/4
 ]
 research: mechanical-drill

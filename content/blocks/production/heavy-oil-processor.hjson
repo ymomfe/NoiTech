@@ -26,6 +26,5 @@ requirements: [
 	dense-alloy/65
 	graphite/70
 	lead/75
-	scrap/55
 ]
 research: oil-refinery

@@ -6,6 +6,5 @@ liquidCapacity: 80
 requirements: [
 	graphite/16
 	metaglass/8
-	scrap/6
 ]
 research: liquid-router

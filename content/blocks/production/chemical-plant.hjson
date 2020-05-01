@@ -25,6 +25,5 @@ requirements: [
 	graphite/70
 	lead/105
 	titanium/70
-	scrap/55
 ]
 research: heavy-oil-processor

@@ -24,5 +24,4 @@ requirements: [
 	dense-alloy/85
 	graphite/85
 	titanium/60
-	scrap/85
 ]

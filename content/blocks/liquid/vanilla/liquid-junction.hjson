@@ -1,5 +1,0 @@
-requirements: [
-	graphite/2
-	metaglass/2
-	scrap/2
-]

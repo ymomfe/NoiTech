@@ -23,6 +23,5 @@ requirements: [
 	copper/45
 	graphite/50
 	lead/40
-	scrap/30
 ]
 research: smelter

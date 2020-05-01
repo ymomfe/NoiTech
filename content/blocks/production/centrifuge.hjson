@@ -26,6 +26,5 @@ requirements: [
 	dense-alloy/75
 	lead/45
 	titanium/50
-	scrap/50
 ]
 research: stone-melter

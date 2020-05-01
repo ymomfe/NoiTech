@@ -21,6 +21,5 @@ requirements: [
 	dense-alloy/45
 	graphite/45
 	lead/40
-	scrap/25
 ]
 research: rock-crusher

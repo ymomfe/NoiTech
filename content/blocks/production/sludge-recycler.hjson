@@ -27,6 +27,5 @@ requirements: [
 	graphite/70
 	lead/70
 	titanium/30
-	scrap/80
 ]
 research: chemical-plant

@@ -7,5 +7,4 @@ ammo: {
 requirements: [
 	copper/40
 	dense-alloy/25
-	scrap/30
 ]

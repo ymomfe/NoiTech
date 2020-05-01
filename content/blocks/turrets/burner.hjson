@@ -72,6 +72,5 @@ requirements: [
 	dense-alloy/175
 	graphite/150
 	titanium/105
-	scrap/170
 ]
 research: scorch
