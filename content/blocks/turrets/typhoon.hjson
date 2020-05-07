@@ -105,6 +105,7 @@ ammo: {
 	}
 }
 requirements: [
+	concrete/175
 	dense-alloy/345
 	graphite/345
 	lead/500

@@ -1,0 +1,6 @@
+requirements: [
+	concrete/35
+	lead/50
+	graphite/50
+	silicon/45
+]

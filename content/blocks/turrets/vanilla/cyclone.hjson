@@ -1,4 +1,5 @@
 requirements: [
+	concrete/125
 	copper/200
 	dense-alloy/215
 	plastanium/80

@@ -22,6 +22,7 @@ outputLiquid: {
 	amount: 12
 }
 requirements: [
+	concrete/45
 	copper/45
 	dense-alloy/65
 	graphite/70

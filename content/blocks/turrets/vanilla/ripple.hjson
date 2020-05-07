@@ -7,6 +7,7 @@ ammo: {
 	plastanium: artilleryPlastic
 }
 requirements: [
+	concrete/35
 	dense-alloy/175
 	graphite/135
 	titanium/95

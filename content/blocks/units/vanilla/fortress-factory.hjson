@@ -8,6 +8,7 @@ consumes: {
 	}
 }
 requirements: [
+	concrete/100
 	lead/110
 	silicon/75
 	thorium/45

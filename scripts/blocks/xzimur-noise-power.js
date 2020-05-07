@@ -1,5 +1,5 @@
 /*Liquid Combustion Generator*/
-const liquidCombustionGenerator = extendContent(SingleTypeGenerator, "liquid-combustion-generator", {
+const XZimurNoiseLiquidCombustionGenerator = extendContent(SingleTypeGenerator, "liquid-combustion-generator", {
 		getLiquidEfficiency(liquid){
 		return 1.0;
 	},
@@ -17,7 +17,7 @@ const liquidCombustionGenerator = extendContent(SingleTypeGenerator, "liquid-com
 });
 
 /*Oil Combustion Generator*/
-const oilCombustionGenerator = extendContent(SingleTypeGenerator, "oil-combustion-generator", {
+const XZimurNoiseOilCombustionGenerator = extendContent(SingleTypeGenerator, "oil-combustion-generator", {
 		getLiquidEfficiency(liquid){
 		return 1.0;
 	},
@@ -35,7 +35,7 @@ const oilCombustionGenerator = extendContent(SingleTypeGenerator, "oil-combustio
 });
 
 /*Thermal Liquid Generator*/
-const thermalLiquidGenerator = extendContent(SingleTypeGenerator, "thermal-liquid-generator", {
+const XZimurNoiseThermalLiquidGenerator = extendContent(SingleTypeGenerator, "thermal-liquid-generator", {
 		getLiquidEfficiency(liquid){
 		return 1.0;
 	},
@@ -52,9 +52,9 @@ const thermalLiquidGenerator = extendContent(SingleTypeGenerator, "thermal-liqui
 	},
 	drawLight(tile){
 		var renderer = Vars.renderer;
-        var entity = tile.ent();
-        renderer.lights.add(tile.drawx(), tile.drawy(), (40 + Mathf.absin(10, 5)) * entity.productionEfficiency * this.size, Color.scarlet, 0.4);
-    }
+		var entity = tile.ent();
+		renderer.lights.add(tile.drawx(), tile.drawy(), (40 + Mathf.absin(10, 5)) * entity.productionEfficiency * this.size, Color.scarlet, 0.4);
+	}
 });
 
 //final print

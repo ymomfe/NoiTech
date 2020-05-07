@@ -1,0 +1,8 @@
+requirements: [
+	concrete/105
+	copper/125
+	lead/125
+	silicon/125
+	plastanium/100
+	titanium/150
+]

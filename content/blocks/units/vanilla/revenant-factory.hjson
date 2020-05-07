@@ -7,3 +7,10 @@ consumes: {
 		]
 	}
 }
+requirements: [
+	concrete/100
+	lead/150
+	silicon/200
+	plastanium/50
+	titanium/50
+]

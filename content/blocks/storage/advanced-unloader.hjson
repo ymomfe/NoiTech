@@ -2,6 +2,7 @@ type: unloader
 speed: 3.5
 category: effect
 requirements: [
+	concrete/20
 	dense-alloy/25
 	silicon/30
 	thorium/10

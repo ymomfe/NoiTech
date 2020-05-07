@@ -1,0 +1,9 @@
+type: Wall
+size: 1
+health: 600
+category: defense
+requirements: [
+	concrete/5
+	dense-alloy/4
+]
+research: dense-wall

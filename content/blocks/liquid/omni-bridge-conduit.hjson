@@ -8,6 +8,7 @@ liquidCapacity: 16
 liquidPressure: 1
 range: 4
 requirements: [
+	concrete/6
 	dense-alloy/4
 	metaglass/8
 	plastanium/8

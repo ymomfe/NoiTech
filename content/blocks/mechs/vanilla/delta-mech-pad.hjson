@@ -1,4 +1,5 @@
 requirements: [
+	concrete/100
 	copper/200
 	dense-alloy/150
 	lead/175

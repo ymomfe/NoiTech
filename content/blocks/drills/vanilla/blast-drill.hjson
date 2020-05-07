@@ -1,4 +1,5 @@
 requirements: [
+	concrete/90
 	copper/65
 	dense-alloy/80
 	silicon/60

@@ -5,6 +5,7 @@ consumes: {
 	}
 }
 requirements: [
+	concrete/70
 	dense-alloy/55
 	graphite/65
 	lead/115

@@ -1,0 +1,8 @@
+requirements: [
+	concrete/200
+	lead/225
+	silicon/325
+	surge-alloy/100
+	plastanium/300
+	titanium/350
+]

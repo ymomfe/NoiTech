@@ -1,4 +1,5 @@
 requirements: [
+	concrete/75
 	dense-alloy/105
 	graphite/75
 	lead/100

@@ -5,6 +5,7 @@ ammo: {
 	dense-alloy: standardDenseBig
 }
 requirements: [
+	concrete/175
 	copper/350
 	dense-alloy/350
 	graphite/300

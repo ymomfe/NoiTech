@@ -1,0 +1,6 @@
+requirements: [
+	concrete/35
+	lead/65
+	silicon/110
+	titanium/75
+]

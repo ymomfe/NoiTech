@@ -1,5 +1,5 @@
 /*Omni-Bridge Conduit*/
-const omniBridgeConduit = extendContent(LiquidExtendingBridge, "omni-bridge-conduit", {
+const XZimurNoiseOmniBridgeConduit = extendContent(LiquidExtendingBridge, "omni-bridge-conduit", {
 	linkValid(tile, other, checkDouble){
 		if(other == tile || other == null || tile == null) return false;
 		if(Math.pow(other.x - tile.x, 2) + Math.pow(other.y - tile.y, 2) > Math.pow(this.range + 0.5, 2)) return false;

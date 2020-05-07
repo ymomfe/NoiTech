@@ -1,5 +1,5 @@
 /*Omni-Bridge Conveyor*/
-const omniBridgeConveyor = extendContent(BufferedItemBridge, "omni-bridge-conveyor", {
+const XZimurNoiseOmniBridgeConveyor = extendContent(BufferedItemBridge, "omni-bridge-conveyor", {
 	linkValid(tile, other, checkDouble){
 		if(other == tile || other == null || tile == null) return false;
 		if(Math.pow(other.x - tile.x, 2) + Math.pow(other.y - tile.y, 2) > Math.pow(this.range + 0.5, 2)) return false;

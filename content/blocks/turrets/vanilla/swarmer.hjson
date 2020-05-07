@@ -1,4 +1,5 @@
 requirements: [
+	concrete/35
 	dense-alloy/50
 	graphite/35
 	silicon/45

@@ -1,0 +1,6 @@
+requirements: [
+	concrete/1
+	metaglass/1
+	thorium/1
+	plastanium/1
+]

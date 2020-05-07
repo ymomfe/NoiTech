@@ -1,5 +1,5 @@
 /*Condenser*/
-const condenser = extendContent(SolidPump, "condenser", {
+const XZimurNoiseCondenser = extendContent(SolidPump, "condenser", {
 	draw(tile){
    		Draw.rect(Core.atlas.find(this.name + "-bottom"), tile.drawx(), tile.drawy());
   	    Draw.color(tile.entity.liquids.current().color);
@@ -16,7 +16,7 @@ const condenser = extendContent(SolidPump, "condenser", {
 });
 
 /*Sulfur Extraction Tower*/
-const sulfurExtractionTower = extendContent(GenericCrafter, "sulfur-extraction-tower", {
+const XZimurNoiseSulfurExtractionTower = extendContent(GenericCrafter, "sulfur-extraction-tower", {
 	draw(tile){
 		Draw.rect(Core.atlas.find(this.name + "-bottom"), tile.drawx(), tile.drawy());
 		Draw.rect(Core.atlas.find(this.name + "-rotator"), tile.drawx(), tile.drawy(), tile.entity.totalProgress * 2);

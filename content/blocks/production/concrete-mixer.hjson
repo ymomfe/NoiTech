@@ -1,0 +1,30 @@
+size: 4
+health: 60
+category: crafting
+hasPower: true
+hasLiquids: true
+hasItems: true
+liquidCapacity: 240
+itemCapacity: 16
+craftTime: 120
+consumes: {
+	items: {
+		items: [
+			stone/3
+			sand/2
+		]
+	}
+	liquid: {
+		liquid: water
+		amount: 0.1
+	}
+	power: 1
+}
+outputItem: concrete/1
+requirements: [
+	dense-alloy/150
+	graphite/200
+	silicon/150
+	titanium/105
+]
+research: lava-solidifer
