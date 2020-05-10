@@ -4,6 +4,7 @@ configurable: true
 category: liquid
 update: true
 hasLiquids: true
+hasPower: false
 liquidCapacity: 16
 liquidPressure: 1
 range: 4

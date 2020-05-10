@@ -1,11 +1,17 @@
-print("Loading [sky]NoiTech[].")
-
-//blocks
-require("blocks/xzimur-noise-production")
-require("blocks/xzimur-noise-drills")
-require("blocks/xzimur-noise-distribution")
-require("blocks/xzimur-noise-liquid")
-require("blocks/xzimur-noise-power")
-
-//final print
-print("Finished loading [sky]NoiTech[].")
+//blocks-distribution
+require("blocks/distribution/xzimur-noise-omni-bridge-conveyor")
+//blocks-liquid
+require("blocks/liquid/xzimur-noise-omni-bridge-conduit")
+//blocks-drills
+require("blocks/drills/xzimur-noise-condenser")
+require("blocks/drills/xzimur-noise-sulfur-extraction-tower")
+//blocks-power
+require("blocks/power/xzimur-noise-liquid-combustion-generator")
+require("blocks/power/xzimur-noise-oil-combustion-generator")
+require("blocks/power/xzimur-noise-thermal-liquid-generator")
+//blocks-production
+require("blocks/production/xzimur-noise-concrete-mixer")
+require("blocks/production/xzimur-noise-mineral-extractor")
+require("blocks/production/xzimur-noise-heavy-oil-processor")
+require("blocks/production/xzimur-noise-light-oil-processor")
+require("blocks/production/xzimur-noise-rock-crusher")

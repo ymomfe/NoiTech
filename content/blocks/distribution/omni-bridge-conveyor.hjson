@@ -4,6 +4,7 @@ configurable: true
 category: distribution
 update: true
 hasItems: true
+hasPower: false
 bufferCapacity: 14
 range: 4
 speed: 70
