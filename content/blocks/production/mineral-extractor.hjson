@@ -5,7 +5,7 @@ hasPower: true
 hasLiquids: true
 hasItems: true
 liquidCapacity: 240
-craftTime: 15
+craftTime: 30
 consumes: {
 	liquid: {
 		liquid: water
@@ -13,7 +13,10 @@ consumes: {
 	}
 	power: 0.5
 }
-outputItem: rock-salt/1
+results:[
+	rock-salt/4
+	raw-salt/2
+	]
 requirements: [
 	copper/90
 	dense-alloy/80

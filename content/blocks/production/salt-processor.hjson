@@ -1,0 +1,32 @@
+type: genericCrafter
+size: 2
+health: 60
+category: crafting
+craftEffect: steam
+idleSound: flame
+hasPower: true
+hasItems: true
+hasLiquids: true
+liquidCapacity: 50
+itemCapacity: 10
+craftTime: 30
+consumes: {
+	items: {
+		items: [
+			raw-salt/5
+			sulfur/1
+		]
+	}
+	liquid: {
+		liquid: water
+		amount: 0.5
+	}
+	power: 0.5
+}
+outputItem: rock-salt/1
+requirements: [
+	dense-alloy/100
+	graphite/75
+	silicon/70
+]
+research: condenser

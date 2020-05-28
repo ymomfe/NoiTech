@@ -1,0 +1,6 @@
+ammo: {
+	scrap: flakScrap
+	lead: flakLead
+	metaglass: flakGlass
+	raw-salt: flakGlass
+}

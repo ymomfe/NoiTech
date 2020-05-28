@@ -1,4 +1,4 @@
-const XZimurNoiseMineralExtractor = extendContent(GenericCrafter, "mineral-extractor", {
+const XZimurNoiseMineralExtractor = extendContent(Separator, "mineral-extractor", {
 	draw(tile){
 		Draw.rect(Core.atlas.find(this.name + "-bottom"), tile.drawx(), tile.drawy());
 		Draw.color(tile.entity.liquids.current().color);

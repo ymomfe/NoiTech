@@ -2,15 +2,18 @@
 
 A Mindustry mod that aims to make game harder and add more vanilla styled things.
 
-## This mod adds / changes (this information might be outdated)
+## This mod adds / changes
 
 ### New ores:
 	* Halite
 	* Sulfur
 ### New items:
 	* Dense alloy
+	* Concrete
 	* Sludge
 	* Stone
+	* Red soil
+	* Raw salt
 ### New liquids:
 	* Heavy oil
 	* Light oil
@@ -18,20 +21,20 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Natrium
 	* Lava
 	* Tainted water
-	* Mineral water
 ### New distribution blocks:
 	* Titanium bridge
 	* Omni-bridge
-### New production block:
+### New production blocks:
+	* Mechanical miner
+	* Pneumatic miner
 	* Condesner
 	* Sulfur extraction tower
-	* Water extraction tower
 ### New liquid blocks:
 	* Liquid Distributor
 	* Titanium bridge conduit
 	* Omni-bridge conduit
 ### New power blocks:
-	* Basic combustion liquid generator
+	* Oil combustion generator
 	* Liquid combustion generator
 	* Medium battery
 	* Medium solar panel
@@ -40,9 +43,12 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Smelter
 	* Arc smelter
 	* Sifter
+	* Concrete mixer
 	* Rock crusher
+	* Salt processor
+	* De-oxider
 	* Filter
-	* Mineral Ectractor
+	* Mineral ectractor
 	* Natrium extractor
 	* Lava solidifer
 	* Stone melter
@@ -64,12 +70,14 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Typhoon
 ### Other:
 	* Dense alloy walls
+	* Concrete walls
 	* Huge door
 	* Changes some vanilla crafts and almost all vanilla blocks requirments.
 
 ## Supported languages
 	* English
 	* Russian
+	* Ukrainian
 
 ## Links
 > NoiTech Discord server: https://discord.gg/NcuNTQx
