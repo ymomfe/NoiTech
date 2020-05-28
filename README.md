@@ -48,7 +48,7 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Salt processor
 	* De-oxider
 	* Filter
-	* Mineral ectractor
+	* Mineral extractor
 	* Natrium extractor
 	* Lava solidifer
 	* Stone melter
