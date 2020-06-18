@@ -45,7 +45,7 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Rock crusher
 	* Stone Press
 	* Filter
-	* Mineral ectractor
+	* Mineral extractor
 	* Natrium extractor
 	* Lava solidifer
 	* Stone melter
