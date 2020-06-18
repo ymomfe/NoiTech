@@ -3,6 +3,7 @@ size: 2
 category: power
 powerProduction: 0.42
 requirements: [
+	concrete/10
 	graphite/30
 	lead/45
 	silicon/55		

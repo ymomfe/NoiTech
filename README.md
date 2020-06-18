@@ -10,10 +10,9 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 ### New items:
 	* Dense alloy
 	* Concrete
+	* Cement
 	* Sludge
 	* Stone
-	* Red soil
-	* Raw salt
 ### New liquids:
 	* Heavy oil
 	* Light oil
@@ -22,16 +21,14 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Lava
 	* Tainted water
 ### New distribution blocks:
-	* Titanium bridge
-	* Omni-bridge
+	* Omni-bridge conveyor
 ### New production blocks:
 	* Mechanical miner
 	* Pneumatic miner
-	* Condesner
+	* Mechanical Water Extractor
 	* Sulfur extraction tower
 ### New liquid blocks:
 	* Liquid Distributor
-	* Titanium bridge conduit
 	* Omni-bridge conduit
 ### New power blocks:
 	* Oil combustion generator
@@ -43,10 +40,10 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Smelter
 	* Arc smelter
 	* Sifter
+	* Cement mixer
 	* Concrete mixer
 	* Rock crusher
-	* Salt processor
-	* De-oxider
+	* Stone Press
 	* Filter
 	* Mineral ectractor
 	* Natrium extractor
@@ -64,8 +61,6 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Silo
 ### New turrets:
 	* Burner
-	* Radius
-	* Spearer
 	* Tsunami
 	* Typhoon
 ### Other:

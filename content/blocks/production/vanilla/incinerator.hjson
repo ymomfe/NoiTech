@@ -1,4 +1,5 @@
 requirements: [
+	concrete/5
 	dense-alloy/15
 	graphite/5
 	lead/15

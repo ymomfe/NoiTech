@@ -4,6 +4,7 @@ health: 160
 category: liquid
 liquidCapacity: 80
 requirements: [
+	concrete/3
 	graphite/16
 	metaglass/8
 ]

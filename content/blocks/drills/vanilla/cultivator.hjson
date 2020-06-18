@@ -1,4 +1,5 @@
 requirements: [
+	concrete/30
 	copper/35
 	graphite/25
 	silicon/20

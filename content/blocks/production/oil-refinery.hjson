@@ -23,8 +23,9 @@ outputLiquid: {
 	amount: 12
 }
 requirements: [
+	concrete/35
 	copper/55
 	graphite/55
 	lead/75
 ]
-research: coal-liquidifier
+research: graphite-press

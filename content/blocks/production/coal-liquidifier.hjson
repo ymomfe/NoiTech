@@ -22,6 +22,7 @@ outputLiquid: {
 	amount: 2.7
 }
 requirements: [
+	concrete/20
 	lead/65
 	graphite/40
 	titanium/30

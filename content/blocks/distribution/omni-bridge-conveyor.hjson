@@ -1,18 +1,19 @@
-size:1
-health: 180
+size:2
+health: 80
 configurable: true
 category: distribution
 update: true
 hasItems: true
 hasPower: false
-bufferCapacity: 14
-range: 4
+bufferCapacity: 16
+range: 5
 speed: 70
 requirements: [
-	concrete/6
-	dense-alloy/4
-	metaglass/8
-	plastanium/8
+	concrete/24
+	dense-alloy/16
+	graphite/16
+	lead/16
+	titanium/12
 	thorium/8
 ]
-research: armored-conveyor
+research: distributor

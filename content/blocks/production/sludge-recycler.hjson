@@ -23,6 +23,7 @@ outputLiquid: {
 	amount: 2
 }
 requirements: [
+	concrete/35
 	copper/60
 	graphite/70
 	lead/70

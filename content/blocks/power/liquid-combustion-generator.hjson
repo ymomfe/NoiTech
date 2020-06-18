@@ -13,6 +13,7 @@ consumes: {
 }
 powerProduction: 12.0
 requirements: [
+	concrete/50
 	copper/155
 	dense-alloy/75
 	graphite/100

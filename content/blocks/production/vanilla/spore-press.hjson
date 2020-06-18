@@ -1,4 +1,5 @@
 requirements: [
+	concrete/30
 	copper/45
 	lead/35
 	silicon/30

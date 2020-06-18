@@ -1,6 +1,6 @@
 type: Wall
 size: 2
-health: 2400
+health: 1600
 category: defense
 requirements: [
 	concrete/20

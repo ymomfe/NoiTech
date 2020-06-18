@@ -1,0 +1,7 @@
+requirements: [
+	concrete/70
+	copper/70
+	metaglass/50
+	titanium/35
+	silicon/20
+]

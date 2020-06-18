@@ -1,4 +1,5 @@
 requirements: [
+	concrete/25
 	dense-alloy/25
 	lead/10
 	silicon/15

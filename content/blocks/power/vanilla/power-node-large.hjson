@@ -1,0 +1,6 @@
+requirements: [
+	concrete/3
+	lead/10
+	titanium/5
+	silicon/3
+]

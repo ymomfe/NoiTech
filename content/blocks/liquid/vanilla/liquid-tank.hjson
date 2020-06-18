@@ -1,0 +1,5 @@
+requirements: [
+	concrete/20
+	metaglass/25
+	titanium/25
+]

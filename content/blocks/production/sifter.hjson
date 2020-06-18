@@ -6,12 +6,12 @@ craftEffect: pulverize
 hasPower: false
 hasLiquids: false
 hasItems: true
-itemCapacity: 6
+itemCapacity: 12
 craftTime: 30
 consumes: {
 	items: {
 		items: [
-			sand/5
+			sand/7
 		]
 	}
 }

@@ -22,6 +22,7 @@ results:[
 	thorium/1
 	]
 requirements: [
+	concrete/45
 	copper/45
 	dense-alloy/75
 	lead/45

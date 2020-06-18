@@ -1,0 +1,8 @@
+requirements: [
+	concrete/50
+	lead/100
+	thorium/50
+	silicon/75
+	plastanium/75
+	phase-fabric/25
+]

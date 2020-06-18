@@ -1,6 +1,6 @@
 type: Wall
 size: 1
-health: 600
+health: 400
 category: defense
 requirements: [
 	concrete/5

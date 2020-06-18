@@ -1,4 +1,5 @@
 requirements: [
+	concrete/200
 	copper/150
 	dense-alloy/275
 	graphite/175

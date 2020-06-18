@@ -68,6 +68,7 @@ ammo: {
 	}
 }
 requirements: [
+	concrete/50
 	copper/200
 	dense-alloy/175
 	graphite/150

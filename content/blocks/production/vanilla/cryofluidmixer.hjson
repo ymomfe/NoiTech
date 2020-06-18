@@ -4,3 +4,9 @@ consumes: {
 		amount: 0.2
 	}
 }
+requirements: [
+	concrete/100
+	lead/65
+	titanium/60
+	silicon/40
+]

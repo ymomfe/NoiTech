@@ -1,0 +1,6 @@
+requirements: [
+	concrete/5
+	metaglass/10
+	silicon/10
+	plastanium/5
+]

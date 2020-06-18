@@ -4,14 +4,14 @@ category: crafting
 hasPower: true
 hasLiquids: true
 hasItems: true
-liquidCapacity: 240
+liquidCapacity: 24
 itemCapacity: 16
-craftTime: 90
+craftTime: 60
 consumes: {
 	items: {
 		items: [
-			stone/3
-			sand/2
+			cement/2
+			copper/1
 		]
 	}
 	liquid: {
@@ -22,9 +22,9 @@ consumes: {
 }
 outputItem: concrete/1
 requirements: [
-	dense-alloy/150
-	graphite/200
-	silicon/150
-	titanium/105
+	copper/100
+	dense-alloy/115
+	graphite/120
+	lead/125
 ]
-research: lava-solidifer
+research: cement-mixer
