@@ -67,7 +67,7 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Dense alloy walls
 	* Concrete walls
 	* Huge door
-	* New enviropment blocks
+	* New environment blocks
 	* Changes some vanilla crafts and almost all vanilla blocks requirments.
 
 ## Supported languages
