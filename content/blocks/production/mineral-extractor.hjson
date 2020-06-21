@@ -9,11 +9,11 @@ craftTime: 30
 consumes: {
 	liquid: {
 		liquid: water
-		amount: 0.1
+		amount: 0.5
 	}
 	power: 0.5
 }
-outputItem: rock-salt/1
+outputItem: rock-salt/3
 requirements: [
 	concrete/80
 	copper/90
