@@ -166,3 +166,30 @@ const cement_mixer = extendContent(GenericCrafter, "cement-mixer", {
 	}
 
 });
+
+
+
+const taint_separation_plant = extendContent(Separator, "taint-separation-plant", {
+
+	load(){
+        this.super$load();
+        this.bottomRegion = Core.atlas.find(this.name + "-bottom");
+        this.liquid1Region = Core.atlas.find(this.name + "-liquid1");
+        this.spinner1Region = Core.atlas.find(this.name + "-spinner1");
+        this.topRegion = Core.atlas.find(this.name + "-top");
+    },
+
+	draw(tile){
+		Draw.rect(this.bottomRegion, tile.drawx(), tile.drawy());
+
+		Draw.color(tile.entity.liquids.current().color);
+		Draw.alpha(tile.entity.liquids.total() / this.liquidCapacity);
+		Draw.rect(this.liquid1Region, tile.drawx(), tile.drawy());
+		Draw.color();
+
+		Draw.rect(this.spinner1Region, tile.drawx(), tile.drawy() + 4, tile.entity.totalProgress * 2);
+
+		Draw.rect(this.topRegion, tile.drawx(), tile.drawy());
+	}
+
+});

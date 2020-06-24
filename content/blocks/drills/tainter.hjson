@@ -1,0 +1,33 @@
+type: cultivator
+size: 2
+health: 60
+category: production
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 10
+liquidCapacity: 10
+craftTime: 30
+consumes: {
+	items: {
+		items: [
+			spore-pod/1
+		]
+	}
+	liquid: {
+		liquid: water
+		amount: 0.16
+	}
+	power: 0.5
+}
+outputLiquid: {
+	liquid: tainted-water-liquid
+	amount: 4.8
+}
+requirements: [
+	concrete/25
+	copper/35
+	lead/20
+	silicon/25
+]
+research: cultivator

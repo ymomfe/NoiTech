@@ -30,7 +30,7 @@ const liquid_combustion_generator = extendContent(SingleTypeGenerator, "liquid-c
 
 
 
-const XZimurNoiseOilCombustionGenerator = extendContent(SingleTypeGenerator, "oil-combustion-generator", {
+const oil_combustion_generator = extendContent(SingleTypeGenerator, "oil-combustion-generator", {
 
 	load(){
         this.super$load();
@@ -62,7 +62,7 @@ const XZimurNoiseOilCombustionGenerator = extendContent(SingleTypeGenerator, "oi
 
 
 
-const XZimurNoiseThermalLiquidGenerator = extendContent(SingleTypeGenerator, "thermal-liquid-generator", {
+const thermal_liquid_generator = extendContent(SingleTypeGenerator, "thermal-liquid-generator", {
 
 	load(){
         this.super$load();

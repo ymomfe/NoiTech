@@ -1,0 +1,29 @@
+size: 4
+health: 160
+category: crafting
+hasPower: true
+hasLiquids: true
+hasItems: true
+liquidCapacity: 60
+craftTime: 60
+consumes: {
+	liquid: {
+		liquid: tainted-water-liquid
+		amount: 0.20
+	}
+	power: 1
+}
+results:[
+	rock-salt/1
+	sulfur/2
+	spore-pod/1
+	sand/2
+	]
+requirements: [
+	concrete/115
+	dense-alloy/75
+	graphite/45
+	lead/115
+	silicon/25
+]
+research: tainter

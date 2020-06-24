@@ -27,6 +27,7 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Pneumatic miner
 	* Mechanical Water Extractor
 	* Sulfur extraction tower
+	* Tainter
 ### New liquid blocks:
 	* Liquid Distributor
 	* Omni-bridge conduit
@@ -56,6 +57,7 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Sludge recycler
 	* Heavy oil processor
 	* Light oil processor
+	* Taint Separation Plant
 ### New storage blocks:
 	* Advanced unloader
 	* Silo
