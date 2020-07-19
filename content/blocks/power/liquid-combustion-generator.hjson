@@ -1,16 +1,17 @@
 size: 2
 category: power
 hasPower: true
-hasItems: true
+hasItems: false
 hasLiquids: true
+itemCapacity: 0
 liquidCapacity: 50
-itemDuration: 60
 consumes: {
 	liquid: {
 		liquid: fuel-liquid
 		amount: 0.08333
 	}
 }
+maxLiquidGenerate: 0.125
 powerProduction: 12.0
 requirements: [
 	concrete/50

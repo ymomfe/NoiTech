@@ -3,8 +3,8 @@ category: power
 hasPower: true
 hasItems: false
 hasLiquids: true
+itemCapacity: 0
 liquidCapacity: 50
-itemDuration: 60
 randomlyExplode: false 
 consumes: {
 	liquid: {
@@ -12,6 +12,7 @@ consumes: {
 		amount: 0.1
 	}
 }
+maxLiquidGenerate: 0.125
 powerProduction: 3
 requirements: [
 	dense-alloy/55
