@@ -1,0 +1,16 @@
+type: LightBlock
+size: 3
+buildVisibility: lightingOnly
+hasPower: true
+brightness: 0.81
+radius: 450
+consumes: {
+	power: 0.2
+}
+requirements: [
+	silicon/27
+	concrete/5
+	dense-alloy/15
+	graphite/20
+]
+category: effect

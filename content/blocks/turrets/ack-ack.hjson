@@ -1,0 +1,78 @@
+type: DoubleTurret
+health: 1400
+category: turret
+size: 3
+reload: 3
+range: 240
+shotWidth: 2,
+shootCone: 11
+ammoUseEffect: none
+rotatespeed: 2.9
+inaccuracy: 2
+targetGround: false
+ammo: {
+	scrap: {
+		type: FlakBulletType
+		speed: 6.2
+		recoil: 2
+		lifetime: 60
+		reloadMultiplier: 0.8
+		bulletWidth: 6
+		bulletHeight: 8
+		hitSize: 5
+		damage: 7
+		splashDamage: 25
+		splashDamageRadius: 30
+		ammoMultiplier: 5
+		hitEffect: flakExplosion
+	}
+	lead: {
+		type: FlakBulletType
+		speed: 6.2
+		recoil: 2
+		lifetime: 60
+		reloadMultiplier: 0.5
+		bulletWidth: 6
+		bulletHeight: 8
+		hitSize: 5
+		damage: 10
+		splashDamage: 35
+		splashDamageRadius: 15
+		ammoMultiplier: 4
+		hitEffect: flakExplosion
+	}
+	metaglass: {
+		type: FlakBulletType
+		speed: 6.2
+		recoil: 2
+		lifetime: 70
+		reloadMultiplier: 0.8
+		bulletWidth: 6
+		bulletHeight: 8
+		hitSize: 5
+		damage: 13
+		splashDamage: 30
+		splashDamageRadius: 30
+		ammoMultiplier: 5
+		hitEffect: flakExplosion
+		fragBullets: 5
+		fragBullet: {
+			type: BasicBulletType
+			lifetime:20
+			bulletWidth: 6
+            bulletHeight: 12
+			shrinkY: 1
+			despawnEffect: none
+			collidesGround: false
+		}
+	}
+}
+requirements: [
+	concrete/175
+	dense-alloy/185
+	graphite/140
+	lead/95
+	metaglass/25
+	titanium/95
+]
+research: scatter

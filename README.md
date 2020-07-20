@@ -65,10 +65,12 @@ A Mindustry mod that aims to make game harder and add more vanilla styled things
 	* Burner
 	* Tsunami
 	* Typhoon
+	* Ack-Ack
 ### Other:
 	* Dense alloy walls
 	* Concrete walls
 	* Huge door
+	* Large and huge illuminators
 	* New environment blocks
 	* Changes some vanilla crafts and almost all vanilla blocks requirments.
 
