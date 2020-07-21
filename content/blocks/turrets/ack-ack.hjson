@@ -7,7 +7,7 @@ range: 240
 shotWidth: 2,
 shootCone: 11
 ammoUseEffect: none
-rotatespeed: 2.9
+rotatespeed: 1.5
 inaccuracy: 2
 targetGround: false
 ammo: {
@@ -60,7 +60,7 @@ ammo: {
 			type: BasicBulletType
 			lifetime:20
 			bulletWidth: 6
-            bulletHeight: 12
+			bulletHeight: 12
 			shrinkY: 1
 			despawnEffect: none
 			collidesGround: false
